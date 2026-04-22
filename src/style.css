@@ -33,6 +33,19 @@ html, body { margin: 0; padding: 0; min-height: 100%; background: var(--bg); col
 .page { display: block; }
 .hidden { display: none !important; }
 
+/* ── 白天模式 ─────────────────────────────────────────────────────── */
+body.light {
+  --bg: #f5f5f0;
+  --fg: #1a1a1a;
+  --muted: #666;
+  --dim: #999;
+  --card: #ffffff;
+  --border: #ddd;
+  --accent: #2563eb;
+  --ok: #16a34a;
+  --err: #dc2626;
+}
+
 /* ── Tab 导航 ─────────────────────────────────────────────────────── */
 #tabs {
   display: flex; gap: 4px;
@@ -46,6 +59,13 @@ html, body { margin: 0; padding: 0; min-height: 100%; background: var(--bg); col
   touch-action: manipulation;
 }
 .tab.active { color: var(--fg); border-bottom-color: var(--accent); }
+
+#theme-toggle {
+  margin-left: auto; background: none; border: none;
+  color: var(--muted); font-size: 16px; cursor: pointer;
+  padding: 4px 8px; border-radius: 6px;
+}
+#theme-toggle:hover { color: var(--fg); }
 
 /* ── 跟打页 ─────────────────────────────────────────────────────── */
 #page-typing {

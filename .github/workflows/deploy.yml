@@ -37,11 +37,22 @@ jobs:
 
       - name: Clear custom domain
         run: |
-          curl -s -X PATCH \
+          echo "--- GET before ---"
+          curl -s -H "Authorization: Bearer ${{ secrets.PAGES_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/pages
+          echo ""
+          echo "--- PATCH (null) ---"
+          curl -s -i -X PUT \
             -H "Authorization: Bearer ${{ secrets.PAGES_TOKEN }}" \
             -H "Accept: application/vnd.github+json" \
             https://api.github.com/repos/${{ github.repository }}/pages \
-            -d '{"cname":""}'
+            -d '{"cname":null,"https_enforced":true,"build_type":"workflow"}'
+          echo ""
+          echo "--- GET after ---"
+          curl -s -H "Authorization: Bearer ${{ secrets.PAGES_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/pages
 
       - uses: actions/upload-pages-artifact@v3
         with:

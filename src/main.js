@@ -153,6 +153,18 @@ selectEl.addEventListener('change', () => {
   render()
 })
 
+// 主题切换
+const themeBtn = document.getElementById('theme-toggle')
+if (localStorage.getItem('theme') === 'light') {
+  document.body.classList.add('light')
+  themeBtn.textContent = '🌙'
+}
+themeBtn.addEventListener('click', () => {
+  const isLight = document.body.classList.toggle('light')
+  themeBtn.textContent = isLight ? '🌙' : '☀'
+  localStorage.setItem('theme', isLight ? 'light' : 'dark')
+})
+
 renderCourses()
 loadProgress()
 render()
