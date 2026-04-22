@@ -1,0 +1,42 @@
+{
+  "id": "reviews-or-advice",
+  "title": "Online Reviews or a Friend's Advice?",
+  "lessons": [
+    {
+      "translation": "Claire 和 Paul 都提出了有效的观点，但我认为他们把问题框定成了非此即彼，其实不该这样。",
+      "phrases": ["Claire and Paul", "both raise valid points,", "but I think", "they are framing this", "as an either-or question", "when it really shouldn't be."]
+    },
+    {
+      "translation": "在我看来，合适的建议来源完全取决于所购买的商品。",
+      "phrases": ["In my view,", "the right source of advice", "depends entirely", "on what is being purchased."]
+    },
+    {
+      "translation": "对于低风险、标准化的商品——比如牙膏、电池或手机充电器——Claire 说得完全正确。",
+      "phrases": ["For low-stakes, standardized goods —", "think toothpaste, batteries,", "or a phone charger —", "Claire is absolutely right."]
+    },
+    {
+      "translation": "评测网站让你在几分钟内比较几十个选项，而且由于质量差异不大，没必要为这点小事去麻烦朋友。",
+      "phrases": ["Review sites", "let you compare dozens of options", "in minutes,", "and since quality differences are minimal,", "there is no need", "to trouble a friend", "over something so small."]
+    },
+    {
+      "translation": "然而，对于个人适配度很重要的复杂购买决策，Paul 的观点就更有说服力了。",
+      "phrases": ["However,", "for complex purchases", "where personal fit matters,", "Paul's point", "becomes far more compelling."]
+    },
+    {
+      "translation": "以购买游戏笔记本为例。",
+      "phrases": ["Take buying a gaming laptop,", "for instance."]
+    },
+    {
+      "translation": "网上评测可能对 GPU 的跑分赞不绝口，但它无法告诉我那款游戏实际上是否流畅运行。",
+      "phrases": ["Online reviews", "may sing the praises", "of a GPU's benchmark scores,", "but they cannot tell me", "whether the specific game I play", "will actually run smoothly."]
+    },
+    {
+      "translation": "而一个有相同爱好的朋友，不仅能根据我的需求推荐合适的型号，还能让我亲手测试他的电脑——这是任何网站都无法复制的。",
+      "phrases": ["A friend who shares my hobby,", "on the other hand,", "can not only recommend a model", "suited to my needs", "but also let me test his own computer firsthand —", "something no website could ever replicate."]
+    },
+    {
+      "translation": "所以我的结论是：标准化产品就上网看评测，复杂的个性化购买就问朋友。",
+      "phrases": ["So I would say:", "go online", "for standardized products,", "ask friends", "for complex, personalized ones."]
+    }
+  ]
+}
