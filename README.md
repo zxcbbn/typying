@@ -1,6 +1,6 @@
-# Earthworm Lite
+# 打字
 
-极简版 earthworm：纯静态，无后端，自带文章转 JSON 工具。可本地跑、丢 GitHub Pages、或放 VPS 当静态站。
+纯静态英语跟打练习，无后端，按意群逐块打字。自带填空练习和修饰模式。可本地跑、丢 GitHub Pages 或放 VPS。
 
 ## 运行
 
