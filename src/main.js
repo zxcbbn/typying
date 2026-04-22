@@ -98,7 +98,7 @@ function render() {
       target.split('').map(ch =>
         `<span class="modifier-phrase">${ch === ' ' ? '&nbsp;' : escapeHtml(ch)}</span>`
       ).join('') +
-      `<span class="modifier-hint"> ↵</span>`
+      `<span class="modifier-hint"> Space / ↵</span>`
     input.value = ''
     state.typed = ''
     return
@@ -157,29 +157,32 @@ input.addEventListener('input', (e) => {
 })
 
 document.addEventListener('keydown', (e) => {
-  if (e.key === 'Enter') {
-    if (inModifierPause()) {
+  if (inModifierPause()) {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault()
       advance()
-    } else {
-      const target = currentPhrase()
-      if (state.typed === target || normalize(state.typed) === normalize(target)) advance()
+      if (!inModifierPause()) input.focus()
     }
+    return
+  }
+
+  if (e.key === 'Enter') {
+    const target = currentPhrase()
+    if (state.typed === target || normalize(state.typed) === normalize(target)) advance()
   } else if (e.key === 'Escape') {
     state.typed = ''
     input.value = ''
     render()
   } else if (e.key === 'Tab') {
     e.preventDefault()
-    if (!inModifierPause()) {
-      const target = currentPhrase()
-      if (state.typed.length < target.length) {
-        state.typed = target.slice(0, state.typed.length + 1)
-        input.value = state.typed
-        render()
-      }
+    const target = currentPhrase()
+    if (state.typed.length < target.length) {
+      state.typed = target.slice(0, state.typed.length + 1)
+      input.value = state.typed
+      render()
     }
   }
-  if (!inModifierPause()) input.focus()
+  input.focus()
 })
 
 document.addEventListener('click', (e) => {
