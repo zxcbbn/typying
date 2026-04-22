@@ -1,0 +1,21 @@
+{
+  "title": "Demo · 意群练习",
+  "lessons": [
+    {
+      "translation": "我明天想去公园。",
+      "phrases": ["I want to", "go to the park", "tomorrow."]
+    },
+    {
+      "translation": "你好吗？",
+      "phrases": ["How", "are you?"]
+    },
+    {
+      "translation": "很高兴认识你。",
+      "phrases": ["Nice to", "meet you."]
+    },
+    {
+      "translation": "如果明天下雨，我们就待在家里。",
+      "phrases": ["If it rains", "tomorrow,", "we'll stay", "at home."]
+    }
+  ]
+}

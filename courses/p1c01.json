@@ -1,0 +1,3256 @@
+{
+  "title": "第一章 歇洛克·福尔摩斯先生 / CHAPTER I. MR. SHERLOCK HOLMES.",
+  "lessons": [
+    {
+      "translation": "一八七八年，",
+      "phrases": [
+        "In the year 1878"
+      ]
+    },
+    {
+      "translation": "我拿到了医学博士学位。",
+      "phrases": [
+        "I",
+        "took my degree",
+        "of Doctor",
+        "of Medicine"
+      ]
+    },
+    {
+      "translation": "什么的学位？→ 伦敦大学的。",
+      "phrases": [
+        "of the University",
+        "of London,"
+      ]
+    },
+    {
+      "translation": "→ 然后前往内特利，",
+      "phrases": [
+        "and proceeded",
+        "to Netley"
+      ]
+    },
+    {
+      "translation": "去干什么？→ 去完成一门课程。",
+      "phrases": [
+        "to go",
+        "through the course"
+      ]
+    },
+    {
+      "translation": "什么样的课程？→ 为陆军外科军医规定的那种课程。",
+      "phrases": [
+        "prescribed for surgeons",
+        "in the army."
+      ]
+    },
+    {
+      "translation": "[分词-句首状语] 在那里完成学业之后 → 这是在说背景状态，接下来我怎么样了？→",
+      "phrases": [
+        "Having completed my studies there,"
+      ]
+    },
+    {
+      "translation": "我被正式编入了诺森伯兰第五燧发枪团，",
+      "phrases": [
+        "I",
+        "was duly",
+        "attached to the Fifth Northumberland Fusiliers"
+      ]
+    },
+    {
+      "translation": "作为什么身份？→ 担任助理军医。",
+      "phrases": [
+        "as Assistant Surgeon."
+      ]
+    },
+    {
+      "translation": "当时团队驻扎在印度，",
+      "phrases": [
+        "The regiment",
+        "was stationed",
+        "in India",
+        "at the time,"
+      ]
+    },
+    {
+      "translation": "而在我能赶到之前，",
+      "phrases": [
+        "and before I",
+        "could join it,"
+      ]
+    },
+    {
+      "translation": "第二次阿富汗战争已经爆发了。",
+      "phrases": [
+        "the second Afghan war",
+        "had broken out."
+      ]
+    },
+    {
+      "translation": "在孟买登陆时，",
+      "phrases": [
+        "On landing",
+        "at Bombay,"
+      ]
+    },
+    {
+      "translation": "我得知——",
+      "phrases": [
+        "I learned"
+      ]
+    },
+    {
+      "translation": "我的部队已经穿过了山口，",
+      "phrases": [
+        "that my corps",
+        "had advanced",
+        "through the passes,"
+      ]
+    },
+    {
+      "translation": "而且已经深入了敌人的腹地。",
+      "phrases": [
+        "and was already deep",
+        "in the enemy's country."
+      ]
+    },
+    {
+      "translation": "不过我还是跟了上去，",
+      "phrases": [
+        "I",
+        "followed, however,"
+      ]
+    },
+    {
+      "translation": "和许多其他军官一起。",
+      "phrases": [
+        "with many other officers"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 所谓这些军官，就是跟我处境相同的那些。",
+      "phrases": [
+        "who were",
+        "in the same situation",
+        "as myself,"
+      ]
+    },
+    {
+      "translation": "→ 成功地平安到达了坎大哈，",
+      "phrases": [
+        "and succeeded",
+        "in reaching Candahar",
+        "in safety,"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 在那里我找到了我的团队，",
+      "phrases": [
+        "where I",
+        "found my regiment,"
+      ]
+    },
+    {
+      "translation": "→ 然后立刻投入了新的职责。",
+      "phrases": [
+        "and at once",
+        "entered upon my new duties."
+      ]
+    },
+    {
+      "translation": "这场战役给许多人带来了荣誉和晋升，",
+      "phrases": [
+        "The campaign",
+        "brought honours",
+        "and promotion",
+        "to many,"
+      ]
+    },
+    {
+      "translation": "【转折】但是对我来说，",
+      "phrases": [
+        "but for me"
+      ]
+    },
+    {
+      "translation": "除了厄运和灾难，什么也没有。",
+      "phrases": [
+        "it",
+        "had nothing",
+        "but misfortune",
+        "and disaster."
+      ]
+    },
+    {
+      "translation": "我被调离了原来的旅，",
+      "phrases": [
+        "I",
+        "was",
+        "removed from my brigade"
+      ]
+    },
+    {
+      "translation": "→ 编入了伯克郡团。",
+      "phrases": [
+        "and attached",
+        "to the Berkshires,"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 我随他们参加了迈旺德那场惨烈的战役。",
+      "phrases": [
+        "with whom I served",
+        "at the fatal battle",
+        "of Maiwand."
+      ]
+    },
+    {
+      "translation": "在那里，我的肩膀被击中了。",
+      "phrases": [
+        "There I",
+        "was struck",
+        "on the shoulder"
+      ]
+    },
+    {
+      "translation": "被什么击中？→ 被一颗杰扎尔枪子弹。",
+      "phrases": [
+        "by a Jezail bullet,"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 所谓这颗子弹，打碎了骨头，",
+      "phrases": [
+        "which shattered the bone"
+      ]
+    },
+    {
+      "translation": "→ 还擦伤了锁骨下动脉。",
+      "phrases": [
+        "and grazed the subclavian artery."
+      ]
+    },
+    {
+      "translation": "【假设情况】我本来就会落入——",
+      "phrases": [
+        "I",
+        "should",
+        "have fallen"
+      ]
+    },
+    {
+      "translation": "→ 落入手中——",
+      "phrases": [
+        "into the hands"
+      ]
+    },
+    {
+      "translation": "→ 那些凶残的加齐人的手中——",
+      "phrases": [
+        "of the murderous Ghazis"
+      ]
+    },
+    {
+      "translation": "【实际情况】要不是那份忠诚和勇气。",
+      "phrases": [
+        "had it not",
+        "been for the devotion",
+        "and courage"
+      ]
+    },
+    {
+      "translation": "[分词-后置修饰] 什么样的忠诚和勇气？→ 由默里表现出来的。所谓默里，就是我的勤务兵。",
+      "phrases": [
+        "shown by Murray, my orderly,"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 他把我扔上了一匹驮马，",
+      "phrases": [
+        "who threw me",
+        "across a pack-horse,"
+      ]
+    },
+    {
+      "translation": "→ 成功地把我安全带回了英军阵线。",
+      "phrases": [
+        "and succeeded",
+        "in bringing me safely",
+        "to the British lines."
+      ]
+    },
+    {
+      "translation": "[分词-句首状语] 被疼痛折磨着，→ 这是在说我的状态，",
+      "phrases": [
+        "Worn with pain,"
+      ]
+    },
+    {
+      "translation": "又因为长期的苦难而虚弱不堪。",
+      "phrases": [
+        "and weak",
+        "from the prolonged hardships"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 什么样的苦难？→ 我所经历的那些。",
+      "phrases": [
+        "which I",
+        "had undergone,"
+      ]
+    },
+    {
+      "translation": "我被转移了。",
+      "phrases": [
+        "I",
+        "was",
+        "removed,"
+      ]
+    },
+    {
+      "translation": "和一大批伤员一起。",
+      "phrases": [
+        "with a great train",
+        "of wounded sufferers,"
+      ]
+    },
+    {
+      "translation": "转移到哪？→ 到白沙瓦的后方医院。",
+      "phrases": [
+        "to the base hospital",
+        "at Peshawar."
+      ]
+    },
+    {
+      "translation": "在这里我渐渐恢复了，",
+      "phrases": [
+        "Here I rallied,"
+      ]
+    },
+    {
+      "translation": "→ 而且已经好到了这种程度——",
+      "phrases": [
+        "and had already improved",
+        "so far"
+      ]
+    },
+    {
+      "translation": "好到什么程度？→ 好到能在病房里走动了，",
+      "phrases": [
+        "as to",
+        "be able",
+        "to walk",
+        "about the wards,"
+      ]
+    },
+    {
+      "translation": "→ 甚至能在走廊上晒晒太阳了，",
+      "phrases": [
+        "and even",
+        "to bask a little",
+        "upon the verandah,"
+      ]
+    },
+    {
+      "translation": "【情境】落地，进入【转折】→ 这时候，我又被肠热症击倒了。",
+      "phrases": [
+        "when I",
+        "was struck down",
+        "by enteric fever,"
+      ]
+    },
+    {
+      "translation": "[同位语] 所谓肠热症，就是我们在印度属地的一大祸害。",
+      "phrases": [
+        "that curse",
+        "of our Indian possessions."
+      ]
+    },
+    {
+      "translation": "好几个月，人们都觉得我活不成了。",
+      "phrases": [
+        "For months my life",
+        "was despaired",
+        "of,"
+      ]
+    },
+    {
+      "translation": "【情境】等到我终于清醒过来，",
+      "phrases": [
+        "and when",
+        "at last I",
+        "came to myself"
+      ]
+    },
+    {
+      "translation": "→ 开始恢复时，",
+      "phrases": [
+        "and became convalescent,"
+      ]
+    },
+    {
+      "translation": "【情境】落地 → 我已经虚弱憔悴到——",
+      "phrases": [
+        "I",
+        "was so weak",
+        "and emaciated"
+      ]
+    },
+    {
+      "translation": "到什么程度？→ 以至于一个医疗委员会判定——",
+      "phrases": [
+        "that a medical board determined"
+      ]
+    },
+    {
+      "translation": "判定什么？→ 一天也不能耽搁，",
+      "phrases": [
+        "that not a day",
+        "should",
+        "be",
+        "lost"
+      ]
+    },
+    {
+      "translation": "在做什么上不能耽搁？→ 在把我送回英格兰这件事上。",
+      "phrases": [
+        "in sending me back",
+        "to England."
+      ]
+    },
+    {
+      "translation": "于是我就被派遣出发了，",
+      "phrases": [
+        "I",
+        "was dispatched, accordingly,"
+      ]
+    },
+    {
+      "translation": "在哪？→ 在运兵船\"奥隆提斯号\"上，",
+      "phrases": [
+        "in the troopship \"Orontes,\""
+      ]
+    },
+    {
+      "translation": "→ 一个月后登陆了，",
+      "phrases": [
+        "and landed a month later"
+      ]
+    },
+    {
+      "translation": "在哪登陆？→ 在朴茨茅斯码头。",
+      "phrases": [
+        "on Portsmouth jetty,"
+      ]
+    },
+    {
+      "translation": "[with-描述状态] 带着什么状态？→ 我的健康已经无可挽回地毁了，",
+      "phrases": [
+        "with my health irretrievably ruined,"
+      ]
+    },
+    {
+      "translation": "【转折】但是还带着什么？→ 带着政府的一份体恤的许可，",
+      "phrases": [
+        "but with permission",
+        "from a paternal government"
+      ]
+    },
+    {
+      "translation": "许可做什么？→ 花接下来九个月的时间，",
+      "phrases": [
+        "to spend the next nine months"
+      ]
+    },
+    {
+      "translation": "花在什么上？→ 试图恢复健康。",
+      "phrases": [
+        "in attempting",
+        "to improve it."
+      ]
+    },
+    {
+      "translation": "在英格兰，我既没有亲人也没有朋友，",
+      "phrases": [
+        "I",
+        "had neither kith",
+        "nor kin",
+        "in England,"
+      ]
+    },
+    {
+      "translation": "因此就像空气一样自由——",
+      "phrases": [
+        "and was therefore",
+        "as free",
+        "as air"
+      ]
+    },
+    {
+      "translation": "或者说，自由程度相当于一份收入——",
+      "phrases": [
+        "—or as free",
+        "as an income"
+      ]
+    },
+    {
+      "translation": "→ 每天十一先令六便士那样微薄——",
+      "phrases": [
+        "of eleven shillings",
+        "and sixpence a day"
+      ]
+    },
+    {
+      "translation": "所能允许一个人那样自由。",
+      "phrases": [
+        "will permit a man",
+        "to be."
+      ]
+    },
+    {
+      "translation": "在这种情况下，",
+      "phrases": [
+        "Under such circumstances,"
+      ]
+    },
+    {
+      "translation": "我自然而然地被吸引到了伦敦。",
+      "phrases": [
+        "I naturally gravitated",
+        "to London,"
+      ]
+    },
+    {
+      "translation": "[同位语] 所谓伦敦，就是那个巨大的污水池，",
+      "phrases": [
+        "that great cesspool"
+      ]
+    },
+    {
+      "translation": "帝国所有的闲人和游荡者，",
+      "phrases": [
+        "into which all the loungers",
+        "and idlers",
+        "of the Empire"
+      ]
+    },
+    {
+      "translation": "都被不可抗拒地冲进这里。",
+      "phrases": [
+        "are irresistibly drained."
+      ]
+    },
+    {
+      "translation": "我在那里住了一段时间，",
+      "phrases": [
+        "There I stayed",
+        "for some time"
+      ]
+    },
+    {
+      "translation": "在哪住？→ 在河滨大道的一家私人旅馆，",
+      "phrases": [
+        "at a private hotel",
+        "in the Strand,"
+      ]
+    },
+    {
+      "translation": "[分词-句末伴随] 过着怎样的生活？→ 既不舒适也毫无意义，",
+      "phrases": [
+        "leading a comfortless, meaningless existence,"
+      ]
+    },
+    {
+      "translation": "→ 花着我仅有的钱，",
+      "phrases": [
+        "and spending such money",
+        "as I",
+        "had,"
+      ]
+    },
+    {
+      "translation": "花得怎么样？→ 比应该的要大手大脚得多。",
+      "phrases": [
+        "considerably more freely than I ought."
+      ]
+    },
+    {
+      "translation": "我的财务状况变得如此令人担忧，",
+      "phrases": [
+        "So alarming",
+        "did the state",
+        "of my finances become,"
+      ]
+    },
+    {
+      "translation": "以至于我很快就意识到了——",
+      "phrases": [
+        "that I soon realized"
+      ]
+    },
+    {
+      "translation": "意识到什么？→ 我要么必须离开这座大都市，",
+      "phrases": [
+        "that I",
+        "must either leave the metropolis"
+      ]
+    },
+    {
+      "translation": "→ 去乡下找个地方隐居，",
+      "phrases": [
+        "and rusticate somewhere",
+        "in the country,"
+      ]
+    },
+    {
+      "translation": "→ 要么就必须做出——",
+      "phrases": [
+        "or that I",
+        "must make"
+      ]
+    },
+    {
+      "translation": "→ 彻底的改变，",
+      "phrases": [
+        "a complete alteration"
+      ]
+    },
+    {
+      "translation": "→ 改变我整个生活方式。",
+      "phrases": [
+        "in my style",
+        "of living."
+      ]
+    },
+    {
+      "translation": "[分词-句首状语] 选择了后者之后 →",
+      "phrases": [
+        "Choosing the latter alternative,"
+      ]
+    },
+    {
+      "translation": "→ 我先是下定了决心——",
+      "phrases": [
+        "I",
+        "began by making up my mind"
+      ]
+    },
+    {
+      "translation": "→ 离开旅馆，",
+      "phrases": [
+        "to leave the hotel,"
+      ]
+    },
+    {
+      "translation": "→ 然后找个住处，",
+      "phrases": [
+        "and to take up my quarters"
+      ]
+    },
+    {
+      "translation": "什么样的住处？→ 不那么讲究、也不那么贵的地方。",
+      "phrases": [
+        "in some less pretentious",
+        "and less expensive domicile."
+      ]
+    },
+    {
+      "translation": "【情境】就在那一天，",
+      "phrases": [
+        "On the very day"
+      ]
+    },
+    {
+      "translation": "→ 就在我做出这个决定的那一天，",
+      "phrases": [
+        "that I",
+        "had come",
+        "to this conclusion,"
+      ]
+    },
+    {
+      "translation": "【情境】我正站在克莱特里恩酒吧，",
+      "phrases": [
+        "I",
+        "was standing",
+        "at the Criterion Bar,"
+      ]
+    },
+    {
+      "translation": "【情境】落地，进入【转折】→ 这时候有人拍了拍我的肩膀，",
+      "phrases": [
+        "when some one tapped me",
+        "on the shoulder,"
+      ]
+    },
+    {
+      "translation": "→ 我转过身来，",
+      "phrases": [
+        "and turning round"
+      ]
+    },
+    {
+      "translation": "认出了年轻的斯坦福德。",
+      "phrases": [
+        "I recognized young Stamford,"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 所谓斯坦福德，就是以前在巴茨医院时在我手下当过实习生的那个人。",
+      "phrases": [
+        "who had",
+        "been a dresser",
+        "under me",
+        "at Barts."
+      ]
+    },
+    {
+      "translation": "看到一张友好的面孔，",
+      "phrases": [
+        "The sight",
+        "of a friendly face"
+      ]
+    },
+    {
+      "translation": "在哪？→ 在伦敦这片偌大的荒野中，",
+      "phrases": [
+        "in the great wilderness",
+        "of London"
+      ]
+    },
+    {
+      "translation": "确实是一件愉快的事，",
+      "phrases": [
+        "is a pleasant thing indeed"
+      ]
+    },
+    {
+      "translation": "对谁来说？→ 对于一个孤身一人的人。",
+      "phrases": [
+        "to a lonely man."
+      ]
+    },
+    {
+      "translation": "从前，",
+      "phrases": [
+        "In old days"
+      ]
+    },
+    {
+      "translation": "斯坦福德从来算不上——",
+      "phrases": [
+        "Stamford",
+        "had never",
+        "been"
+      ]
+    },
+    {
+      "translation": "→ 我的密友，",
+      "phrases": [
+        "a particular crony",
+        "of mine,"
+      ]
+    },
+    {
+      "translation": "【转折】但现在我热情地招呼他，",
+      "phrases": [
+        "but now I hailed him",
+        "with enthusiasm,"
+      ]
+    },
+    {
+      "translation": "→ 而他呢，",
+      "phrases": [
+        "and he,"
+      ]
+    },
+    {
+      "translation": "[插入修饰-逗号隔开] 换到他，",
+      "phrases": [
+        "in his turn,"
+      ]
+    },
+    {
+      "translation": "→ 看起来见到我也很高兴。",
+      "phrases": [
+        "appeared to",
+        "be delighted",
+        "to see me."
+      ]
+    },
+    {
+      "translation": "在我满溢的喜悦之中，",
+      "phrases": [
+        "In the exuberance",
+        "of my joy,"
+      ]
+    },
+    {
+      "translation": "我邀请他到霍尔本餐厅跟我一起吃午饭，",
+      "phrases": [
+        "I",
+        "asked him",
+        "to lunch",
+        "with me",
+        "at the Holborn,"
+      ]
+    },
+    {
+      "translation": "→ 于是我们一起坐上一辆双轮马车出发了。",
+      "phrases": [
+        "and we",
+        "started off together",
+        "in a hansom."
+      ]
+    },
+    {
+      "translation": "\"华生，你这些日子到底经历了什么？\"",
+      "phrases": [
+        "\"Whatever",
+        "have you",
+        "been doing",
+        "with yourself, Watson?\""
+      ]
+    },
+    {
+      "translation": "他带着毫不掩饰的惊讶问道，",
+      "phrases": [
+        "he",
+        "asked in undisguised wonder,"
+      ]
+    },
+    {
+      "translation": "【情境】当我们的马车颠簸着驶过拥挤的伦敦街头时。",
+      "phrases": [
+        "as we rattled",
+        "through the crowded London streets."
+      ]
+    },
+    {
+      "translation": "\"你瘦得跟木板条似的，",
+      "phrases": [
+        "\"You",
+        "are as thin",
+        "as a lath"
+      ]
+    },
+    {
+      "translation": "→ 黑得跟个核桃一样。\"",
+      "phrases": [
+        "and as brown",
+        "as a nut.\""
+      ]
+    },
+    {
+      "translation": "我简单地给他讲了讲我的经历，",
+      "phrases": [
+        "I",
+        "gave him a short sketch",
+        "of my adventures,"
+      ]
+    },
+    {
+      "translation": "→ 还没怎么说完，",
+      "phrases": [
+        "and had hardly concluded it"
+      ]
+    },
+    {
+      "translation": "我们就到了目的地。",
+      "phrases": [
+        "by the time",
+        "that we reached our destination."
+      ]
+    },
+    {
+      "translation": "\"可怜的家伙！\"他同情地说，",
+      "phrases": [
+        "\"Poor devil!\" he",
+        "said, commiseratingly,"
+      ]
+    },
+    {
+      "translation": "在听完我的遭遇之后。",
+      "phrases": [
+        "after he",
+        "had listened",
+        "to my misfortunes."
+      ]
+    },
+    {
+      "translation": "\"你现在打算干什么？\"",
+      "phrases": [
+        "\"What",
+        "are you up",
+        "to now?\""
+      ]
+    },
+    {
+      "translation": "\"找住处，\"我回答。",
+      "phrases": [
+        "\"Looking for lodgings,\" I",
+        "answered."
+      ]
+    },
+    {
+      "translation": "\"想解决一个问题：",
+      "phrases": [
+        "\"Trying to solve the problem"
+      ]
+    },
+    {
+      "translation": "什么问题？→ 关于是否可能——",
+      "phrases": [
+        "as to whether it",
+        "is possible"
+      ]
+    },
+    {
+      "translation": "用合理的价钱找到舒适的房间。\"",
+      "phrases": [
+        "to get comfortable rooms",
+        "at a reasonable price.\""
+      ]
+    },
+    {
+      "translation": "\"这可真巧了，\"我的同伴说，",
+      "phrases": [
+        "\"That's a strange thing,\" remarked my companion;"
+      ]
+    },
+    {
+      "translation": "\"你是今天第二个人，",
+      "phrases": [
+        "\"you",
+        "are the second man to-day"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 第二个跟我说这话的人。\"",
+      "phrases": [
+        "that has used",
+        "that expression",
+        "to me.\""
+      ]
+    },
+    {
+      "translation": "\"第一个是谁？\"我问。",
+      "phrases": [
+        "\"And who",
+        "was the first?\" I",
+        "asked."
+      ]
+    },
+    {
+      "translation": "\"一个家伙，",
+      "phrases": [
+        "\"A fellow"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 所谓这个家伙，就是在化学实验室工作的那个。",
+      "phrases": [
+        "who is working",
+        "at the chemical laboratory"
+      ]
+    },
+    {
+      "translation": "在哪？→ 在医院那边。",
+      "phrases": [
+        "up at the hospital."
+      ]
+    },
+    {
+      "translation": "他今天早上还在抱怨，",
+      "phrases": [
+        "He",
+        "was bemoaning himself this morning"
+      ]
+    },
+    {
+      "translation": "【原因】因为什么？→ 因为他找不到一个人，",
+      "phrases": [
+        "because he",
+        "could not get someone"
+      ]
+    },
+    {
+      "translation": "找人干什么？→ 来跟他合租分摊，",
+      "phrases": [
+        "to go halves",
+        "with him"
+      ]
+    },
+    {
+      "translation": "分摊什么？→ 一些不错的房间。",
+      "phrases": [
+        "in some nice rooms"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 所谓这些房间，就是他找到的那种。",
+      "phrases": [
+        "which he",
+        "had",
+        "found,"
+      ]
+    },
+    {
+      "translation": "[并列 which] 而且这些房间还怎么样？→ 对他的钱包来说太贵了。\"",
+      "phrases": [
+        "and which",
+        "were too much",
+        "for his purse.\""
+      ]
+    },
+    {
+      "translation": "\"天哪！\"我叫道，",
+      "phrases": [
+        "\"By Jove!\" I",
+        "cried,"
+      ]
+    },
+    {
+      "translation": "\"如果他真的想找个人，",
+      "phrases": [
+        "\"if he really wants someone"
+      ]
+    },
+    {
+      "translation": "来分享房间和费用，",
+      "phrases": [
+        "to share the rooms",
+        "and the expense,"
+      ]
+    },
+    {
+      "translation": "那我就是最合适的人选。",
+      "phrases": [
+        "I",
+        "am the very man",
+        "for him."
+      ]
+    },
+    {
+      "translation": "比起一个人住，我更愿意有个室友。\"",
+      "phrases": [
+        "I",
+        "should prefer having a partner",
+        "to being alone.\""
+      ]
+    },
+    {
+      "translation": "年轻的斯坦福德有些奇怪地看着我，",
+      "phrases": [
+        "Young Stamford",
+        "looked rather strangely",
+        "at me"
+      ]
+    },
+    {
+      "translation": "隔着他的酒杯。",
+      "phrases": [
+        "over his wine-glass."
+      ]
+    },
+    {
+      "translation": "\"你还不了解歇洛克·福尔摩斯，\"他说，",
+      "phrases": [
+        "\"You don't know Sherlock Holmes",
+        "yet,\" he",
+        "said;"
+      ]
+    },
+    {
+      "translation": "\"也许你不会愿意要他——",
+      "phrases": [
+        "\"perhaps you",
+        "would not care",
+        "for him"
+      ]
+    },
+    {
+      "translation": "→ 做你的长期伴侣。\"",
+      "phrases": [
+        "as a constant companion.\""
+      ]
+    },
+    {
+      "translation": "\"怎么了，他有什么不好？\"",
+      "phrases": [
+        "\"Why, what",
+        "is there",
+        "against him?\""
+      ]
+    },
+    {
+      "translation": "\"哦，我并没说他有什么不好。",
+      "phrases": [
+        "\"Oh, I didn't say there",
+        "was anything",
+        "against him."
+      ]
+    },
+    {
+      "translation": "他的想法有些古怪——",
+      "phrases": [
+        "He",
+        "is a little queer",
+        "in his ideas"
+      ]
+    },
+    {
+      "translation": "[同位语] 在某些科学分支上算是个狂热分子。",
+      "phrases": [
+        "—an enthusiast",
+        "in some branches",
+        "of science."
+      ]
+    },
+    {
+      "translation": "据我所知，",
+      "phrases": [
+        "As far",
+        "as I know"
+      ]
+    },
+    {
+      "translation": "他人还是相当不错的。\"",
+      "phrases": [
+        "he",
+        "is a decent fellow enough.\""
+      ]
+    },
+    {
+      "translation": "\"我猜是个医学生？\"我说。",
+      "phrases": [
+        "\"A medical student, I suppose?\"",
+        "said I."
+      ]
+    },
+    {
+      "translation": "\"不——我根本不知道",
+      "phrases": [
+        "\"No—I",
+        "have no idea"
+      ]
+    },
+    {
+      "translation": "他想从事什么行业。",
+      "phrases": [
+        "what he intends",
+        "to go",
+        "in for."
+      ]
+    },
+    {
+      "translation": "我知道他精通解剖学，",
+      "phrases": [
+        "I believe he",
+        "is well up",
+        "in anatomy,"
+      ]
+    },
+    {
+      "translation": "→ 化学也是一流的；",
+      "phrases": [
+        "and he",
+        "is a first-class chemist;"
+      ]
+    },
+    {
+      "translation": "【转折】但据我所知，",
+      "phrases": [
+        "but, as far",
+        "as I know,"
+      ]
+    },
+    {
+      "translation": "他从来没有系统地上过什么医学课程。",
+      "phrases": [
+        "he",
+        "has never taken out any systematic medical classes."
+      ]
+    },
+    {
+      "translation": "他的研究非常零散、非常古怪，",
+      "phrases": [
+        "His studies",
+        "are very desultory",
+        "and eccentric,"
+      ]
+    },
+    {
+      "translation": "【转折】但他积累了大量冷门知识，",
+      "phrases": [
+        "but he",
+        "has amassed a lot",
+        "of out-of-the-way knowledge"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 什么样的知识？→ 足以让教授们大吃一惊的那种。\"",
+      "phrases": [
+        "which would astonish his professors.\""
+      ]
+    },
+    {
+      "translation": "\"你从来没问过他——",
+      "phrases": [
+        "\"Did you never ask him"
+      ]
+    },
+    {
+      "translation": "→ 他想往哪个方向发展吗？\"",
+      "phrases": [
+        "what he",
+        "was going",
+        "in for?\""
+      ]
+    },
+    {
+      "translation": "我问。",
+      "phrases": [
+        "I asked."
+      ]
+    },
+    {
+      "translation": "\"没有。他这个人",
+      "phrases": [
+        "\"No; he",
+        "is not a man"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 不是容易套出话来的那种人，",
+      "phrases": [
+        "that it",
+        "is easy",
+        "to draw out,"
+      ]
+    },
+    {
+      "translation": "【让步】虽然他也能侃侃而谈——",
+      "phrases": [
+        "though he",
+        "can",
+        "be communicative enough"
+      ]
+    },
+    {
+      "translation": "【情境】当他兴致来了的时候。\"",
+      "phrases": [
+        "when the fancy seizes him.\""
+      ]
+    },
+    {
+      "translation": "\"我倒想见见他，\"我说。",
+      "phrases": [
+        "\"I",
+        "should like",
+        "to meet him,\" I",
+        "said."
+      ]
+    },
+    {
+      "translation": "【条件】如果我要跟人合住的话，",
+      "phrases": [
+        "\"If I",
+        "am to lodge",
+        "with anyone,"
+      ]
+    },
+    {
+      "translation": "【结果】我更希望对方是个爱学习、性格安静的人。",
+      "phrases": [
+        "I",
+        "should prefer a man",
+        "of studious",
+        "and quiet habits."
+      ]
+    },
+    {
+      "translation": "我现在身体还不够结实，",
+      "phrases": [
+        "I",
+        "am not strong enough",
+        "yet"
+      ]
+    },
+    {
+      "translation": "不够结实到什么程度？→ 受不了太多的吵闹和刺激。",
+      "phrases": [
+        "to stand much noise",
+        "or excitement."
+      ]
+    },
+    {
+      "translation": "在阿富汗我经历的那些，",
+      "phrases": [
+        "I",
+        "had enough",
+        "of both",
+        "in Afghanistan"
+      ]
+    },
+    {
+      "translation": "够我这辈子受的了。",
+      "phrases": [
+        "to last me",
+        "for the remainder",
+        "of my natural existence."
+      ]
+    },
+    {
+      "translation": "你的这位朋友，我怎么才能见到他？\"",
+      "phrases": [
+        "How",
+        "could I meet this friend",
+        "of yours?\""
+      ]
+    },
+    {
+      "translation": "\"他肯定在实验室，\"",
+      "phrases": [
+        "\"He",
+        "is sure",
+        "to be",
+        "at the laboratory,\""
+      ]
+    },
+    {
+      "translation": "我的同伴回答。",
+      "phrases": [
+        "returned my companion."
+      ]
+    },
+    {
+      "translation": "\"他要么一连好几个星期不去那儿，",
+      "phrases": [
+        "\"He either avoids the place",
+        "for weeks,"
+      ]
+    },
+    {
+      "translation": "【选项B】要么就从早到晚泡在那里。",
+      "phrases": [
+        "or else he works there",
+        "from morning",
+        "to night."
+      ]
+    },
+    {
+      "translation": "【条件】如果你愿意的话，",
+      "phrases": [
+        "If you like,"
+      ]
+    },
+    {
+      "translation": "【结果】我们吃完午饭一起过去。\"",
+      "phrases": [
+        "we",
+        "shall drive round together",
+        "after luncheon.\""
+      ]
+    },
+    {
+      "translation": "\"当然好，\"我答道，",
+      "phrases": [
+        "\"Certainly,\" I",
+        "answered,"
+      ]
+    },
+    {
+      "translation": "→ 话题随即转向了其他方面。",
+      "phrases": [
+        "and the conversation drifted away",
+        "into other channels."
+      ]
+    },
+    {
+      "translation": "【情境】当我们朝医院走去时，",
+      "phrases": [
+        "As we",
+        "made our way",
+        "to the hospital"
+      ]
+    },
+    {
+      "translation": "在什么之后？→ 离开霍尔本餐厅之后，",
+      "phrases": [
+        "after leaving the Holborn,"
+      ]
+    },
+    {
+      "translation": "斯坦福德又跟我多介绍了一些细节，",
+      "phrases": [
+        "Stamford",
+        "gave me a few more particulars"
+      ]
+    },
+    {
+      "translation": "关于谁的？→ 关于那位先生的，",
+      "phrases": [
+        "about the gentleman"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 所谓那位先生，就是我打算合租的那个人。",
+      "phrases": [
+        "whom I proposed",
+        "to take",
+        "as a fellow-lodger."
+      ]
+    },
+    {
+      "translation": "\"如果你跟他合不来，可别怪我，\"",
+      "phrases": [
+        "\"You mustn't blame me"
+      ]
+    },
+    {
+      "translation": "他说，",
+      "phrases": [
+        "if you don't get",
+        "on with him,\" he",
+        "said;"
+      ]
+    },
+    {
+      "translation": "\"我对他所知的，",
+      "phrases": [
+        "\"I know nothing more",
+        "of him"
+      ]
+    },
+    {
+      "translation": "→ 也不比这多——",
+      "phrases": [
+        "than I",
+        "have learned"
+      ]
+    },
+    {
+      "translation": "→ 不过是偶尔碰到时知道的那点——",
+      "phrases": [
+        "from meeting him occasionally"
+      ]
+    },
+    {
+      "translation": "→ 在实验室里碰到时。",
+      "phrases": [
+        "in the laboratory."
+      ]
+    },
+    {
+      "translation": "是你提出这个安排的，",
+      "phrases": [
+        "You proposed this arrangement,"
+      ]
+    },
+    {
+      "translation": "所以你不能让我负责。\"",
+      "phrases": [
+        "so you",
+        "must not hold me responsible.\""
+      ]
+    },
+    {
+      "translation": "【条件】如果我们合不来的话，",
+      "phrases": [
+        "\"If we don't get",
+        "on"
+      ]
+    },
+    {
+      "translation": "【结果】分开就是了，\"我回答。",
+      "phrases": [
+        "it",
+        "will",
+        "be easy",
+        "to part company,\" I",
+        "answered."
+      ]
+    },
+    {
+      "translation": "\"斯坦福德，我觉得，\"我补充道，",
+      "phrases": [
+        "\"It seems",
+        "to me, Stamford,\" I added,"
+      ]
+    },
+    {
+      "translation": "[分词-句末伴随] 紧盯着我的同伴，",
+      "phrases": [
+        "looking hard",
+        "at my companion,"
+      ]
+    },
+    {
+      "translation": "\"你好像有什么理由，",
+      "phrases": [
+        "\"that you",
+        "have some reason"
+      ]
+    },
+    {
+      "translation": "什么理由？→ 想撇清此事的理由。",
+      "phrases": [
+        "for washing your hands",
+        "of the matter."
+      ]
+    },
+    {
+      "translation": "这位仁兄的脾气很可怕吗？还是怎么回事？",
+      "phrases": [
+        "Is this fellow's temper",
+        "so formidable,",
+        "or what",
+        "is it?"
+      ]
+    },
+    {
+      "translation": "别吞吞吐吐的。\"",
+      "phrases": [
+        "Don't",
+        "be mealy-mouthed",
+        "about it.\""
+      ]
+    },
+    {
+      "translation": "\"这不容易——",
+      "phrases": [
+        "\"It",
+        "is not easy"
+      ]
+    },
+    {
+      "translation": "→ 没法表达的东西就是没法表达，\"",
+      "phrases": [
+        "to express the inexpressible,\""
+      ]
+    },
+    {
+      "translation": "他笑着回答。",
+      "phrases": [
+        "he",
+        "answered with a laugh."
+      ]
+    },
+    {
+      "translation": "\"福尔摩斯在科学上有点太较真了，超出了我的口味——",
+      "phrases": [
+        "\"Holmes",
+        "is a little too scientific",
+        "for my tastes"
+      ]
+    },
+    {
+      "translation": "→ 简直有点冷血。",
+      "phrases": [
+        "—it approaches",
+        "to cold-bloodedness."
+      ]
+    },
+    {
+      "translation": "我能想象他会给朋友来一小撮——",
+      "phrases": [
+        "I",
+        "could imagine his giving a friend a little pinch"
+      ]
+    },
+    {
+      "translation": "一小撮什么？→ 最新的植物生物碱，",
+      "phrases": [
+        "of the latest vegetable alkaloid,"
+      ]
+    },
+    {
+      "translation": "别误会，不是出于恶意，",
+      "phrases": [
+        "not out",
+        "of malevolence, you understand,"
+      ]
+    },
+    {
+      "translation": "【转折】而纯粹是出于探究精神，",
+      "phrases": [
+        "but simply out",
+        "of a spirit",
+        "of inquiry"
+      ]
+    },
+    {
+      "translation": "【目的】为了什么？→ 为了准确了解一下效果。",
+      "phrases": [
+        "in order",
+        "to have an accurate idea",
+        "of the effects."
+      ]
+    },
+    {
+      "translation": "公平地说，",
+      "phrases": [
+        "To do him justice,"
+      ]
+    },
+    {
+      "translation": "→ 我觉得他自己也会吞下去的——",
+      "phrases": [
+        "I think",
+        "that he",
+        "would take it himself"
+      ]
+    },
+    {
+      "translation": "→ 同样干脆利落地。",
+      "phrases": [
+        "with the same readiness."
+      ]
+    },
+    {
+      "translation": "他似乎有一种热情——",
+      "phrases": [
+        "He appears",
+        "to have a passion"
+      ]
+    },
+    {
+      "translation": "对什么的热情？→ 对精确而确定的知识。\"",
+      "phrases": [
+        "for definite",
+        "and exact knowledge.\""
+      ]
+    },
+    {
+      "translation": "\"这也没什么不对。\"",
+      "phrases": [
+        "\"Very right too.\""
+      ]
+    },
+    {
+      "translation": "\"没错，【转折】但凡事过度就不好了。",
+      "phrases": [
+        "\"Yes, but it",
+        "may",
+        "be pushed",
+        "to excess."
+      ]
+    },
+    {
+      "translation": "【情境】当他去敲打实验体时——",
+      "phrases": [
+        "When it comes",
+        "to beating the subjects"
+      ]
+    },
+    {
+      "translation": "→ 在解剖室里，用棍子，",
+      "phrases": [
+        "in the dissecting-rooms",
+        "with a stick,"
+      ]
+    },
+    {
+      "translation": "事情就变得相当古怪了。\"",
+      "phrases": [
+        "it",
+        "is certainly taking rather a bizarre shape.\""
+      ]
+    },
+    {
+      "translation": "\"敲打尸体！\"",
+      "phrases": [
+        "\"Beating the subjects!\""
+      ]
+    },
+    {
+      "translation": "\"是的，为了验证",
+      "phrases": [
+        "\"Yes, to verify"
+      ]
+    },
+    {
+      "translation": "验证什么？→ 人死后还能产生多少淤青。",
+      "phrases": [
+        "how far bruises",
+        "may",
+        "be produced",
+        "after death."
+      ]
+    },
+    {
+      "translation": "我亲眼看见过。\"",
+      "phrases": [
+        "I",
+        "saw him",
+        "at it",
+        "with my own eyes.\""
+      ]
+    },
+    {
+      "translation": "\"可你又说他不是医学生？\"",
+      "phrases": [
+        "\"And yet you say he",
+        "is not a medical student?\""
+      ]
+    },
+    {
+      "translation": "\"不是。天知道",
+      "phrases": [
+        "\"No. Heaven knows"
+      ]
+    },
+    {
+      "translation": "他研究的目的是什么。",
+      "phrases": [
+        "what the objects",
+        "of his studies",
+        "are."
+      ]
+    },
+    {
+      "translation": "不过我们到了，",
+      "phrases": [
+        "But here we",
+        "are,"
+      ]
+    },
+    {
+      "translation": "→ 你自己去了解他吧。\"",
+      "phrases": [
+        "and you",
+        "must form your own impressions",
+        "about him.\""
+      ]
+    },
+    {
+      "translation": "他说着，",
+      "phrases": [
+        "As he",
+        "spoke,"
+      ]
+    },
+    {
+      "translation": "我们拐进一条窄巷，",
+      "phrases": [
+        "we",
+        "turned down a narrow lane"
+      ]
+    },
+    {
+      "translation": "→ 穿过一扇小侧门，",
+      "phrases": [
+        "and passed",
+        "through a small side-door,"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 这扇门通往这所大医院的一个侧翼。",
+      "phrases": [
+        "which opened",
+        "into a wing",
+        "of the great hospital."
+      ]
+    },
+    {
+      "translation": "这地方我很熟悉，",
+      "phrases": [
+        "It",
+        "was familiar ground",
+        "to me,"
+      ]
+    },
+    {
+      "translation": "→ 不用人领路。",
+      "phrases": [
+        "and I needed no guiding"
+      ]
+    },
+    {
+      "translation": "【情境】我们沿着阴冷的石阶拾级而上，",
+      "phrases": [
+        "as we ascended the bleak stone staircase"
+      ]
+    },
+    {
+      "translation": "→ 走过长长的走廊，",
+      "phrases": [
+        "and made our way down the long corridor"
+      ]
+    },
+    {
+      "translation": "[with-描述特点] 走廊两侧是什么样的？→ 刷白的墙壁和灰褐色的门。",
+      "phrases": [
+        "with its vista",
+        "of whitewashed wall",
+        "and dun-coloured doors."
+      ]
+    },
+    {
+      "translation": "在走廊尽头附近，",
+      "phrases": [
+        "Near the further end"
+      ]
+    },
+    {
+      "translation": "一条低矮的拱形通道从走廊岔开，",
+      "phrases": [
+        "a low arched passage branched away",
+        "from it"
+      ]
+    },
+    {
+      "translation": "→ 通往化学实验室。",
+      "phrases": [
+        "and led",
+        "to the chemical laboratory."
+      ]
+    },
+    {
+      "translation": "这是一间高大的房间，",
+      "phrases": [
+        "This",
+        "was a lofty chamber,"
+      ]
+    },
+    {
+      "translation": "[分词-后置修饰] 什么样的房间？→ 四壁排满了、到处散落着无数瓶瓶罐罐。",
+      "phrases": [
+        "lined and littered",
+        "with countless bottles."
+      ]
+    },
+    {
+      "translation": "宽大的矮桌散布其间，",
+      "phrases": [
+        "Broad, low tables",
+        "were scattered",
+        "about,"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 这些桌子上怎么样？→ 竖着密密麻麻的蒸馏瓶、试管和小小的本生灯，",
+      "phrases": [
+        "which bristled",
+        "with retorts, test-tubes,",
+        "and little Bunsen lamps,"
+      ]
+    },
+    {
+      "translation": "[with-描述特点] 本生灯什么样？→ 蓝色的火苗闪烁跳动。",
+      "phrases": [
+        "with their blue flickering flames."
+      ]
+    },
+    {
+      "translation": "房间里只有一个人，",
+      "phrases": [
+        "There",
+        "was only one student",
+        "in the room,"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 正俯身在远处的桌子上，",
+      "phrases": [
+        "who was bending",
+        "over a distant table"
+      ]
+    },
+    {
+      "translation": "[分词-后置修饰] 全神贯注地工作着。",
+      "phrases": [
+        "absorbed in his work."
+      ]
+    },
+    {
+      "translation": "听到我们的脚步声，",
+      "phrases": [
+        "At the sound",
+        "of our steps"
+      ]
+    },
+    {
+      "translation": "他抬头看了一眼，",
+      "phrases": [
+        "he glanced round"
+      ]
+    },
+    {
+      "translation": "→ 随即跳了起来，发出一声欢呼。",
+      "phrases": [
+        "and sprang",
+        "to his feet",
+        "with a cry",
+        "of pleasure."
+      ]
+    },
+    {
+      "translation": "\"我找到了！我找到了！\"",
+      "phrases": [
+        "\"I've",
+        "found it! I've",
+        "found it,\""
+      ]
+    },
+    {
+      "translation": "他朝着我的同伴喊道，",
+      "phrases": [
+        "he shouted",
+        "to my companion,"
+      ]
+    },
+    {
+      "translation": "[分词-句末伴随] 一边跑向我们，手里拿着一根试管。",
+      "phrases": [
+        "running towards us",
+        "with a test-tube",
+        "in his hand."
+      ]
+    },
+    {
+      "translation": "\"我发现了一种试剂，",
+      "phrases": [
+        "\"I",
+        "have",
+        "found a re-agent"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 什么样的试剂？→ 能被血红蛋白沉淀的，",
+      "phrases": [
+        "which is precipitated",
+        "by hæmoglobin,"
+      ]
+    },
+    {
+      "translation": "→ 而且只有血红蛋白能让它沉淀。\"",
+      "phrases": [
+        "and by nothing else.\""
+      ]
+    },
+    {
+      "translation": "【假设情况】就算他发现了一座金矿，",
+      "phrases": [
+        "Had he discovered a gold mine,"
+      ]
+    },
+    {
+      "translation": "【实际情况】脸上也不会比现在更光彩照人。",
+      "phrases": [
+        "greater delight",
+        "could not",
+        "have shone",
+        "upon his features."
+      ]
+    },
+    {
+      "translation": "\"华生医生，这位是歇洛克·福尔摩斯先生，\"斯坦福德为我们做了介绍。",
+      "phrases": [
+        "\"Dr. Watson, Mr. Sherlock Holmes,\"",
+        "said Stamford, introducing us."
+      ]
+    },
+    {
+      "translation": "\"你好，\"他热情地说，",
+      "phrases": [
+        "\"How",
+        "are you?\" he",
+        "said cordially,"
+      ]
+    },
+    {
+      "translation": "[分词-句末伴随] 紧紧握住我的手，力道——",
+      "phrases": [
+        "gripping my hand",
+        "with a strength"
+      ]
+    },
+    {
+      "translation": "什么样的力道？→ 我简直想不到他会有那么大的力气。",
+      "phrases": [
+        "for which I",
+        "should hardly",
+        "have given him credit."
+      ]
+    },
+    {
+      "translation": "\"你从阿富汗回来的吧。\"",
+      "phrases": [
+        "\"You",
+        "have",
+        "been in Afghanistan, I perceive.\""
+      ]
+    },
+    {
+      "translation": "\"你到底怎么知道的？\"",
+      "phrases": [
+        "\"How on earth",
+        "did you know",
+        "that?\""
+      ]
+    },
+    {
+      "translation": "我大为吃惊地问。",
+      "phrases": [
+        "I",
+        "asked in astonishment."
+      ]
+    },
+    {
+      "translation": "\"别在意，\"他咯咯笑着自言自语。",
+      "phrases": [
+        "\"Never mind,\"",
+        "said he, chuckling",
+        "to himself."
+      ]
+    },
+    {
+      "translation": "\"现在的问题是血红蛋白。",
+      "phrases": [
+        "\"The question now",
+        "is about hæmoglobin."
+      ]
+    },
+    {
+      "translation": "你一定看出了其中的重要性——",
+      "phrases": [
+        "No doubt you see the significance"
+      ]
+    },
+    {
+      "translation": "→ 我这个发现的重要性吧？\"",
+      "phrases": [
+        "of this discovery",
+        "of mine?\""
+      ]
+    },
+    {
+      "translation": "\"从化学角度来说，当然很有意思，\"我回答，",
+      "phrases": [
+        "\"It",
+        "is interesting, chemically, no doubt,\" I",
+        "answered,"
+      ]
+    },
+    {
+      "translation": "【转折】\"但从实用角度——\"",
+      "phrases": [
+        "\"but practically——\""
+      ]
+    },
+    {
+      "translation": "\"天哪，这是最实用的——",
+      "phrases": [
+        "\"Why, man, it",
+        "is the most practical"
+      ]
+    },
+    {
+      "translation": "→ 多少年来最实用的法医学发现。",
+      "phrases": [
+        "medico-legal discovery",
+        "for years."
+      ]
+    },
+    {
+      "translation": "你难道没看出来，",
+      "phrases": [
+        "Don't you see"
+      ]
+    },
+    {
+      "translation": "这给了我们一种检验血迹的万无一失的方法吗？",
+      "phrases": [
+        "that it gives us an infallible test",
+        "for blood stains."
+      ]
+    },
+    {
+      "translation": "过来这边！\"",
+      "phrases": [
+        "Come over here now!\""
+      ]
+    },
+    {
+      "translation": "他急切地一把抓住我的衣袖，",
+      "phrases": [
+        "He seized me",
+        "by the coat-sleeve",
+        "in his eagerness,"
+      ]
+    },
+    {
+      "translation": "→ 把我拽到那张桌子旁，",
+      "phrases": [
+        "and drew me",
+        "over to the table"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 就是他刚才工作的那张桌子。",
+      "phrases": [
+        "at which he",
+        "had",
+        "been working."
+      ]
+    },
+    {
+      "translation": "\"我们来弄点新鲜血液，\"他说，",
+      "phrases": [
+        "\"Let us",
+        "have some fresh blood,\" he",
+        "said,"
+      ]
+    },
+    {
+      "translation": "[分词-句末伴随] 一边把一根长针刺进自己的手指，",
+      "phrases": [
+        "digging a long bodkin",
+        "into his finger,"
+      ]
+    },
+    {
+      "translation": "→ 吸取流出的那滴血——",
+      "phrases": [
+        "and drawing off the resulting drop",
+        "of blood"
+      ]
+    },
+    {
+      "translation": "→ 用化学移液管。",
+      "phrases": [
+        "in a chemical pipette."
+      ]
+    },
+    {
+      "translation": "\"现在，我把这一丁点血——",
+      "phrases": [
+        "\"Now, I add this small quantity",
+        "of blood"
+      ]
+    },
+    {
+      "translation": "→ 加到一升水里。",
+      "phrases": [
+        "to a litre",
+        "of water."
+      ]
+    },
+    {
+      "translation": "你看，",
+      "phrases": [
+        "You perceive"
+      ]
+    },
+    {
+      "translation": "得到的混合液看起来跟纯净水一样。",
+      "phrases": [
+        "that the resulting mixture",
+        "has the appearance",
+        "of pure water."
+      ]
+    },
+    {
+      "translation": "血的比例——",
+      "phrases": [
+        "The proportion",
+        "of blood"
+      ]
+    },
+    {
+      "translation": "→ 不会超过百万分之一。",
+      "phrases": [
+        "cannot",
+        "be more than one",
+        "in a million."
+      ]
+    },
+    {
+      "translation": "不过我毫不怀疑，",
+      "phrases": [
+        "I",
+        "have no doubt, however,"
+      ]
+    },
+    {
+      "translation": "我们仍然能得到那个特征反应。\"",
+      "phrases": [
+        "that we",
+        "shall",
+        "be able",
+        "to obtain the characteristic reaction.\""
+      ]
+    },
+    {
+      "translation": "说着，",
+      "phrases": [
+        "As he",
+        "spoke,"
+      ]
+    },
+    {
+      "translation": "他往容器里丢了几粒白色晶体，",
+      "phrases": [
+        "he",
+        "threw into the vessel a few white crystals,"
+      ]
+    },
+    {
+      "translation": "→ 然后加了几滴透明的液体。",
+      "phrases": [
+        "and then added some drops",
+        "of a transparent fluid."
+      ]
+    },
+    {
+      "translation": "一瞬间，",
+      "phrases": [
+        "In an instant"
+      ]
+    },
+    {
+      "translation": "溶液变成了暗红褐色，",
+      "phrases": [
+        "the contents assumed a dull mahogany colour,"
+      ]
+    },
+    {
+      "translation": "→ 一些棕色的沉淀物沉降下来——",
+      "phrases": [
+        "and a brownish dust",
+        "was precipitated"
+      ]
+    },
+    {
+      "translation": "→ 沉到玻璃罐底部。",
+      "phrases": [
+        "to the bottom",
+        "of the glass jar."
+      ]
+    },
+    {
+      "translation": "\"哈！哈！\"他叫道，",
+      "phrases": [
+        "\"Ha! ha!\" he",
+        "cried,"
+      ]
+    },
+    {
+      "translation": "[分词-句末伴随] 拍着手，",
+      "phrases": [
+        "clapping his hands,"
+      ]
+    },
+    {
+      "translation": "→ 高兴得像个孩子——",
+      "phrases": [
+        "and looking",
+        "as delighted",
+        "as a child"
+      ]
+    },
+    {
+      "translation": "→ 拿到新玩具的孩子。",
+      "phrases": [
+        "with a new toy."
+      ]
+    },
+    {
+      "translation": "\"你觉得怎么样？\"",
+      "phrases": [
+        "\"What",
+        "do you think",
+        "of that?\""
+      ]
+    },
+    {
+      "translation": "\"看起来是个非常灵敏的测试，\"我说。",
+      "phrases": [
+        "\"It seems",
+        "to be a very delicate test,\" I remarked."
+      ]
+    },
+    {
+      "translation": "\"太好了！太好了！",
+      "phrases": [
+        "\"Beautiful! beautiful!"
+      ]
+    },
+    {
+      "translation": "旧的愈创木酯测试又笨又不可靠。",
+      "phrases": [
+        "The old Guiacum test",
+        "was very clumsy",
+        "and uncertain."
+      ]
+    },
+    {
+      "translation": "用显微镜检查血球也是一样。",
+      "phrases": [
+        "So is the microscopic examination",
+        "for blood corpuscles."
+      ]
+    },
+    {
+      "translation": "后者毫无用处，",
+      "phrases": [
+        "The latter",
+        "is valueless"
+      ]
+    },
+    {
+      "translation": "【条件】如果血迹过了几个小时的话。",
+      "phrases": [
+        "if the stains",
+        "are a few hours old."
+      ]
+    },
+    {
+      "translation": "而现在这种方法看起来一样有效，",
+      "phrases": [
+        "Now, this appears",
+        "to act",
+        "as well"
+      ]
+    },
+    {
+      "translation": "不管血是新的还是旧的。",
+      "phrases": [
+        "whether the blood",
+        "is old",
+        "or new."
+      ]
+    },
+    {
+      "translation": "【假设情况】如果这个测试早发明出来的话，",
+      "phrases": [
+        "Had this test",
+        "been invented,"
+      ]
+    },
+    {
+      "translation": "现在这世上有好几百个人，",
+      "phrases": [
+        "there",
+        "are hundreds",
+        "of men now walking the earth"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 早就该付出代价——",
+      "phrases": [
+        "who would long ago",
+        "have paid"
+      ]
+    },
+    {
+      "translation": "→ 为他们的罪行付出代价的那些人。\"",
+      "phrases": [
+        "the penalty",
+        "of their crimes.\""
+      ]
+    },
+    {
+      "translation": "\"真的！\"我低声说。",
+      "phrases": [
+        "\"Indeed!\" I murmured."
+      ]
+    },
+    {
+      "translation": "\"刑事案件不断地系于这一个关键点上。",
+      "phrases": [
+        "\"Criminal cases",
+        "are continually hinging",
+        "upon that one point."
+      ]
+    },
+    {
+      "translation": "一个人被怀疑犯了罪——",
+      "phrases": [
+        "A man",
+        "is suspected",
+        "of a crime"
+      ]
+    },
+    {
+      "translation": "也许是好几个月之后。",
+      "phrases": [
+        "months perhaps",
+        "after it",
+        "has",
+        "been committed."
+      ]
+    },
+    {
+      "translation": "检查他的衬衫或衣服，",
+      "phrases": [
+        "His linen",
+        "or clothes",
+        "are examined,"
+      ]
+    },
+    {
+      "translation": "→ 发现上面有棕色的斑点。",
+      "phrases": [
+        "and brownish stains discovered",
+        "upon them."
+      ]
+    },
+    {
+      "translation": "那是血迹还是泥迹，",
+      "phrases": [
+        "Are they blood stains,",
+        "or mud stains,"
+      ]
+    },
+    {
+      "translation": "→ 是锈迹还是果汁痕迹，",
+      "phrases": [
+        "or rust stains,",
+        "or fruit stains,"
+      ]
+    },
+    {
+      "translation": "→ 还是别的什么？",
+      "phrases": [
+        "or what",
+        "are they?"
+      ]
+    },
+    {
+      "translation": "这个问题",
+      "phrases": [
+        "That is a question"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 难倒了许多专家。",
+      "phrases": [
+        "which has puzzled many an expert,"
+      ]
+    },
+    {
+      "translation": "为什么？",
+      "phrases": [
+        "and why?"
+      ]
+    },
+    {
+      "translation": "【原因】因为没有可靠的检测方法。",
+      "phrases": [
+        "Because there",
+        "was no reliable test."
+      ]
+    },
+    {
+      "translation": "现在我们有了歇洛克·福尔摩斯测试法，",
+      "phrases": [
+        "Now we",
+        "have the Sherlock Holmes' test,"
+      ]
+    },
+    {
+      "translation": "→ 以后就再也不会有困难了。\"",
+      "phrases": [
+        "and there",
+        "will no longer",
+        "be any difficulty.\""
+      ]
+    },
+    {
+      "translation": "他说这话时，眼睛闪闪发光，",
+      "phrases": [
+        "His eyes fairly glittered",
+        "as he",
+        "spoke,"
+      ]
+    },
+    {
+      "translation": "→ 他把手放在胸前，",
+      "phrases": [
+        "and he",
+        "put his hand",
+        "over his heart"
+      ]
+    },
+    {
+      "translation": "→ 鞠了一躬，",
+      "phrases": [
+        "and bowed"
+      ]
+    },
+    {
+      "translation": "仿佛面前有一群喝彩的观众，",
+      "phrases": [
+        "as if",
+        "to some applauding crowd"
+      ]
+    },
+    {
+      "translation": "[分词-后置修饰] 什么样的观众？→ 由他的想象力召唤出来的。",
+      "phrases": [
+        "conjured up",
+        "by his imagination."
+      ]
+    },
+    {
+      "translation": "\"恭喜你了，\"我说，",
+      "phrases": [
+        "\"You",
+        "are to",
+        "be congratulated,\" I remarked,"
+      ]
+    },
+    {
+      "translation": "[分词-后置修饰] 对他的热情颇为惊讶。",
+      "phrases": [
+        "considerably surprised",
+        "at his enthusiasm."
+      ]
+    },
+    {
+      "translation": "\"有冯·毕肖夫那个案子——",
+      "phrases": [
+        "\"There",
+        "was the case",
+        "of Von Bischoff"
+      ]
+    },
+    {
+      "translation": "→ 去年在法兰克福的那件。",
+      "phrases": [
+        "at Frankfort last year."
+      ]
+    },
+    {
+      "translation": "他肯定会被绞死的，",
+      "phrases": [
+        "He",
+        "would certainly",
+        "have",
+        "been hung"
+      ]
+    },
+    {
+      "translation": "【假设情况】如果当时有这个测试的话。",
+      "phrases": [
+        "had this test",
+        "been in existence."
+      ]
+    },
+    {
+      "translation": "还有布拉德福德的梅森案，",
+      "phrases": [
+        "Then there",
+        "was Mason",
+        "of Bradford,"
+      ]
+    },
+    {
+      "translation": "→ 臭名昭著的穆勒案，",
+      "phrases": [
+        "and the notorious Muller,"
+      ]
+    },
+    {
+      "translation": "→ 蒙彼利埃的勒费弗尔案，",
+      "phrases": [
+        "and Lefevre",
+        "of Montpellier,"
+      ]
+    },
+    {
+      "translation": "→ 新奥尔良的萨姆森案。",
+      "phrases": [
+        "and Samson",
+        "of New Orleans."
+      ]
+    },
+    {
+      "translation": "我能说出几十个案子，",
+      "phrases": [
+        "I",
+        "could name a score",
+        "of cases"
+      ]
+    },
+    {
+      "translation": "[介词-后置修饰] 什么样的案子？→ 有了这个测试就能一锤定音的那种。\"",
+      "phrases": [
+        "in which it",
+        "would",
+        "have",
+        "been decisive.\""
+      ]
+    },
+    {
+      "translation": "\"你简直就是一部行走的犯罪年鉴，\"",
+      "phrases": [
+        "\"You seem",
+        "to be a walking calendar",
+        "of crime,\""
+      ]
+    },
+    {
+      "translation": "斯坦福德笑道。",
+      "phrases": [
+        "said Stamford",
+        "with a laugh."
+      ]
+    },
+    {
+      "translation": "\"你可以照这个路子办一份报纸。",
+      "phrases": [
+        "\"You",
+        "might start a paper",
+        "on those lines."
+      ]
+    },
+    {
+      "translation": "就叫'往日警讯'好了。\"",
+      "phrases": [
+        "Call it the 'Police News",
+        "of the Past.'\""
+      ]
+    },
+    {
+      "translation": "\"读起来肯定也挺有意思，\"",
+      "phrases": [
+        "\"Very interesting reading it",
+        "might",
+        "be",
+        "made, too,\""
+      ]
+    },
+    {
+      "translation": "歇洛克·福尔摩斯说道，",
+      "phrases": [
+        "remarked Sherlock Holmes,"
+      ]
+    },
+    {
+      "translation": "[分词-句末伴随] 一边贴了一小块膏药——",
+      "phrases": [
+        "sticking a small piece",
+        "of plaster"
+      ]
+    },
+    {
+      "translation": "→ 贴在手指的刺破处上。",
+      "phrases": [
+        "over the prick",
+        "on his finger."
+      ]
+    },
+    {
+      "translation": "\"我得小心点，\"他继续说道，",
+      "phrases": [
+        "\"I",
+        "have to",
+        "be careful,\" he continued,"
+      ]
+    },
+    {
+      "translation": "[分词-句末伴随] 转向我，笑着，",
+      "phrases": [
+        "turning to me",
+        "with a smile,"
+      ]
+    },
+    {
+      "translation": "【原因】\"因为我常常跟毒药打交道。\"",
+      "phrases": [
+        "\"for I dabble",
+        "with poisons a good deal.\""
+      ]
+    },
+    {
+      "translation": "他一边说一边伸出手来，",
+      "phrases": [
+        "He",
+        "held out his hand",
+        "as he",
+        "spoke,"
+      ]
+    },
+    {
+      "translation": "→ 我注意到",
+      "phrases": [
+        "and I",
+        "noticed"
+      ]
+    },
+    {
+      "translation": "→ 他的手上斑斑点点——",
+      "phrases": [
+        "that it",
+        "was all mottled",
+        "over"
+      ]
+    },
+    {
+      "translation": "→ 到处贴着同样的膏药，",
+      "phrases": [
+        "with similar pieces",
+        "of plaster,"
+      ]
+    },
+    {
+      "translation": "→ 还被强酸腐蚀得斑驳变色。",
+      "phrases": [
+        "and discoloured",
+        "with strong acids."
+      ]
+    },
+    {
+      "translation": "\"我们可是来办正事的，\"斯坦福德说，",
+      "phrases": [
+        "\"We",
+        "came here",
+        "on business,\"",
+        "said Stamford,"
+      ]
+    },
+    {
+      "translation": "[分词-句末伴随] 坐到一张高高的三脚凳上，",
+      "phrases": [
+        "sitting down",
+        "on a high three-legged stool,"
+      ]
+    },
+    {
+      "translation": "→ 用脚把另一张推到我跟前。",
+      "phrases": [
+        "and pushing another one",
+        "in my direction",
+        "with his foot."
+      ]
+    },
+    {
+      "translation": "\"我这位朋友想找个住处，",
+      "phrases": [
+        "\"My friend here wants",
+        "to take diggings,"
+      ]
+    },
+    {
+      "translation": "【原因】而你又在抱怨",
+      "phrases": [
+        "and as you",
+        "were complaining"
+      ]
+    },
+    {
+      "translation": "→ 找不到一个人——",
+      "phrases": [
+        "that you",
+        "could get no one"
+      ]
+    },
+    {
+      "translation": "→ 愿意跟你合租，",
+      "phrases": [
+        "to go halves",
+        "with you,"
+      ]
+    },
+    {
+      "translation": "我想不如把你们撮合到一起。\"",
+      "phrases": [
+        "I",
+        "thought that I",
+        "had better bring you together.\""
+      ]
+    },
+    {
+      "translation": "歇洛克·福尔摩斯显得很高兴",
+      "phrases": [
+        "Sherlock Holmes",
+        "seemed delighted"
+      ]
+    },
+    {
+      "translation": "对什么感到高兴？→ 对跟我合住的提议。",
+      "phrases": [
+        "at the idea",
+        "of sharing his rooms",
+        "with me."
+      ]
+    },
+    {
+      "translation": "\"我看中了一套房子——",
+      "phrases": [
+        "\"I",
+        "have my eye",
+        "on a suite"
+      ]
+    },
+    {
+      "translation": "→ 贝克街上的，\"他说，",
+      "phrases": [
+        "in Baker Street,\" he",
+        "said,"
+      ]
+    },
+    {
+      "translation": "[定从-句尾补充] 什么样的房子？→ 对我们来说再合适不过的那种。",
+      "phrases": [
+        "\"which",
+        "would suit us down",
+        "to the ground."
+      ]
+    },
+    {
+      "translation": "你不介意浓烟草的味道吧？\"",
+      "phrases": [
+        "You don't mind the smell",
+        "of strong tobacco, I hope?\""
+      ]
+    },
+    {
+      "translation": "\"我自己也抽'水手烟'，\"我回答。",
+      "phrases": [
+        "\"I always smoke 'ship's' myself,\" I",
+        "answered."
+      ]
+    },
+    {
+      "translation": "\"那就行。",
+      "phrases": [
+        "\"That's good enough."
+      ]
+    },
+    {
+      "translation": "我身边通常都是化学药品，",
+      "phrases": [
+        "I generally",
+        "have chemicals",
+        "about,"
+      ]
+    },
+    {
+      "translation": "→ 偶尔做做实验。",
+      "phrases": [
+        "and occasionally",
+        "do experiments."
+      ]
+    },
+    {
+      "translation": "你会反感吗？\"",
+      "phrases": [
+        "Would that annoy you?\""
+      ]
+    },
+    {
+      "translation": "\"完全不会。\"",
+      "phrases": [
+        "\"By no means.\""
+      ]
+    },
+    {
+      "translation": "\"让我想想——我还有什么别的缺点。",
+      "phrases": [
+        "\"Let me see—what",
+        "are my other shortcomings."
+      ]
+    },
+    {
+      "translation": "我有时会心情低落，",
+      "phrases": [
+        "I get",
+        "in the dumps",
+        "at times,"
+      ]
+    },
+    {
+      "translation": "→ 一连好几天不开口。",
+      "phrases": [
+        "and don't open my mouth",
+        "for days",
+        "on end."
+      ]
+    },
+    {
+      "translation": "你别以为我在闹脾气——",
+      "phrases": [
+        "You",
+        "must not think I",
+        "am sulky"
+      ]
+    },
+    {
+      "translation": "→ 遇到这种情况的时候。",
+      "phrases": [
+        "when I",
+        "do that."
+      ]
+    },
+    {
+      "translation": "让我一个人待着就好，很快就没事了。",
+      "phrases": [
+        "Just",
+        "let me alone,",
+        "and I'll soon",
+        "be right."
+      ]
+    },
+    {
+      "translation": "你有什么要坦白的？",
+      "phrases": [
+        "What",
+        "have you",
+        "to confess now?"
+      ]
+    },
+    {
+      "translation": "这倒是好的——",
+      "phrases": [
+        "It's just",
+        "as well"
+      ]
+    },
+    {
+      "translation": "→ 让两个人摸清各自最糟糕的一面，",
+      "phrases": [
+        "for two fellows",
+        "to know the worst"
+      ]
+    },
+    {
+      "translation": "→ 彼此的那面。",
+      "phrases": [
+        "of one another"
+      ]
+    },
+    {
+      "translation": "在开始一起生活之前。\"",
+      "phrases": [
+        "before they begin",
+        "to live together.\""
+      ]
+    },
+    {
+      "translation": "我笑了笑，觉得这简直像是一场面试。",
+      "phrases": [
+        "I laughed",
+        "at this cross-examination."
+      ]
+    },
+    {
+      "translation": "\"我养了一只牛头犬，\"我说，",
+      "phrases": [
+        "\"I keep a bull pup,\" I",
+        "said,"
+      ]
+    },
+    {
+      "translation": "\"我受不了吵闹，",
+      "phrases": [
+        "\"and I object",
+        "to rows"
+      ]
+    },
+    {
+      "translation": "【原因】因为我的神经不太好，",
+      "phrases": [
+        "because my nerves",
+        "are shaken,"
+      ]
+    },
+    {
+      "translation": "→ 我还总是在各种不像话的时间起床，",
+      "phrases": [
+        "and I get up",
+        "at all sorts",
+        "of ungodly hours,"
+      ]
+    },
+    {
+      "translation": "→ 而且我极其懒散。",
+      "phrases": [
+        "and I",
+        "am extremely lazy."
+      ]
+    },
+    {
+      "translation": "等我身体好了还有另一套毛病，",
+      "phrases": [
+        "I",
+        "have another",
+        "set of vices",
+        "when I'm well,"
+      ]
+    },
+    {
+      "translation": "不过目前主要就是这些。\"",
+      "phrases": [
+        "but those",
+        "are the principal ones",
+        "at present.\""
+      ]
+    },
+    {
+      "translation": "\"你觉得拉小提琴——",
+      "phrases": [
+        "\"Do you include violin-playing"
+      ]
+    },
+    {
+      "translation": "→ 算在你说的吵闹里吗？\"",
+      "phrases": [
+        "in your category",
+        "of rows?\""
+      ]
+    },
+    {
+      "translation": "他焦虑地问。",
+      "phrases": [
+        "he",
+        "asked, anxiously."
+      ]
+    },
+    {
+      "translation": "\"那要看是谁拉的，\"我回答。",
+      "phrases": [
+        "\"It depends",
+        "on the player,\" I",
+        "answered."
+      ]
+    },
+    {
+      "translation": "\"拉得好的小提琴简直是天赐的享受——",
+      "phrases": [
+        "\"A well-played violin",
+        "is a treat",
+        "for the gods"
+      ]
+    },
+    {
+      "translation": "拉得差的嘛——\"",
+      "phrases": [
+        "—a badly-played one——\""
+      ]
+    },
+    {
+      "translation": "\"哦，那就没问题了，\"他开心地笑着说。",
+      "phrases": [
+        "\"Oh, that's all right,\" he",
+        "cried, with a merry laugh."
+      ]
+    },
+    {
+      "translation": "\"我想我们可以认为这事就这么定了——",
+      "phrases": [
+        "\"I think we",
+        "may consider the thing",
+        "as settled"
+      ]
+    },
+    {
+      "translation": "当然，前提是你对房子也满意。\"",
+      "phrases": [
+        "—that",
+        "is, if the rooms",
+        "are agreeable",
+        "to you.\""
+      ]
+    },
+    {
+      "translation": "\"什么时候去看？\"",
+      "phrases": [
+        "\"When",
+        "shall we see them?\""
+      ]
+    },
+    {
+      "translation": "\"明天中午来这儿找我，",
+      "phrases": [
+        "\"Call for me here",
+        "at noon to-morrow,"
+      ]
+    },
+    {
+      "translation": "我们一起去把一切敲定，\"他说。",
+      "phrases": [
+        "and we'll go together",
+        "and settle everything,\" he",
+        "answered."
+      ]
+    },
+    {
+      "translation": "\"好的——明天中午整，\"我握着他的手说。",
+      "phrases": [
+        "\"All right—noon exactly,\"",
+        "said I, shaking his hand."
+      ]
+    },
+    {
+      "translation": "我们告别了他，留他继续在化学药品中忙活。",
+      "phrases": [
+        "We",
+        "left him working",
+        "among his chemicals,"
+      ]
+    },
+    {
+      "translation": "→ 我们一起朝我住的旅馆走去。",
+      "phrases": [
+        "and we",
+        "walked together towards my hotel."
+      ]
+    },
+    {
+      "translation": "\"对了，\"我突然问道，",
+      "phrases": [
+        "\"By the way,\" I",
+        "asked suddenly,"
+      ]
+    },
+    {
+      "translation": "[分词-句末伴随] 停下脚步，转向斯坦福德，",
+      "phrases": [
+        "stopping and turning",
+        "upon Stamford,"
+      ]
+    },
+    {
+      "translation": "\"他到底怎么知道——",
+      "phrases": [
+        "\"how the deuce",
+        "did he know"
+      ]
+    },
+    {
+      "translation": "→ 我是从阿富汗回来的？\"",
+      "phrases": [
+        "that I",
+        "had come",
+        "from Afghanistan?\""
+      ]
+    },
+    {
+      "translation": "我的同伴露出一个神秘的微笑。",
+      "phrases": [
+        "My companion smiled an enigmatical smile."
+      ]
+    },
+    {
+      "translation": "\"这就是他的小怪癖，\"他说。",
+      "phrases": [
+        "\"That's just his little peculiarity,\" he",
+        "said."
+      ]
+    },
+    {
+      "translation": "\"很多人都想知道",
+      "phrases": [
+        "\"A good many people",
+        "have wanted",
+        "to know"
+      ]
+    },
+    {
+      "translation": "他是怎么看出这些事的。\"",
+      "phrases": [
+        "how he finds things out.\""
+      ]
+    },
+    {
+      "translation": "\"哦！原来是个谜？\"我搓着双手叫道。",
+      "phrases": [
+        "\"Oh! a mystery",
+        "is it?\" I",
+        "cried, rubbing my hands."
+      ]
+    },
+    {
+      "translation": "\"这可太有意思了。",
+      "phrases": [
+        "\"This",
+        "is very piquant."
+      ]
+    },
+    {
+      "translation": "非常感谢你把我们凑到一起。",
+      "phrases": [
+        "I",
+        "am much obliged",
+        "to you",
+        "for bringing us together."
+      ]
+    },
+    {
+      "translation": "'对人类最恰当的研究对象就是人本身'嘛。\"",
+      "phrases": [
+        "'The proper study",
+        "of mankind",
+        "is man,' you know.\""
+      ]
+    },
+    {
+      "translation": "\"那你可得好好研究研究他了，\"斯坦福德说道，",
+      "phrases": [
+        "\"You",
+        "must study him, then,\" Stamford",
+        "said,"
+      ]
+    },
+    {
+      "translation": "跟我告别时。",
+      "phrases": [
+        "as he bade me good-bye."
+      ]
+    },
+    {
+      "translation": "\"不过你会发现他是个不容易解开的难题。",
+      "phrases": [
+        "\"You'll find him a knotty problem,",
+        "though."
+      ]
+    },
+    {
+      "translation": "我敢打赌，他了解你——",
+      "phrases": [
+        "I'll wager he learns more",
+        "about you"
+      ]
+    },
+    {
+      "translation": "→ 会比你了解他更多、更快。",
+      "phrases": [
+        "than you",
+        "about him."
+      ]
+    },
+    {
+      "translation": "再见。\"",
+      "phrases": [
+        "Good-bye.\""
+      ]
+    },
+    {
+      "translation": "\"再见，\"我回答，",
+      "phrases": [
+        "\"Good-bye,\" I",
+        "answered,"
+      ]
+    },
+    {
+      "translation": "→ 然后悠然朝旅馆走去，",
+      "phrases": [
+        "and strolled",
+        "on to my hotel,"
+      ]
+    },
+    {
+      "translation": "[分词-后置修饰] 对我的这位新相识颇为好奇。",
+      "phrases": [
+        "considerably interested",
+        "in my new acquaintance."
+      ]
+    }
+  ]
+}

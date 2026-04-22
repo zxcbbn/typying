@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Earthworm Lite</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <nav id="tabs">
+      <button class="tab active" data-tab="typing">跟打</button>
+      <button class="tab" data-tab="cloze">填空</button>
+    </nav>
+
+    <!-- 跟打页 -->
+    <main id="page-typing" class="page">
+      <header>
+        <select id="course-select"></select>
+        <span id="progress"></span>
+      </header>
+      <section id="stage">
+        <p id="translation"></p>
+        <div id="slots" aria-hidden="true"></div>
+        <div id="answer" aria-live="polite"></div>
+        <input id="input" type="text" autocomplete="off" spellcheck="false"
+               autocapitalize="off" placeholder="输入当前短语" />
+      </section>
+      <footer>
+        <kbd>Enter</kbd> 下一短语 · <kbd>Esc</kbd> 清空 · <kbd>Tab</kbd> 提示一个字母
+      </footer>
+    </main>
+
+    <!-- 填空页 -->
+    <main id="page-cloze" class="page hidden">
+      <div id="cloze-select-screen">
+        <p class="cloze-hint">选择一篇文章开始填空练习</p>
+        <div id="cloze-list"></div>
+      </div>
+
+      <div id="cloze-exercise" class="hidden">
+        <div id="round-tabs"></div>
+        <p id="round-desc"></p>
+        <div id="round-content"></div>
+        <div id="cloze-footer">
+          <button id="back-to-list">← 返回</button>
+          <span id="cloze-progress"></span>
+        </div>
+      </div>
+    </main>
+
+    <script type="module" src="/src/main.js"></script>
+    <script type="module" src="/src/cloze.js"></script>
+  </body>
+</html>

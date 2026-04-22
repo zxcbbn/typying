@@ -1,0 +1,15 @@
+{
+  "name": "earthworm-lite",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "text2json": "node tools/text2json.mjs"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
