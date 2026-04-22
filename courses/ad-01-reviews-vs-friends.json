@@ -1,0 +1,49 @@
+{
+  "title": "AD #1 · Reviews vs Friends (Path A)",
+  "lessons": [
+    {
+      "translation": "我认为最好的来源取决于你买的是什么。",
+      "phrases": ["I think", "the better source depends on", "what you are buying."]
+    },
+    {
+      "translation": "Claire 和 Paul 都各选一边，好像这套答案适用于所有购买，但真正的分界线在标准化产品与个性化产品之间。",
+      "phrases": ["Claire and Paul both pick one side", "as if it fits all purchases,", "but the real line runs", "between standard products", "and personal products."]
+    },
+    {
+      "translation": "对于标准化商品——手机、笔记本、电池、电饭煲——网络测评明显胜出。",
+      "phrases": ["For standard goods —", "phones, laptops, batteries, rice cookers —", "online reviews clearly win."]
+    },
+    {
+      "translation": "这些产品有清晰的参数，每位买家拿到的是同一版本，所以你读的测评越多，越接近真相。",
+      "phrases": ["These products have clear numbers", "and the same version", "goes to every buyer,", "so the more reviews you read,", "the closer you get to the truth."]
+    },
+    {
+      "translation": "我朋友只用过一部手机；而测评网站有一万名用户的数据。",
+      "phrases": ["My friend has only used one phone;", "a review website has data", "from ten thousand users."]
+    },
+    {
+      "translation": "这种情况下，速度和数量都指向网络。",
+      "phrases": ["In this case", "speed and volume", "both point to the internet."]
+    },
+    {
+      "translation": "对于个性化商品——鞋子、衣服、护肤品、生日礼物——朋友大幅胜出。",
+      "phrases": ["For personal goods —", "shoes, clothes, skin care, a birthday gift —", "friends win by a wide margin."]
+    },
+    {
+      "translation": "跑鞋每只脚穿着感受都不一样，一千个陌生人的评价对我自己几乎没帮助。",
+      "phrases": ["Running shoes fit differently", "on every foot,", "and a thousand strangers' ratings", "tell me very little", "about my own."]
+    },
+    {
+      "translation": "一个陪我跑了一年的室友，十分钟就能挑出合适的鞋。",
+      "phrases": ["A roommate", "who has jogged with me", "for a year", "can pick the right pair", "in ten minutes."]
+    },
+    {
+      "translation": "礼物也是同样的逻辑：陌生人的评论不会了解我母亲的品味，我姐姐会。",
+      "phrases": ["The same logic", "holds for gifts:", "a stranger's review", "cannot know my mother's taste;", "my sister can."]
+    },
+    {
+      "translation": "所以公道的答案不是非此即彼，而是为不同东西选对渠道：标准化看网络，个性化问朋友。",
+      "phrases": ["So the fair answer", "is not either-or", "but which-for-what:", "online for the standard,", "friends for the personal."]
+    }
+  ]
+}
