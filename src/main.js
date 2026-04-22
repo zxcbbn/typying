@@ -7,12 +7,28 @@ const slotsEl = $('slots')
 const translationEl = $('translation')
 const progressEl = $('progress')
 const selectEl = $('course-select')
+const modifierBtn = $('modifier-toggle')
+
+// Phrase-starters that signal a modifier (prep phrase, adverbial, relative clause)
+const MODIFIER_STARTERS = new Set([
+  'in','on','at','for','with','by','of','from','to','into','as','about',
+  'over','under','through','between','among','after','before','during',
+  'when','where','which','who','whom','whose','although','because',
+  'since','if','unless','while','though',
+  'suited','something','not','but also',
+])
+
+function isModifier(phrase) {
+  const first = phrase.trim().split(/\s+/)[0].toLowerCase().replace(/[,.\-—]+$/, '')
+  return MODIFIER_STARTERS.has(first)
+}
 
 const state = {
   courseId: localStorage.getItem('courseId') || courses[0].id,
   lessonIdx: 0,
   phraseIdx: 0,
   typed: '',
+  modifierMode: localStorage.getItem('modifierMode') === '1',
 }
 
 function currentCourse() {
@@ -23,6 +39,9 @@ function currentLesson() {
 }
 function currentPhrase() {
   return currentLesson().phrases[state.phraseIdx]
+}
+function inModifierPause() {
+  return state.modifierMode && isModifier(currentPhrase())
 }
 
 function loadProgress() {
@@ -57,20 +76,35 @@ function render() {
   const phrases = lesson.phrases
   const phraseIdx = state.phraseIdx
 
-  // 顶部：当前 chunk 的中文注释（来自 translation 字段，只有一条）
   translationEl.textContent = lesson.translation || ''
   progressEl.textContent = `${state.lessonIdx + 1} / ${course.lessons.length}`
 
-  // slots：每个短语一格
+  // slots
   slotsEl.innerHTML = phrases.map((p, i) => {
     let cls = 'slot'
     if (i < phraseIdx) cls += ' slot-done'
-    else if (i === phraseIdx) cls += ' slot-active'
+    else if (i === phraseIdx) {
+      cls += state.modifierMode && isModifier(p) ? ' slot-modifier' : ' slot-active'
+    }
     return `<span class="${cls}" style="width:${Math.max(p.length * 9, 32)}px"></span>`
   }).join('')
 
-  // 当前 chunk 逐字符渲染
   const target = currentPhrase()
+
+  if (inModifierPause()) {
+    // Show the modifier phrase with a label — no typing needed
+    answerEl.innerHTML =
+      `<span class="modifier-tag">修饰</span> ` +
+      target.split('').map(ch =>
+        `<span class="modifier-phrase">${ch === ' ' ? '&nbsp;' : escapeHtml(ch)}</span>`
+      ).join('') +
+      `<span class="modifier-hint"> ↵</span>`
+    input.value = ''
+    state.typed = ''
+    return
+  }
+
+  // Normal typing render
   const typed = state.typed
   let html = ''
   for (let i = 0; i < target.length; i++) {
@@ -116,6 +150,7 @@ function advance() {
 }
 
 input.addEventListener('input', (e) => {
+  if (inModifierPause()) { input.value = ''; return }
   state.typed = e.target.value
   render()
   if (state.typed === currentPhrase()) advance()
@@ -123,26 +158,32 @@ input.addEventListener('input', (e) => {
 
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Enter') {
-    const target = currentPhrase()
-    if (state.typed === target || normalize(state.typed) === normalize(target)) advance()
+    if (inModifierPause()) {
+      advance()
+    } else {
+      const target = currentPhrase()
+      if (state.typed === target || normalize(state.typed) === normalize(target)) advance()
+    }
   } else if (e.key === 'Escape') {
     state.typed = ''
     input.value = ''
     render()
   } else if (e.key === 'Tab') {
     e.preventDefault()
-    const target = currentPhrase()
-    if (state.typed.length < target.length) {
-      state.typed = target.slice(0, state.typed.length + 1)
-      input.value = state.typed
-      render()
+    if (!inModifierPause()) {
+      const target = currentPhrase()
+      if (state.typed.length < target.length) {
+        state.typed = target.slice(0, state.typed.length + 1)
+        input.value = state.typed
+        render()
+      }
     }
   }
-  input.focus()
+  if (!inModifierPause()) input.focus()
 })
 
 document.addEventListener('click', (e) => {
-  if (e.target !== selectEl) input.focus()
+  if (e.target !== selectEl && e.target !== modifierBtn) input.focus()
 })
 
 selectEl.addEventListener('change', () => {
@@ -151,6 +192,22 @@ selectEl.addEventListener('change', () => {
   state.typed = ''
   input.value = ''
   render()
+})
+
+// 修饰模式切换
+function applyModifierMode() {
+  modifierBtn.classList.toggle('active', state.modifierMode)
+  modifierBtn.title = state.modifierMode ? '修饰模式：已开启（介词/从句自动跳过）' : '开启修饰模式'
+}
+
+modifierBtn.addEventListener('click', () => {
+  state.modifierMode = !state.modifierMode
+  localStorage.setItem('modifierMode', state.modifierMode ? '1' : '0')
+  state.typed = ''
+  input.value = ''
+  applyModifierMode()
+  render()
+  input.focus()
 })
 
 // 主题切换
@@ -167,5 +224,6 @@ themeBtn.addEventListener('click', () => {
 
 renderCourses()
 loadProgress()
+applyModifierMode()
 render()
 input.focus()

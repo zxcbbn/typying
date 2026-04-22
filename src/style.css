@@ -60,12 +60,35 @@ body.light {
 }
 .tab.active { color: var(--fg); border-bottom-color: var(--accent); }
 
+#modifier-toggle {
+  background: none; border: 1px solid var(--border);
+  color: var(--muted); font-size: 12px; cursor: pointer;
+  padding: 3px 8px; border-radius: 6px; letter-spacing: 0.5px;
+  touch-action: manipulation;
+}
+#modifier-toggle:hover { color: var(--fg); border-color: var(--accent); }
+#modifier-toggle.active {
+  color: var(--accent); border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+
 #theme-toggle {
   margin-left: auto; background: none; border: none;
   color: var(--muted); font-size: 16px; cursor: pointer;
   padding: 4px 8px; border-radius: 6px;
 }
 #theme-toggle:hover { color: var(--fg); }
+
+/* 修饰模式 */
+.modifier-tag {
+  display: inline-block; font-size: 11px; font-family: inherit;
+  color: var(--accent); border: 1px solid var(--accent);
+  border-radius: 4px; padding: 1px 5px; margin-right: 6px;
+  vertical-align: middle; opacity: 0.8;
+}
+.modifier-phrase { color: var(--dim); font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: var(--answer-size); }
+.modifier-hint { color: var(--dim); font-size: 18px; margin-left: 8px; }
+.slot-modifier { background: var(--accent); opacity: 0.4; }
 
 /* ── 跟打页 ─────────────────────────────────────────────────────── */
 #page-typing {
