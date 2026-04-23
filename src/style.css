@@ -60,13 +60,13 @@ body.light {
 }
 .tab.active { color: var(--fg); border-bottom-color: var(--accent); }
 
-#modifier-toggle, #skeleton-toggle {
+#modifier-toggle, #skeleton-toggle, #reading-toggle {
   background: none; border: 1px solid var(--border);
   color: var(--muted); font-size: 12px; cursor: pointer;
   padding: 3px 8px; border-radius: 6px; letter-spacing: 0.5px;
   touch-action: manipulation;
 }
-#modifier-toggle:hover, #skeleton-toggle:hover { color: var(--fg); border-color: var(--accent); }
+#modifier-toggle:hover, #skeleton-toggle:hover, #reading-toggle:hover { color: var(--fg); border-color: var(--accent); }
 #modifier-toggle.active {
   color: var(--accent); border-color: var(--accent);
   background: color-mix(in srgb, var(--accent) 12%, transparent);
@@ -78,6 +78,17 @@ body.light {
 body.light #skeleton-toggle.active {
   color: #9333ea; border-color: #9333ea;
   background: color-mix(in srgb, #9333ea 12%, transparent);
+}
+#reading-toggle.active {
+  color: var(--ok); border-color: var(--ok);
+  background: color-mix(in srgb, var(--ok) 12%, transparent);
+}
+
+/* 阅读模式句子显示 */
+.reading-sentence {
+  font-family: inherit;
+  font-size: clamp(20px, 2.8vw, 26px);
+  line-height: 1.6; color: var(--fg);
 }
 
 #theme-toggle {

@@ -9,6 +9,7 @@ const progressEl = $('progress')
 const selectEl = $('course-select')
 const modifierBtn = $('modifier-toggle')
 const skeletonBtn = $('skeleton-toggle')
+const readingBtn = $('reading-toggle')
 
 // Phrase-starters that signal a modifier (prep phrase, adverbial, relative clause)
 const MODIFIER_STARTERS = new Set([
@@ -49,6 +50,7 @@ const state = {
   typed: '',
   modifierMode: localStorage.getItem('modifierMode') === '1',
   skeletonMode: localStorage.getItem('skeletonMode') === '1',
+  readingMode: localStorage.getItem('readingMode') === '1',
   fullStage: false,
 }
 
@@ -113,6 +115,19 @@ function render() {
   const lesson = currentLesson()
   const phrases = lesson.phrases
   const phraseIdx = state.phraseIdx
+
+  // 阅读模式：整句 + 译文 + 「↵ 下一句」；无 chunk、无打字
+  if (state.readingMode) {
+    progressEl.textContent = `${state.lessonIdx + 1} / ${course.lessons.length}`
+    translationEl.textContent = lesson.translation || ''
+    slotsEl.innerHTML = ''
+    answerEl.innerHTML =
+      `<span class="reading-sentence">${escapeHtml(phrases.join(' '))}</span>` +
+      `<span class="modifier-hint"> ↵ 下一句</span>`
+    input.value = ''
+    state.typed = ''
+    return
+  }
 
   // 译文：若有 zhPhrases 就按 chunk 对齐高亮，否则退回整句
   if (lesson.zhPhrases) {
@@ -194,6 +209,19 @@ function advance() {
   const lesson = currentLesson()
   const course = currentCourse()
 
+  // 阅读模式：每次 advance 直接进下一句
+  if (state.readingMode) {
+    if (state.lessonIdx < course.lessons.length - 1) {
+      state.lessonIdx++
+      state.phraseIdx = 0
+      saveProgress()
+      render()
+    } else {
+      translationEl.innerHTML = '<span class="done">本课完成！</span>'
+    }
+    return
+  }
+
   // 整句阶段完成 → 进入下一句
   if (state.fullStage) {
     state.fullStage = false
@@ -223,6 +251,7 @@ function advance() {
 }
 
 input.addEventListener('input', (e) => {
+  if (state.readingMode) { input.value = ''; return }
   if (inModifierPause()) { input.value = ''; return }
   state.typed = e.target.value
   render()
@@ -230,6 +259,13 @@ input.addEventListener('input', (e) => {
 })
 
 document.addEventListener('keydown', (e) => {
+  if (state.readingMode) {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault()
+      advance()
+    }
+    return
+  }
   if (inModifierPause()) {
     if (e.key === 'Enter' || e.key === ' ') {
       e.preventDefault()
@@ -260,7 +296,8 @@ document.addEventListener('keydown', (e) => {
 })
 
 document.addEventListener('click', (e) => {
-  if (e.target !== selectEl && e.target !== modifierBtn && e.target !== skeletonBtn) input.focus()
+  if (state.readingMode) return
+  if (e.target !== selectEl && e.target !== modifierBtn && e.target !== skeletonBtn && e.target !== readingBtn) input.focus()
 })
 
 selectEl.addEventListener('change', () => {
@@ -272,37 +309,37 @@ selectEl.addEventListener('change', () => {
   render()
 })
 
-// 修饰 / 骨架模式切换（互斥）
+// 修饰 / 骨架 / 阅读 三个模式互斥
 function applyModes() {
   modifierBtn.classList.toggle('active', state.modifierMode)
   modifierBtn.title = state.modifierMode ? '修饰模式：已开启（介词/从句自动跳过）' : '开启修饰模式'
   skeletonBtn.classList.toggle('active', state.skeletonMode)
   skeletonBtn.title = state.skeletonMode ? '骨架模式：已开启（修饰只打首词）' : '开启骨架模式'
+  readingBtn.classList.toggle('active', state.readingMode)
+  readingBtn.title = state.readingMode ? '阅读模式：已开启（↵ 翻下一句）' : '开启阅读模式'
 }
 
-modifierBtn.addEventListener('click', () => {
-  state.modifierMode = !state.modifierMode
-  if (state.modifierMode) state.skeletonMode = false
+function setMode(key) {
+  // 点击激活的切回关闭；点击未激活的则独占
+  const next = !state[key]
+  state.modifierMode = false
+  state.skeletonMode = false
+  state.readingMode = false
+  state[key] = next
+  state.fullStage = false
   localStorage.setItem('modifierMode', state.modifierMode ? '1' : '0')
   localStorage.setItem('skeletonMode', state.skeletonMode ? '1' : '0')
+  localStorage.setItem('readingMode', state.readingMode ? '1' : '0')
   state.typed = ''
   input.value = ''
   applyModes()
   render()
   input.focus()
-})
+}
 
-skeletonBtn.addEventListener('click', () => {
-  state.skeletonMode = !state.skeletonMode
-  if (state.skeletonMode) state.modifierMode = false
-  localStorage.setItem('skeletonMode', state.skeletonMode ? '1' : '0')
-  localStorage.setItem('modifierMode', state.modifierMode ? '1' : '0')
-  state.typed = ''
-  input.value = ''
-  applyModes()
-  render()
-  input.focus()
-})
+modifierBtn.addEventListener('click', () => setMode('modifierMode'))
+skeletonBtn.addEventListener('click', () => setMode('skeletonMode'))
+readingBtn.addEventListener('click', () => setMode('readingMode'))
 
 // 主题切换
 const themeBtn = document.getElementById('theme-toggle')
