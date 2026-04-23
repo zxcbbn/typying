@@ -116,14 +116,38 @@ function render() {
   const phrases = lesson.phrases
   const phraseIdx = state.phraseIdx
 
-  // 阅读模式：整句 + 译文 + 「↵ 下一句」；无 chunk、无打字
+  // 阅读模式：一次一块 chunk 高亮显示，← → 切换
   if (state.readingMode) {
     progressEl.textContent = `${state.lessonIdx + 1} / ${course.lessons.length}`
-    translationEl.textContent = lesson.translation || ''
-    slotsEl.innerHTML = ''
+
+    // 译文按 chunk 对齐高亮
+    if (lesson.zhPhrases) {
+      translationEl.innerHTML = lesson.zhPhrases.map((z, i) => {
+        const cls = i === phraseIdx ? 'zh-active' : 'zh-pending'
+        return `<span class="${cls}">${escapeHtml(z)}</span>`
+      }).join('')
+    } else {
+      translationEl.textContent = lesson.translation || ''
+    }
+
+    // slots 同打字模式，指示骨架与当前位置
+    slotsEl.innerHTML = phrases.map((p, i) => {
+      let cls = `slot slot-type-${chunkType(p)}`
+      if (i < phraseIdx) cls += ' slot-done'
+      else if (i === phraseIdx) cls += ' slot-active'
+      return `<span class="${cls}" style="width:${Math.max(p.length * 9, 32)}px"></span>`
+    }).join('')
+
+    // 句内高亮当前 chunk
     answerEl.innerHTML =
-      `<span class="reading-sentence">${escapeHtml(phrases.join(' '))}</span>` +
-      `<span class="modifier-hint"> ↵ 下一句</span>`
+      phrases.map((p, i) => {
+        const cls = i === phraseIdx ? 'reading-chunk-active'
+          : i < phraseIdx ? 'reading-chunk-done'
+          : 'reading-chunk-pending'
+        return `<span class="${cls}">${escapeHtml(p)}</span>`
+      }).join(' ') +
+      `<span class="modifier-hint"> ← → 切换</span>`
+
     input.value = ''
     state.typed = ''
     return
@@ -203,24 +227,34 @@ function normalize(s) {
   return s.replace(/[\s.!?,;:"']+$/g, '').trim()
 }
 
+function readingStep(dir) {
+  const course = currentCourse()
+  const lesson = currentLesson()
+  const nextPhrase = state.phraseIdx + dir
+  if (nextPhrase >= 0 && nextPhrase < lesson.phrases.length) {
+    state.phraseIdx = nextPhrase
+    render()
+    return
+  }
+  // 跨课
+  if (dir > 0 && state.lessonIdx < course.lessons.length - 1) {
+    state.lessonIdx++
+    state.phraseIdx = 0
+    saveProgress()
+    render()
+  } else if (dir < 0 && state.lessonIdx > 0) {
+    state.lessonIdx--
+    state.phraseIdx = currentLesson().phrases.length - 1
+    saveProgress()
+    render()
+  }
+}
+
 function advance() {
   state.typed = ''
   input.value = ''
   const lesson = currentLesson()
   const course = currentCourse()
-
-  // 阅读模式：每次 advance 直接进下一句
-  if (state.readingMode) {
-    if (state.lessonIdx < course.lessons.length - 1) {
-      state.lessonIdx++
-      state.phraseIdx = 0
-      saveProgress()
-      render()
-    } else {
-      translationEl.innerHTML = '<span class="done">本课完成！</span>'
-    }
-    return
-  }
 
   // 整句阶段完成 → 进入下一句
   if (state.fullStage) {
@@ -260,9 +294,12 @@ input.addEventListener('input', (e) => {
 
 document.addEventListener('keydown', (e) => {
   if (state.readingMode) {
-    if (e.key === 'Enter' || e.key === ' ') {
+    if (e.key === 'ArrowRight' || e.key === 'Enter' || e.key === ' ') {
       e.preventDefault()
-      advance()
+      readingStep(1)
+    } else if (e.key === 'ArrowLeft') {
+      e.preventDefault()
+      readingStep(-1)
     }
     return
   }

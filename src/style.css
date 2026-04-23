@@ -84,12 +84,17 @@ body.light #skeleton-toggle.active {
   background: color-mix(in srgb, var(--ok) 12%, transparent);
 }
 
-/* 阅读模式句子显示 */
-.reading-sentence {
+/* 阅读模式：一次一块 chunk 高亮 */
+.reading-chunk-active, .reading-chunk-done, .reading-chunk-pending {
   font-family: inherit;
   font-size: clamp(20px, 2.8vw, 26px);
-  line-height: 1.6; color: var(--fg);
+  line-height: 1.8;
+  padding: 1px 4px; border-radius: 3px; margin: 0 1px;
+  transition: background 0.12s, color 0.12s;
 }
+.reading-chunk-active  { color: var(--fg); background: color-mix(in srgb, var(--ok) 22%, transparent); }
+.reading-chunk-done    { color: var(--muted); opacity: 0.7; }
+.reading-chunk-pending { color: var(--muted); }
 
 #theme-toggle {
   margin-left: auto; background: none; border: none;
