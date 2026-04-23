@@ -62,6 +62,10 @@
       "phrases": [
         "and from the Yellowstone River",
         "in the north"
+      ],
+      "zhPhrases": [
+        "→",
+        "从北边的黄石河——"
       ]
     },
     {
@@ -69,6 +73,10 @@
       "phrases": [
         "to the Colorado",
         "upon the south,"
+      ],
+      "zhPhrases": [
+        "→",
+        "到南边的科罗拉多河——"
       ]
     },
     {
@@ -77,6 +85,11 @@
         "is a region",
         "of desolation",
         "and silence."
+      ],
+      "zhPhrases": [
+        "← 落地 →",
+        "是一片荒凉—",
+        "—而寂静的地带。"
       ]
     },
     {
@@ -145,6 +158,10 @@
       "phrases": [
         "and there",
         "are enormous plains,"
+      ],
+      "zhPhrases": [
+        "→",
+        "还有辽阔的平原——"
       ]
     },
     {
@@ -166,6 +183,11 @@
         "and in summer",
         "are grey",
         "with the saline alkali dust."
+      ],
+      "zhPhrases": [
+        "→ 夏天—",
+        "—灰蒙蒙的—",
+        "—被盐碱粉尘染成。"
       ]
     },
     {
@@ -173,6 +195,10 @@
       "phrases": [
         "They all preserve,",
         "however, the common characteristics"
+      ],
+      "zhPhrases": [
+        "【转折】然而，这一切都保有—",
+        "—共同的特征——"
       ]
     },
     {
@@ -180,6 +206,10 @@
       "phrases": [
         "of barrenness, inhospitality,",
         "and misery."
+      ],
+      "zhPhrases": [
+        "什么特征？→ 贫瘠、荒凉，—",
+        "—以及悲苦。"
       ]
     },
     {
@@ -189,6 +219,12 @@
         "are no inhabitants",
         "of this land",
         "of despair."
+      ],
+      "zhPhrases": [
+        "在这—",
+        "—没有居民—",
+        "—这片绝望之地，",
+        "—"
       ]
     },
     {
@@ -197,6 +233,11 @@
         "A band",
         "of Pawnees",
         "or of Blackfeet"
+      ],
+      "zhPhrases": [
+        "一群—",
+        "—波尼族人—",
+        "—或者黑足族人——"
       ]
     },
     {
@@ -233,6 +274,11 @@
         "are glad",
         "to lose sight",
         "of those awesome plains,"
+      ],
+      "zhPhrases": [
+        "都高兴—",
+        "—地告别—",
+        "—那些令人敬畏的平原——"
       ]
     },
     {
@@ -262,6 +308,10 @@
       "phrases": [
         "the buzzard flaps heavily",
         "through the air,"
+      ],
+      "zhPhrases": [
+        "→ 秃鹫沉重地扑翼—",
+        "—穿过空中——"
       ]
     },
     {
@@ -269,6 +319,10 @@
       "phrases": [
         "and the clumsy grizzly bear lumbers",
         "through the dark ravines,"
+      ],
+      "zhPhrases": [
+        "→ 笨拙的灰熊蹒跚—",
+        "—穿过黑暗的沟壑——"
       ]
     },
     {
@@ -282,6 +336,10 @@
       "phrases": [
         "as it",
         "can amongst the rocks."
+      ],
+      "zhPhrases": [
+        "→ 在岩石间—",
+        "—寻觅它能找到的一点口粮。"
       ]
     },
     {
@@ -290,6 +348,11 @@
         "These",
         "are the sole dwellers",
         "in the wilderness."
+      ],
+      "zhPhrases": [
+        "这些—",
+        "—就是唯一的居民—",
+        "—在这片荒野中。"
       ]
     },
     {
@@ -298,6 +361,11 @@
         "In the whole world there",
         "can",
         "be no"
+      ],
+      "zhPhrases": [
+        "全世界—",
+        "—大概—",
+        "—没有"
       ]
     },
     {
@@ -312,6 +380,11 @@
         "than that",
         "from the northern slope",
         "of the Sierra Blanco."
+      ],
+      "zhPhrases": [
+        "比什么更荒凉？→ 比那—",
+        "—从北坡俯瞰—",
+        "—白峰山的景色。"
       ]
     },
     {
@@ -352,6 +425,11 @@
         "and intersected",
         "by clumps",
         "of the dwarfish chaparral bushes."
+      ],
+      "zhPhrases": [
+        "→ 还被分割着—",
+        "—被一丛丛—",
+        "—矮小的灌木丛。"
       ]
     },
     {
@@ -370,6 +448,10 @@
       "phrases": [
         "lie a long chain",
         "of mountain peaks,"
+      ],
+      "zhPhrases": [
+        "← 回来接谓语 →",
+        "横卧着一列连绵的山峰——"
       ]
     },
     {
@@ -400,6 +482,11 @@
         "there",
         "is no sign",
         "of life,"
+      ],
+      "zhPhrases": [
+        "在这里—",
+        "—没有迹象—",
+        "—生命的——"
       ]
     },
     {
@@ -419,6 +506,11 @@
         "There",
         "is no bird",
         "in the steel-blue heaven,"
+      ],
+      "zhPhrases": [
+        "没有—",
+        "—鸟—",
+        "—在那钢蓝色的天空里——"
       ]
     },
     {
@@ -426,6 +518,10 @@
       "phrases": [
         "no movement",
         "upon the dull, grey earth"
+      ],
+      "zhPhrases": [
+        "→ 没有动静—",
+        "—在那灰暗的地面上——"
       ]
     },
     {
@@ -433,6 +529,10 @@
       "phrases": [
         "—above all, there",
         "is absolute silence."
+      ],
+      "zhPhrases": [
+        "→ 最重要的——",
+        "是绝对的寂静。"
       ]
     },
     {
@@ -452,6 +552,11 @@
         "there",
         "is no shadow",
         "of a sound"
+      ],
+      "zhPhrases": [
+        "【主张】连—",
+        "—一丝影子都没有—",
+        "—声音的——"
       ]
     },
     {
@@ -484,6 +589,12 @@
         "has",
         "been",
         "said"
+      ],
+      "zhPhrases": [
+        "有—",
+        "—曾—",
+        "—经—",
+        "—说过——"
       ]
     },
     {
@@ -493,6 +604,12 @@
         "is nothing appertaining",
         "to life",
         "upon the broad plain."
+      ],
+      "zhPhrases": [
+        "说什么？→ 在这里—",
+        "—没有任何东西—",
+        "—跟生命相关—",
+        "—在这片宽阔的平原上。"
       ]
     },
     {
@@ -546,6 +663,11 @@
         "It",
         "is rutted",
         "with wheels"
+      ],
+      "zhPhrases": [
+        "那条路—",
+        "—满是车辙—",
+        "——"
       ]
     },
     {
@@ -554,6 +676,11 @@
         "and trodden down",
         "by the feet",
         "of many adventurers."
+      ],
+      "zhPhrases": [
+        "→ 被踩踏成路—",
+        "—被脚踩—",
+        "—许多冒险者的。"
       ]
     },
     {
@@ -572,6 +699,10 @@
       "phrases": [
         "which glisten",
         "in the sun,"
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么物体？→ 闪闪发亮—",
+        "—在阳光下——"
       ]
     },
     {
@@ -580,6 +711,11 @@
         "and stand out",
         "against the dull deposit",
         "of alkali."
+      ],
+      "zhPhrases": [
+        "→ 格外显眼—",
+        "—在暗淡的沉积物衬托下—",
+        "—碱性的。"
       ]
     },
     {
@@ -615,6 +751,10 @@
       "phrases": [
         "others smaller",
         "and more delicate."
+      ],
+      "zhPhrases": [
+        "→ 另一些更小—",
+        "—更精细。"
       ]
     },
     {
@@ -623,6 +763,11 @@
         "The former",
         "have belonged",
         "to oxen,"
+      ],
+      "zhPhrases": [
+        "前者—",
+        "—曾是—",
+        "—牛的骨头——"
       ]
     },
     {
@@ -665,6 +810,11 @@
         "of those",
         "who had fallen",
         "by the wayside."
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 谁的遗骸？→ 那些人的—",
+        "—曾经倒毙—",
+        "—在路旁的。"
       ]
     },
     {
@@ -684,6 +834,11 @@
         "there",
         "stood upon the fourth",
         "of May,"
+      ],
+      "zhPhrases": [
+        "← 回来接谓语 →",
+        "一八四七年五月四日—",
+        "—站着——"
       ]
     },
     {
@@ -708,6 +863,10 @@
       "phrases": [
         "His appearance",
         "was such"
+      ],
+      "zhPhrases": [
+        "他的外表—",
+        "—是那种——"
       ]
     },
     {
@@ -717,6 +876,12 @@
         "might",
         "have",
         "been the very genius"
+      ],
+      "zhPhrases": [
+        "【兑现】那种到什么程度？→ 他—",
+        "—可能—",
+        "—就是—",
+        "—那种典型。"
       ]
     },
     {
@@ -738,6 +903,13 @@
         "have",
         "found it difficult",
         "to say"
+      ],
+      "zhPhrases": [
+        "一个观察者—",
+        "—会—",
+        "—觉得—",
+        "—很难说清—",
+        "——"
       ]
     },
     {
@@ -747,6 +919,12 @@
         "was nearer",
         "to forty",
         "or to sixty."
+      ],
+      "zhPhrases": [
+        "难说清什么？→ 他是—",
+        "—接近—",
+        "—四十岁—",
+        "—还是六十岁。"
       ]
     },
     {
@@ -755,6 +933,11 @@
         "His face",
         "was lean",
         "and haggard,"
+      ],
+      "zhPhrases": [
+        "他的脸—",
+        "—又瘦—",
+        "—又憔悴——"
       ]
     },
     {
@@ -792,6 +975,11 @@
         "were all flecked",
         "and dashed",
         "with white;"
+      ],
+      "zhPhrases": [
+        "→ 全都夹杂—",
+        "—着斑点—",
+        "—白色的；"
       ]
     },
     {
@@ -864,6 +1052,11 @@
         "he leaned",
         "upon his weapon",
         "for support,"
+      ],
+      "zhPhrases": [
+        "他靠着—",
+        "—他的武器—",
+        "—撑住身体——"
       ]
     },
     {
@@ -877,6 +1070,10 @@
       "phrases": [
         "and the massive framework",
         "of his bones"
+      ],
+      "zhPhrases": [
+        "→ 和那副粗壮的骨架—",
+        "——"
       ]
     },
     {
@@ -884,6 +1081,10 @@
       "phrases": [
         "suggested a wiry",
         "and vigorous constitution."
+      ],
+      "zhPhrases": [
+        "← 回来接谓语 →",
+        "暗示出他曾经筋腱结实、体魄雄健。"
       ]
     },
     {
@@ -916,6 +1117,10 @@
       "phrases": [
         "proclaimed what it",
         "was"
+      ],
+      "zhPhrases": [
+        "← 回来接谓语 →",
+        "说明了是什么——"
       ]
     },
     {
@@ -969,6 +1174,10 @@
       "phrases": [
         "and on",
         "to this little elevation,"
+      ],
+      "zhPhrases": [
+        "→",
+        "来到这片小小的高地——"
       ]
     },
     {
@@ -1004,6 +1213,10 @@
       "phrases": [
         "and the distant belt",
         "of savage mountains,"
+      ],
+      "zhPhrases": [
+        "→ 还有远处的轮廓—",
+        "—那道蛮荒的山脉——"
       ]
     },
     {
@@ -1012,6 +1225,11 @@
         "without a sign anywhere",
         "of plant",
         "or tree,"
+      ],
+      "zhPhrases": [
+        "【伴随否定】没有任何迹象——",
+        "植物—",
+        "或树木——"
       ]
     },
     {
@@ -1031,6 +1249,11 @@
         "In all",
         "that broad landscape there",
         "was no"
+      ],
+      "zhPhrases": [
+        "在那—",
+        "—片辽阔的景色里—",
+        "——"
       ]
     },
     {
@@ -1044,6 +1267,10 @@
       "phrases": [
         "North, and east,",
         "and west"
+      ],
+      "zhPhrases": [
+        "向北、向东，—",
+        "向西——"
       ]
     },
     {
@@ -1051,6 +1278,10 @@
       "phrases": [
         "he",
         "looked with wild questioning eyes,"
+      ],
+      "zhPhrases": [
+        "← 回来接谓语 →",
+        "他用狂乱追寻的眼神张望——"
       ]
     },
     {
@@ -1077,6 +1308,10 @@
       "phrases": [
         "and that there,",
         "on that barren crag,"
+      ],
+      "zhPhrases": [
+        "→ 而就在那里—",
+        "—在那块荒凉的岩石上——"
       ]
     },
     {
@@ -1085,6 +1320,11 @@
         "he",
         "was about",
         "to die."
+      ],
+      "zhPhrases": [
+        "→ 他—",
+        "—就要—",
+        "—死了。"
       ]
     },
     {
@@ -1122,6 +1362,11 @@
         "as he seated himself",
         "in the shelter",
         "of a boulder."
+      ],
+      "zhPhrases": [
+        "【情境】一边坐了下去—",
+        "—在遮挡下—",
+        "—一块大岩石的。"
       ]
     },
     {
@@ -1136,6 +1381,11 @@
         "he",
         "had deposited",
         "upon the ground his useless rifle,"
+      ],
+      "zhPhrases": [
+        "他—",
+        "—放了—",
+        "—那支没用的步枪在地上——"
       ]
     },
     {
@@ -1149,6 +1399,10 @@
       "phrases": [
         "tied up",
         "in a grey shawl,"
+      ],
+      "zhPhrases": [
+        "[分词-后置修饰] 什么样的包裹？→ 裹起来的—",
+        "—用一块灰色披巾——"
       ]
     },
     {
@@ -1157,6 +1411,11 @@
         "which he",
         "had carried slung",
         "over his right shoulder."
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 他怎么带的？→ 他—",
+        "—一直挎着—",
+        "—右肩上。"
       ]
     },
     {
@@ -1166,6 +1425,12 @@
         "appeared to",
         "be somewhat too heavy",
         "for his strength,"
+      ],
+      "zhPhrases": [
+        "这包裹—",
+        "—显得—",
+        "—有些太重—",
+        "—对他的体力来说——"
       ]
     },
     {
@@ -1181,6 +1446,12 @@
         "came down",
         "on the ground",
         "with some little violence."
+      ],
+      "zhPhrases": [
+        "它—",
+        "—落了—",
+        "—地—",
+        "—带着点冲劲。"
       ]
     },
     {
@@ -1188,6 +1459,10 @@
       "phrases": [
         "Instantly there",
         "broke from the grey parcel a"
+      ],
+      "zhPhrases": [
+        "那灰色包裹里立刻—",
+        "—传出了一声细小的呻吟——"
       ]
     },
     {
@@ -1201,6 +1476,10 @@
       "phrases": [
         "and from it there protruded a small,",
         "scared face,"
+      ],
+      "zhPhrases": [
+        "→ 还伸出了一张小小的—",
+        "—惊恐的脸——"
       ]
     },
     {
@@ -1214,6 +1493,10 @@
       "phrases": [
         "and two little speckled,",
         "dimpled fists."
+      ],
+      "zhPhrases": [
+        "→ 还有两只带着小斑点的—",
+        "—有着小酒窝的小拳头。"
       ]
     },
     {
@@ -1221,6 +1504,10 @@
       "phrases": [
         "\"You've hurt me!\"",
         "said a childish voice reproachfully."
+      ],
+      "zhPhrases": [
+        "“你把我碰疼了！”—",
+        "—一个孩子的声音埋怨地说。"
       ]
     },
     {
@@ -1228,6 +1515,10 @@
       "phrases": [
         "\"Have I",
         "though,\""
+      ],
+      "zhPhrases": [
+        "“是吗—",
+        "——”"
       ]
     },
     {
@@ -1247,6 +1538,11 @@
         "\"I didn't go",
         "for to",
         "do it.\""
+      ],
+      "zhPhrases": [
+        "“我—",
+        "—可不是—",
+        "—故意的。”"
       ]
     },
     {
@@ -1277,6 +1573,10 @@
       "phrases": [
         "of about five years",
         "of age,"
+      ],
+      "zhPhrases": [
+        "多大？→ 大约五岁—",
+        "——"
       ]
     },
     {
@@ -1349,6 +1649,11 @@
         "\"How",
         "is it now?\" he",
         "answered anxiously,"
+      ],
+      "zhPhrases": [
+        "“现在感觉怎么样？” 他—",
+        "—焦急地问—",
+        "——"
       ]
     },
     {
@@ -1403,6 +1708,10 @@
       "phrases": [
         "showing the injured part up",
         "to him."
+      ],
+      "zhPhrases": [
+        "[分词-句末伴随] 把受伤的地方举起来—",
+        "—给他看。"
       ]
     },
     {
@@ -1410,6 +1719,10 @@
       "phrases": [
         "\"That's what mother used",
         "to do."
+      ],
+      "zhPhrases": [
+        "“妈妈以前—",
+        "—就是这么做的。"
       ]
     },
     {
@@ -1429,6 +1742,10 @@
       "phrases": [
         "I guess you'll see her",
         "before long.\""
+      ],
+      "zhPhrases": [
+        "我猜你很快就能见到她了—",
+        "——”"
       ]
     },
     {
@@ -1472,6 +1789,12 @@
         "was just goin'",
         "over to Auntie's",
         "for tea,"
+      ],
+      "zhPhrases": [
+        "【条件·心悬着】哪怕只是—",
+        "—去—",
+        "—阿姨家—",
+        "—喝茶——"
       ]
     },
     {
@@ -1479,6 +1802,10 @@
       "phrases": [
         "and now she's",
         "been away three days."
+      ],
+      "zhPhrases": [
+        "【转折·实际】可她现在—",
+        "—已经走了三天了。"
       ]
     },
     {
@@ -1486,6 +1813,10 @@
       "phrases": [
         "Say, it's awful dry,",
         "ain't it?"
+      ],
+      "zhPhrases": [
+        "嗯，真是好渴啊—",
+        "—是不是？"
       ]
     },
     {
@@ -1594,6 +1925,10 @@
       "phrases": [
         "What's that you've",
         "got?\""
+      ],
+      "zhPhrases": [
+        "你手里拿的是什么—",
+        "——”"
       ]
     },
     {
@@ -1612,6 +1947,10 @@
       "phrases": [
         "holding up two glittering fragments",
         "of mica."
+      ],
+      "zhPhrases": [
+        "[分词-句末伴随] 举起两块闪闪发光的—",
+        "—云母碎片。"
       ]
     },
     {
@@ -1630,6 +1969,10 @@
       "phrases": [
         "I'll give them",
         "to brother Bob.\""
+      ],
+      "zhPhrases": [
+        "我要把它们送给—",
+        "—鲍勃哥哥。”"
       ]
     },
     {
@@ -1637,6 +1980,10 @@
       "phrases": [
         "\"You'll see prettier things than them soon,\"",
         "said"
+      ],
+      "zhPhrases": [
+        "“你很快就能看到比这更漂亮的东西了—",
+        "——”说"
       ]
     },
     {
@@ -1658,6 +2005,12 @@
         "was going",
         "to tell you",
         "though"
+      ],
+      "zhPhrases": [
+        "我—",
+        "—本来要—",
+        "—告诉你—",
+        "——"
       ]
     },
     {
@@ -1707,6 +2060,10 @@
       "phrases": [
         "compasses, or map,",
         "or somethin',"
+      ],
+      "zhPhrases": [
+        "指南针，还是地图—",
+        "—还是什么的——"
       ]
     },
     {
@@ -1720,6 +2077,10 @@
       "phrases": [
         "Water",
         "ran out."
+      ],
+      "zhPhrases": [
+        "水—",
+        "—喝完了。"
       ]
     },
     {
@@ -1756,6 +2117,10 @@
       "phrases": [
         "staring up",
         "at his grimy visage."
+      ],
+      "zhPhrases": [
+        "[分词-句末伴随] 盯着—",
+        "—他那张脏兮兮的脸看。"
       ]
     },
     {
@@ -1800,6 +2165,10 @@
       "phrases": [
         "and then,",
         "dearie, your mother.\""
+      ],
+      "zhPhrases": [
+        "然后—",
+        "—亲爱的，是你妈妈。”"
       ]
     },
     {
@@ -1807,6 +2176,10 @@
       "phrases": [
         "\"Then mother's a deader too,\"",
         "cried the little girl"
+      ],
+      "zhPhrases": [
+        "“那妈妈也死了—",
+        "——”小女孩叫道——"
       ]
     },
     {
@@ -1846,6 +2219,12 @@
         "thought there",
         "was some chance",
         "of"
+      ],
+      "zhPhrases": [
+        "然后我—",
+        "—想这里—",
+        "—也许有机会—",
+        "——"
       ]
     },
     {
@@ -1876,6 +2255,10 @@
       "phrases": [
         "It don't seem",
         "as though we've improved matters."
+      ],
+      "zhPhrases": [
+        "看来—",
+        "—我们并没让情况变好多少。"
       ]
     },
     {
@@ -1883,6 +2266,10 @@
       "phrases": [
         "There's an almighty small chance",
         "for us now!\""
+      ],
+      "zhPhrases": [
+        "我们现在的机会实在是小得可怜—",
+        "——！”"
       ]
     },
     {
@@ -1898,6 +2285,12 @@
         "are going",
         "to die too?\"",
         "asked the child,"
+      ],
+      "zhPhrases": [
+        "我们—",
+        "—也要—",
+        "—死了？”—",
+        "—孩子问——"
       ]
     },
     {
@@ -1918,6 +2311,11 @@
         "\"I guess that's",
         "about the size",
         "of it.\""
+      ],
+      "zhPhrases": [
+        "“我想—",
+        "—大概—",
+        "—就是这么回事了。”"
       ]
     },
     {
@@ -1926,6 +2324,11 @@
         "\"Why didn't you say",
         "so before?\" she",
         "said,"
+      ],
+      "zhPhrases": [
+        "“你为什么不早说—",
+        "——”她—",
+        "—说——"
       ]
     },
     {
@@ -1939,6 +2342,10 @@
       "phrases": [
         "\"You",
         "gave me such a fright."
+      ],
+      "zhPhrases": [
+        "“你—",
+        "—把我吓了一跳。"
       ]
     },
     {
@@ -1963,6 +2370,10 @@
       "phrases": [
         "we'll",
         "be with mother again.\""
+      ],
+      "zhPhrases": [
+        "【结果落地】那我们就能—",
+        "—跟妈妈在一起了。”"
       ]
     },
     {
@@ -1970,6 +2381,10 @@
       "phrases": [
         "\"Yes, you",
         "will, dearie.\""
+      ],
+      "zhPhrases": [
+        "“是的，你—",
+        "—会的，亲爱的。”"
       ]
     },
     {
@@ -1983,6 +2398,10 @@
       "phrases": [
         "I'll tell her how awful good you've",
         "been."
+      ],
+      "zhPhrases": [
+        "我会告诉她你对我有多好—",
+        "——"
       ]
     },
     {
@@ -1991,6 +2410,11 @@
         "I'll bet she meets us",
         "at the door",
         "of Heaven"
+      ],
+      "zhPhrases": [
+        "我敢打赌她会在门口等我们—",
+        "—天堂的门口—",
+        "——"
       ]
     },
     {
@@ -2009,6 +2433,10 @@
       "phrases": [
         "and a lot",
         "of buckwheat cakes,"
+      ],
+      "zhPhrases": [
+        "→ 还有很多—",
+        "—荞麦饼——"
       ]
     },
     {
@@ -2016,6 +2444,10 @@
       "phrases": [
         "hot, and toasted",
         "on both sides,"
+      ],
+      "zhPhrases": [
+        "热腾腾的，烤好的—",
+        "—两面都——"
       ]
     },
     {
@@ -2025,6 +2457,12 @@
         "and me",
         "was fond",
         "of."
+      ],
+      "zhPhrases": [
+        "就是鲍勃—",
+        "—和我—",
+        "—最爱吃的—",
+        "—那种。"
       ]
     },
     {
@@ -2033,6 +2471,11 @@
         "How long",
         "will it",
         "be first?\""
+      ],
+      "zhPhrases": [
+        "还要过多久—",
+        "—呢—",
+        "——？”"
       ]
     },
     {
@@ -2047,6 +2490,11 @@
         "The man's eyes",
         "were fixed",
         "upon the northern horizon."
+      ],
+      "zhPhrases": [
+        "那男人的眼睛—",
+        "—盯着—",
+        "—北方的地平线。"
       ]
     },
     {
@@ -2078,6 +2526,10 @@
       "phrases": [
         "which increased",
         "in size every moment,"
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么小点？→ 每一刻都在变大—",
+        "——"
       ]
     },
     {
@@ -2085,6 +2537,10 @@
       "phrases": [
         "so rapidly",
         "did they approach."
+      ],
+      "zhPhrases": [
+        "【强调·倒装原因】如此之快—",
+        "—它们靠近。"
       ]
     },
     {
@@ -2092,6 +2548,10 @@
       "phrases": [
         "They speedily resolved themselves",
         "into three large brown birds,"
+      ],
+      "zhPhrases": [
+        "它们很快现出原形—",
+        "——三只巨大的棕色鸟——"
       ]
     },
     {
@@ -2113,6 +2573,11 @@
         "and then settled",
         "upon some rocks",
         "which overlooked them."
+      ],
+      "zhPhrases": [
+        "→ 然后停了下来—",
+        "—在几块岩石上—",
+        "—那些俯视他们的。"
       ]
     },
     {
@@ -2143,6 +2608,11 @@
         "whose coming",
         "is the forerunner",
         "of death."
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么样的秃鹫？→ 它们的到来—",
+        "—就是先兆—",
+        "—死亡的。"
       ]
     },
     {
@@ -2202,6 +2672,10 @@
       "phrases": [
         "rather startled",
         "by this unexpected question."
+      ],
+      "zhPhrases": [
+        "[分词-后置修饰] 被吓了一跳—",
+        "—被这个出乎意料的问题。"
       ]
     },
     {
@@ -2210,6 +2684,11 @@
         "\"He",
         "made the country down",
         "in Illinois,"
+      ],
+      "zhPhrases": [
+        "“他—",
+        "—造了那边的地方—",
+        "—伊利诺伊——"
       ]
     },
     {
@@ -2217,6 +2696,10 @@
       "phrases": [
         "and He",
         "made the Missouri,\" the little girl continued."
+      ],
+      "zhPhrases": [
+        "→ 还有密苏里—",
+        "——”小女孩继续说。"
       ]
     },
     {
@@ -2225,6 +2708,11 @@
         "\"I guess somebody else",
         "made the country",
         "in these parts."
+      ],
+      "zhPhrases": [
+        "“我猜是别人—",
+        "—造的这里—",
+        "—这一带。"
       ]
     },
     {
@@ -2232,6 +2720,10 @@
       "phrases": [
         "It's not nearly",
         "so well done."
+      ],
+      "zhPhrases": [
+        "造得—",
+        "—可差多了。"
       ]
     },
     {
@@ -2240,6 +2732,11 @@
         "They",
         "forgot the water",
         "and the trees.\""
+      ],
+      "zhPhrases": [
+        "他们—",
+        "—忘记了水—",
+        "—和树。”"
       ]
     },
     {
@@ -2248,6 +2745,11 @@
         "\"What",
         "would ye think",
         "of offering up prayer?\""
+      ],
+      "zhPhrases": [
+        "“你觉得—",
+        "—怎么样—",
+        "—祷告一下？"
       ]
     },
     {
@@ -2267,6 +2769,11 @@
         "\"It ain't night",
         "yet,\" she",
         "answered."
+      ],
+      "zhPhrases": [
+        "“还没到晚上呢—",
+        "——”她—",
+        "—回答。"
       ]
     },
     {
@@ -2299,6 +2806,12 @@
         "over them ones",
         "that you used",
         "to say"
+      ],
+      "zhPhrases": [
+        "你背一遍—",
+        "—那些祷告词—",
+        "—你曾经—",
+        "—背过的——"
       ]
     },
     {
@@ -2306,6 +2819,10 @@
       "phrases": [
         "every night",
         "in the waggon"
+      ],
+      "zhPhrases": [
+        "哪些？→ 每天晚上—",
+        "—在大车上——"
       ]
     },
     {
@@ -2313,6 +2830,10 @@
       "phrases": [
         "when we",
         "was on the Plains.\""
+      ],
+      "zhPhrases": [
+        "【情境】就是我们—",
+        "—在平原上的时候。”"
       ]
     },
     {
@@ -2348,6 +2869,10 @@
       "phrases": [
         "\"I hain't",
         "said none"
+      ],
+      "zhPhrases": [
+        "“我—",
+        "—就再没说过了—"
       ]
     },
     {
@@ -2356,6 +2881,11 @@
         "since I",
         "was half the height o'",
         "that gun."
+      ],
+      "zhPhrases": [
+        "→ 自从我—",
+        "—只有那支枪—",
+        "—一半高的时候。"
       ]
     },
     {
@@ -2388,6 +2918,10 @@
       "phrases": [
         "\"Then you'll need",
         "to kneel down,"
+      ],
+      "zhPhrases": [
+        "“那你得—",
+        "—跪下来——"
       ]
     },
     {
@@ -2395,6 +2929,10 @@
       "phrases": [
         "and me too,\" she",
         "said,"
+      ],
+      "zhPhrases": [
+        "→ 我也是—",
+        "——”她说——"
       ]
     },
     {
@@ -2414,6 +2952,11 @@
         "\"You've",
         "got to",
         "put your hands up like this."
+      ],
+      "zhPhrases": [
+        "“你得—",
+        "—这样—",
+        "—把手举起来，就像这样。"
       ]
     },
     {
@@ -2440,6 +2983,12 @@
         "been anything",
         "but the buzzards",
         "to see it."
+      ],
+      "zhPhrases": [
+        "【假设·反事实·倒装】要是—",
+        "—有什么别的东西—",
+        "—而不只是秃鹰—",
+        "—在场的话。"
       ]
     },
     {
@@ -2447,6 +2996,10 @@
       "phrases": [
         "Side by side",
         "on the narrow shawl"
+      ],
+      "zhPhrases": [
+        "并排—",
+        "—在那块窄小的披巾上——"
       ]
     },
     {
@@ -2460,6 +3013,10 @@
       "phrases": [
         "the little prattling child",
         "and the reckless, hardened adventurer."
+      ],
+      "zhPhrases": [
+        "[同位语] 是谁？→ 那个喋喋不休的小孩—",
+        "—和那个桀骜不驯、久经磨砺的冒险者。"
       ]
     },
     {
@@ -2467,6 +3024,10 @@
       "phrases": [
         "Her chubby face,",
         "and his haggard, angular visage"
+      ],
+      "zhPhrases": [
+        "她那张胖乎乎的脸—",
+        "—和他那张憔悴、棱角分明的脸——"
       ]
     },
     {
@@ -2493,6 +3054,10 @@
       "phrases": [
         "to that dread",
         "being"
+      ],
+      "zhPhrases": [
+        "向谁祈求？→ 向那位令人敬畏—",
+        "—的存在——"
       ]
     },
     {
@@ -2501,6 +3066,11 @@
         "with whom they",
         "were face",
         "to face,"
+      ],
+      "zhPhrases": [
+        "[with+定从] 什么样的存在？→ 与他们—",
+        "—面对面—",
+        "—的。"
       ]
     },
     {
@@ -2556,6 +3126,11 @@
         "they resumed their seat",
         "in the shadow",
         "of the boulder"
+      ],
+      "zhPhrases": [
+        "他们重新坐下—",
+        "—在阴影里—",
+        "—岩石的。"
       ]
     },
     {
@@ -2586,6 +3161,11 @@
         "He watched",
         "over her slumber",
         "for some time,"
+      ],
+      "zhPhrases": [
+        "他守着—",
+        "—她的睡眠—",
+        "—守了一段时间——"
       ]
     },
     {
@@ -2594,6 +3174,11 @@
         "but Nature proved",
         "to be too strong",
         "for him."
+      ],
+      "zhPhrases": [
+        "【转折】可大自然—",
+        "—太强大—",
+        "—对他来说。"
       ]
     },
     {
@@ -2613,6 +3198,11 @@
         "he",
         "had allowed himself neither rest",
         "nor repose."
+      ],
+      "zhPhrases": [
+        "他—",
+        "—既没让自己休息—",
+        "—也没让自己放松。"
       ]
     },
     {
@@ -2620,6 +3210,10 @@
       "phrases": [
         "Slowly the eyelids drooped",
         "over the tired eyes,"
+      ],
+      "zhPhrases": [
+        "那双疲惫的眼睛，眼皮慢慢耷拉下来—",
+        "——"
       ]
     },
     {
@@ -2659,6 +3253,10 @@
       "phrases": [
         "and both slept the same deep",
         "and dreamless slumber."
+      ],
+      "zhPhrases": [
+        "→ 两人都陷入了同样深沉—",
+        "—无梦的睡眠。"
       ]
     },
     {
@@ -2666,6 +3264,10 @@
       "phrases": [
         "Had the wanderer remained awake",
         "for another half hour"
+      ],
+      "zhPhrases": [
+        "【假设·倒装条件·心悬着】要是那流浪者再多坚持—",
+        "—半小时——"
       ]
     },
     {
@@ -2675,6 +3277,12 @@
         "would",
         "have",
         "met his eyes."
+      ],
+      "zhPhrases": [
+        "【结果兑现】一幕奇异的景象—",
+        "—就会—",
+        "—出现—",
+        "—在他眼前。"
       ]
     },
     {
@@ -2683,6 +3291,11 @@
         "Far away",
         "on the extreme verge",
         "of the alkali plain"
+      ],
+      "zhPhrases": [
+        "远远地—",
+        "—在碱地平原的最远端—",
+        "——"
       ]
     },
     {
@@ -2715,6 +3328,11 @@
         "and hardly",
         "to be distinguished",
         "from the mists"
+      ],
+      "zhPhrases": [
+        "→ 几乎—",
+        "—难以分辨—",
+        "—跟远处的雾气——"
       ]
     },
     {
@@ -2728,6 +3346,10 @@
       "phrases": [
         "but gradually growing higher",
         "and broader"
+      ],
+      "zhPhrases": [
+        "【转折】但渐渐地越升越高—",
+        "—越扩越宽——"
       ]
     },
     {
@@ -2747,6 +3369,11 @@
         "This cloud continued",
         "to increase",
         "in size"
+      ],
+      "zhPhrases": [
+        "这团云继续—",
+        "—变大—",
+        "——"
       ]
     },
     {
@@ -2778,6 +3405,10 @@
       "phrases": [
         "by a great multitude",
         "of moving creatures."
+      ],
+      "zhPhrases": [
+        "被一大群—",
+        "—移动中的生物掀起来的。"
       ]
     },
     {
@@ -2793,6 +3424,12 @@
         "would",
         "have come",
         "to the conclusion"
+      ],
+      "zhPhrases": [
+        "观察者—",
+        "—早就会—",
+        "—得出—",
+        "—结论——"
       ]
     },
     {
@@ -2813,6 +3450,10 @@
       "phrases": [
         "which graze",
         "upon the prairie land"
+      ],
+      "zhPhrases": [
+        "[定从-句中插入] 什么野牛？→ 在草原上—",
+        "—吃草的那种——"
       ]
     },
     {
@@ -2827,6 +3468,11 @@
         "This",
         "was obviously impossible",
         "in these arid wilds."
+      ],
+      "zhPhrases": [
+        "在这—",
+        "—显然不可能—",
+        "—这片干旱荒地上。"
       ]
     },
     {
@@ -2835,6 +3481,11 @@
         "As the whirl",
         "of dust",
         "drew nearer"
+      ],
+      "zhPhrases": [
+        "【情境】随着那团—",
+        "—尘旋—",
+        "—越来越近——"
       ]
     },
     {
@@ -2848,6 +3499,10 @@
       "phrases": [
         "upon which the two castaways",
         "were reposing,"
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么样的山坡？→ 两个漂流者—",
+        "—正在休息的那处——"
       ]
     },
     {
@@ -2855,6 +3510,10 @@
       "phrases": [
         "the canvas-covered tilts",
         "of waggons"
+      ],
+      "zhPhrases": [
+        "→ 有帆布顶篷的—",
+        "—大车拱棚——"
       ]
     },
     {
@@ -2862,6 +3521,10 @@
       "phrases": [
         "and the figures",
         "of armed horsemen"
+      ],
+      "zhPhrases": [
+        "→ 和身影—",
+        "—武装骑手的——"
       ]
     },
     {
@@ -2869,6 +3532,10 @@
       "phrases": [
         "began to show up",
         "through the haze,"
+      ],
+      "zhPhrases": [
+        "← 回来接谓语 →",
+        "开始透过雾霾显现出来——"
       ]
     },
     {
@@ -2882,6 +3549,10 @@
       "phrases": [
         "as being a great caravan",
         "upon its journey"
+      ],
+      "zhPhrases": [
+        "是什么？→ 是一支庞大的商队—",
+        "—正在途中。"
       ]
     },
     {
@@ -2902,6 +3573,11 @@
         "When the head",
         "of it",
         "had reached the"
+      ],
+      "zhPhrases": [
+        "【情境·当……时】当队伍的最前端—",
+        "—它的—",
+        "—已经到达山脚——"
       ]
     },
     {
@@ -2917,6 +3593,12 @@
         "was not",
         "yet visible",
         "on the horizon."
+      ],
+      "zhPhrases": [
+        "队伍的末尾—",
+        "—还—",
+        "—看不见—",
+        "—在地平线上。"
       ]
     },
     {
@@ -2957,6 +3639,10 @@
       "phrases": [
         "who staggered",
         "along under burdens,"
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么样的？→ 踉踉跄跄地走着—",
+        "—背着重物——"
       ]
     },
     {
@@ -2988,6 +3674,11 @@
         "This",
         "was evidently no ordinary party",
         "of immigrants,"
+      ],
+      "zhPhrases": [
+        "这—",
+        "—显然不是普通的队伍—",
+        "—移民的——"
       ]
     },
     {
@@ -3003,6 +3694,12 @@
         "been compelled",
         "from stress",
         "of circumstances"
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么样的？→ 他们—",
+        "—被迫—",
+        "—被形势—",
+        "—所迫——"
       ]
     },
     {
@@ -3034,6 +3731,11 @@
         "and rumbling",
         "from this great mass",
         "of humanity,"
+      ],
+      "zhPhrases": [
+        "→ 隆隆声—",
+        "—从这庞大的—",
+        "—人群中发出——"
       ]
     },
     {
@@ -3043,6 +3745,12 @@
         "of wheels",
         "and the neighing",
         "of horses."
+      ],
+      "zhPhrases": [
+        "[with-补充] 还有车轮的吱吱声—",
+        "——",
+        "—和马的嘶鸣—",
+        "——"
       ]
     },
     {
@@ -3062,6 +3770,11 @@
         "it",
         "was not sufficient",
         "to rouse the two tired wayfarers"
+      ],
+      "zhPhrases": [
+        "【主张】还是—",
+        "—不足以—",
+        "—惊醒两个疲倦的旅人——"
       ]
     },
     {
@@ -3147,6 +3860,11 @@
         "\"The wells",
         "are to the right, my brothers,\"",
         "said one,"
+      ],
+      "zhPhrases": [
+        "“水井在右边—",
+        "——弟兄们”—",
+        "——其中一人说——"
       ]
     },
     {
@@ -3154,6 +3872,10 @@
       "phrases": [
         "a hard-lipped, clean-shaven man",
         "with grizzly hair."
+      ],
+      "zhPhrases": [
+        "[同位语] 什么样的人？→ 嘴唇硬朗、面容光洁的男人—",
+        "—头发花白。"
       ]
     },
     {
@@ -3173,6 +3895,11 @@
         "—so we",
         "shall reach the Rio Grande,\"",
         "said another."
+      ],
+      "zhPhrases": [
+        "——那样我们就能—",
+        "—到达里奥格兰德河—",
+        "——”另一人说。"
       ]
     },
     {
@@ -3181,6 +3908,11 @@
         "\"Fear not",
         "for water,\"",
         "cried a third."
+      ],
+      "zhPhrases": [
+        "“不必—",
+        "—为水担心—",
+        "——”第三人叫道。"
       ]
     },
     {
@@ -3189,6 +3921,11 @@
         "\"He who",
         "could draw it",
         "from the rocks"
+      ],
+      "zhPhrases": [
+        "“那位主—",
+        "—能取水—",
+        "—从岩石中——"
       ]
     },
     {
@@ -3209,6 +3946,11 @@
         "They",
         "were about",
         "to resume their journey"
+      ],
+      "zhPhrases": [
+        "他们—",
+        "—正要—",
+        "—重新出发——"
       ]
     },
     {
@@ -3217,6 +3959,11 @@
         "when one",
         "of the youngest",
         "and keenest-eyed"
+      ],
+      "zhPhrases": [
+        "【情境·转折】这时，其中一个—",
+        "—最年轻的—",
+        "—眼神最锐利的——"
       ]
     },
     {
@@ -3252,6 +3999,10 @@
       "phrases": [
         "showing up hard",
         "and bright"
+      ],
+      "zhPhrases": [
+        "在什么衬托下？→ 显得鲜明—",
+        "—而明亮——"
       ]
     },
     {
@@ -3284,6 +4035,10 @@
       "phrases": [
         "and unslinging",
         "of guns,"
+      ],
+      "zhPhrases": [
+        "→ 并取下了—",
+        "—枪——"
       ]
     },
     {
@@ -3292,6 +4047,11 @@
         "while fresh horsemen",
         "came galloping up",
         "to reinforce the vanguard."
+      ],
+      "zhPhrases": [
+        "【对照】同时更多骑手—",
+        "—策马奔来—",
+        "—支援先锋。"
       ]
     },
     {
@@ -3299,6 +4059,10 @@
       "phrases": [
         "The word \"Redskins\"",
         "was on every lip."
+      ],
+      "zhPhrases": [
+        "“红皮肤”这个词—",
+        "—挂在了每个人的嘴边。"
       ]
     },
     {
@@ -3307,6 +4071,11 @@
         "\"There can't",
         "be any number",
         "of Injuns here,\""
+      ],
+      "zhPhrases": [
+        "“这里不可能—",
+        "—有多少—",
+        "—印第安人——"
       ]
     },
     {
@@ -3321,6 +4090,11 @@
         "who appeared",
         "to be",
         "in command."
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么样的人？→ 看起来—",
+        "—是—",
+        "—指挥者的那位。"
       ]
     },
     {
@@ -3329,6 +4103,11 @@
         "\"We",
         "have",
         "passed the Pawnees,"
+      ],
+      "zhPhrases": [
+        "“我们—",
+        "—已经—",
+        "—过了波尼族的地界——"
       ]
     },
     {
@@ -3336,6 +4115,10 @@
       "phrases": [
         "and there",
         "are no other tribes"
+      ],
+      "zhPhrases": [
+        "→ 没有—",
+        "—其他部落了——"
       ]
     },
     {
@@ -3356,6 +4139,11 @@
         "and see, Brother Stangerson,\"",
         "asked one",
         "of the band."
+      ],
+      "zhPhrases": [
+        "→ 你瞧，斯坦格森弟兄—",
+        "——”队中的一人问—",
+        "——"
       ]
     },
     {
@@ -3364,6 +4152,11 @@
         "\"And I,\"",
         "\"and I,\"",
         "cried a dozen voices."
+      ],
+      "zhPhrases": [
+        "“我去！”—",
+        "—“我也去！”—",
+        "—十几个声音叫嚷起来。"
       ]
     },
     {
@@ -3390,6 +4183,10 @@
       "phrases": [
         "In a moment the young fellows",
         "had dismounted,"
+      ],
+      "zhPhrases": [
+        "片刻之间，年轻人们—",
+        "—就下了马——"
       ]
     },
     {
@@ -3438,6 +4235,11 @@
         "with the confidence",
         "and dexterity",
         "of practised scouts."
+      ],
+      "zhPhrases": [
+        "[with-描述状态] 带着什么？→ 带着自信—",
+        "—和敏捷—",
+        "—久经训练的侦察兵特有的。"
       ]
     },
     {
@@ -3457,6 +4259,11 @@
         "could see them flit",
         "from rock",
         "to rock"
+      ],
+      "zhPhrases": [
+        "能看见他们—",
+        "—从一块岩石飞—",
+        "—到另一块——"
       ]
     },
     {
@@ -3465,6 +4272,11 @@
         "until their figures",
         "stood out",
         "against the skyline."
+      ],
+      "zhPhrases": [
+        "【情境·直到】直到他们的身影—",
+        "—显现出来—",
+        "—在天际线上。"
       ]
     },
     {
@@ -3489,6 +4301,10 @@
       "phrases": [
         "Suddenly his followers",
         "saw him throw up his hands,"
+      ],
+      "zhPhrases": [
+        "突然，跟在后面的人—",
+        "—看见他把双手举了起来——"
       ]
     },
     {
@@ -3514,6 +4330,11 @@
         "they",
         "were affected",
         "in the same way"
+      ],
+      "zhPhrases": [
+        "他们—",
+        "—也受到了影响—",
+        "—同样的——"
       ]
     },
     {
@@ -3544,6 +4365,10 @@
       "phrases": [
         "there",
         "stood a single giant boulder,"
+      ],
+      "zhPhrases": [
+        "← 回来接谓语 →",
+        "矗立着一块巨石——"
       ]
     },
     {
@@ -3557,6 +4382,10 @@
       "phrases": [
         "there",
         "lay a tall man,"
+      ],
+      "zhPhrases": [
+        "← 回来接谓语 →",
+        "躺着一个高挑的男人——"
       ]
     },
     {
@@ -3587,6 +4416,10 @@
       "phrases": [
         "showed that he",
         "was fast asleep."
+      ],
+      "zhPhrases": [
+        "说明—",
+        "—他睡得正酣。"
       ]
     },
     {
@@ -3640,6 +4473,11 @@
         "showing the regular line",
         "of snow-white teeth",
         "within,"
+      ],
+      "zhPhrases": [
+        "[分词-句末伴随] 露出里面—",
+        "—整齐的雪白牙齿—",
+        "——"
       ]
     },
     {
@@ -3664,6 +4502,10 @@
       "phrases": [
         "terminating in white socks",
         "and neat shoes"
+      ],
+      "zhPhrases": [
+        "[分词-后置修饰] 以白色短袜结束—",
+        "—和干净的小鞋——"
       ]
     },
     {
@@ -3711,6 +4553,10 @@
       "phrases": [
         "there",
         "stood three solemn buzzards,"
+      ],
+      "zhPhrases": [
+        "← 回来接谓语 →",
+        "站着三只庄严肃穆的秃鹰——"
       ]
     },
     {
@@ -3718,6 +4564,10 @@
       "phrases": [
         "who, at the sight",
         "of the new comers"
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么样的？→ 看到—",
+        "—新来者的时候——"
       ]
     },
     {
@@ -3725,6 +4575,10 @@
       "phrases": [
         "uttered raucous screams",
         "of disappointment"
+      ],
+      "zhPhrases": [
+        "← 回来接谓语 →",
+        "发出刺耳的失望叫声——"
       ]
     },
     {
@@ -3756,6 +4610,11 @@
         "who stared",
         "about them",
         "in bewilderment."
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么样的人？→ 茫然—",
+        "—四顾—",
+        "—的那两个。"
       ]
     },
     {
@@ -3774,6 +4633,10 @@
       "phrases": [
         "and looked down",
         "upon the plain"
+      ],
+      "zhPhrases": [
+        "→ 俯视着—",
+        "—那片平原——"
       ]
     },
     {
@@ -3783,6 +4646,12 @@
         "been so desolate",
         "when sleep",
         "had overtaken him,"
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么样的平原？→ 曾经—",
+        "—如此荒凉—",
+        "—他睡着时—",
+        "—还那么荒无人迹的——"
       ]
     },
     {
@@ -3790,6 +4659,10 @@
       "phrases": [
         "and which",
         "was now traversed"
+      ],
+      "zhPhrases": [
+        "→ 而现在—",
+        "—却被穿行——"
       ]
     },
     {
@@ -3798,6 +4671,11 @@
         "by this enormous body",
         "of men",
         "and of beasts."
+      ],
+      "zhPhrases": [
+        "这庞大的队伍—",
+        "—人—",
+        "—与兽。"
       ]
     },
     {
@@ -3823,6 +4701,11 @@
         "and he",
         "passed his boney hand",
         "over his eyes."
+      ],
+      "zhPhrases": [
+        "→ 他—",
+        "—用那只骨瘦如柴的手—",
+        "—抹了抹眼睛。"
       ]
     },
     {
@@ -3859,6 +4742,11 @@
         "holding on",
         "to the skirt",
         "of his coat,"
+      ],
+      "zhPhrases": [
+        "[分词-句末伴随] 拉着—",
+        "—衣角—",
+        "—他的——"
       ]
     },
     {
@@ -3878,6 +4766,10 @@
       "phrases": [
         "with the wondering questioning gaze",
         "of childhood."
+      ],
+      "zhPhrases": [
+        "[with-描述状态] 用什么眼神？→ 充满疑惑、追问的眼神—",
+        "—孩子特有的。"
       ]
     },
     {
@@ -3919,6 +4811,10 @@
       "phrases": [
         "and hoisted her",
         "upon his shoulder,"
+      ],
+      "zhPhrases": [
+        "→ 扛上了—",
+        "—肩膀——"
       ]
     },
     {
@@ -3951,6 +4847,12 @@
         "that little un",
         "are all that's",
         "left"
+      ],
+      "zhPhrases": [
+        "“我和—",
+        "—那个小家伙—",
+        "—是仅剩下的—",
+        "——"
       ]
     },
     {
@@ -3988,6 +4890,10 @@
       "phrases": [
         "\"Is she your child?\"",
         "asked someone."
+      ],
+      "zhPhrases": [
+        "“她是你的孩子吗？”—",
+        "—有人问。"
       ]
     },
     {
@@ -3996,6 +4902,11 @@
         "\"I guess she",
         "is now,\" the other",
         "cried, defiantly;"
+      ],
+      "zhPhrases": [
+        "“我想现在算是了—",
+        "——”另一人—",
+        "—毫不示弱地叫道；"
       ]
     },
     {
@@ -4010,6 +4921,11 @@
         "No man",
         "will take her",
         "from me."
+      ],
+      "zhPhrases": [
+        "没有人—",
+        "—能把她带走—",
+        "—从我这里。"
       ]
     },
     {
@@ -4018,6 +4934,11 @@
         "She's Lucy Ferrier",
         "from this day",
         "on."
+      ],
+      "zhPhrases": [
+        "她就是露西·费瑞尔了—",
+        "—从今天起—",
+        "——"
       ]
     },
     {
@@ -4048,6 +4969,11 @@
         "\"there seems",
         "to be a powerful lot",
         "of ye.\""
+      ],
+      "zhPhrases": [
+        "“你们看起来—",
+        "—人可真多—",
+        "——啊。”"
       ]
     },
     {
@@ -4056,6 +4982,11 @@
         "\"Nigh upon ten thousand,\"",
         "said one",
         "of the young men;"
+      ],
+      "zhPhrases": [
+        "“将近一万人—",
+        "——”一个说—",
+        "—年轻人中的；"
       ]
     },
     {
@@ -4064,6 +4995,11 @@
         "\"we",
         "are the persecuted children",
         "of God"
+      ],
+      "zhPhrases": [
+        "“我们—",
+        "—是上帝受苦难的子民—",
+        "——"
       ]
     },
     {
@@ -4071,6 +5007,10 @@
       "phrases": [
         "—the chosen",
         "of the Angel Merona.\""
+      ],
+      "zhPhrases": [
+        "——天使莫罗纳—",
+        "—所拣选的。”"
       ]
     },
     {
@@ -4080,6 +5020,12 @@
         "heard tell",
         "on him,\"",
         "said the wanderer."
+      ],
+      "zhPhrases": [
+        "“我从没—",
+        "—听说过—",
+        "—他—",
+        "——”流浪者说。"
       ]
     },
     {
@@ -4088,6 +5034,11 @@
         "\"He appears",
         "to have chosen a fair crowd",
         "of ye.\""
+      ],
+      "zhPhrases": [
+        "“他看来—",
+        "—拣选了你们一大群—",
+        "——”"
       ]
     },
     {
@@ -4095,6 +5046,10 @@
       "phrases": [
         "\"Do not jest",
         "at"
+      ],
+      "zhPhrases": [
+        "“请勿—",
+        "—玩笑—"
       ]
     },
     {
@@ -4103,6 +5058,11 @@
         "that which",
         "is sacred,\"",
         "said the other sternly."
+      ],
+      "zhPhrases": [
+        "→ 对神圣之物—",
+        "——”另一人—",
+        "—严肃地说。"
       ]
     },
     {
@@ -4112,6 +5072,12 @@
         "are of those",
         "who believe",
         "in those sacred writings,"
+      ],
+      "zhPhrases": [
+        "“我们—",
+        "—是那些人—",
+        "—相信的—",
+        "—神圣文字的——"
       ]
     },
     {
@@ -4144,6 +5110,11 @@
         "We",
         "have come",
         "from Nauvoo,"
+      ],
+      "zhPhrases": [
+        "我们—",
+        "—来—",
+        "—从诺伍——"
       ]
     },
     {
@@ -4174,6 +5145,11 @@
         "We",
         "have come",
         "to seek a refuge"
+      ],
+      "zhPhrases": [
+        "我们—",
+        "—来—",
+        "—寻找庇护之地——"
       ]
     },
     {
@@ -4181,6 +5157,10 @@
       "phrases": [
         "from the violent man",
         "and from the godless,"
+      ],
+      "zhPhrases": [
+        "避开什么？→ 避开暴力之人—",
+        "—和不敬神者——"
       ]
     },
     {
@@ -4189,6 +5169,11 @@
         "even though it",
         "be the heart",
         "of the desert.\""
+      ],
+      "zhPhrases": [
+        "【让步】就算那庇护地—",
+        "—是深处—",
+        "—沙漠的。”"
       ]
     },
     {
@@ -4197,6 +5182,11 @@
         "The name",
         "of Nauvoo evidently recalled recollections",
         "to John Ferrier."
+      ],
+      "zhPhrases": [
+        "“诺伍”这个名字—",
+        "—显然让人想起了什么—",
+        "—约翰·费瑞尔。"
       ]
     },
     {
@@ -4219,6 +5209,12 @@
         "are the Mormons,\"",
         "answered his companions",
         "with one voice."
+      ],
+      "zhPhrases": [
+        "“我们—",
+        "—是摩门教徒—",
+        "——”他的同伴们—",
+        "—异口同声地回答。"
       ]
     },
     {
@@ -4226,6 +5222,10 @@
       "phrases": [
         "\"And where",
         "are you going?\""
+      ],
+      "zhPhrases": [
+        "“那你们要去—",
+        "—哪里？”"
       ]
     },
     {
@@ -4233,6 +5233,10 @@
       "phrases": [
         "\"We",
         "do not know."
+      ],
+      "zhPhrases": [
+        "“我们—",
+        "—不知道。"
       ]
     },
     {
@@ -4241,6 +5245,11 @@
         "The hand",
         "of God",
         "is leading us"
+      ],
+      "zhPhrases": [
+        "上帝之手—",
+        "——",
+        "—正在引导我们——"
       ]
     },
     {
@@ -4260,6 +5269,11 @@
         "You",
         "must come",
         "before him."
+      ],
+      "zhPhrases": [
+        "你们—",
+        "—必须去—",
+        "—到他面前。"
       ]
     },
     {
@@ -4270,6 +5284,13 @@
         "is to",
         "be done",
         "with you.\""
+      ],
+      "zhPhrases": [
+        "他—",
+        "—会说—",
+        "—该—",
+        "—怎么处置—",
+        "—你们。”"
       ]
     },
     {
@@ -4278,6 +5299,11 @@
         "They",
         "had reached the base",
         "of the hill"
+      ],
+      "zhPhrases": [
+        "这时他们—",
+        "—已经到了—",
+        "—山脚——"
       ]
     },
     {
@@ -4324,6 +5350,12 @@
         "were the cries",
         "of astonishment",
         "and of commiseration"
+      ],
+      "zhPhrases": [
+        "许多—",
+        "—叫声—",
+        "—惊叹—",
+        "—和同情的——"
       ]
     },
     {
@@ -4331,6 +5363,10 @@
       "phrases": [
         "which arose",
         "from them"
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 怎么发出的？→ 升起来—",
+        "—从他们中间——"
       ]
     },
     {
@@ -4339,6 +5375,11 @@
         "when they perceived the youth",
         "of one",
         "of the strangers"
+      ],
+      "zhPhrases": [
+        "【情境·当】当他们看出—",
+        "—年幼—",
+        "—陌生者中一个——"
       ]
     },
     {
@@ -4368,6 +5409,10 @@
       "phrases": [
         "but pushed",
         "on,"
+      ],
+      "zhPhrases": [
+        "→ 而是继续—",
+        "—前进——"
       ]
     },
     {
@@ -4375,6 +5420,10 @@
       "phrases": [
         "followed by a great crowd",
         "of Mormons,"
+      ],
+      "zhPhrases": [
+        "[分词-后置修饰] 伴随着什么？→ 跟着一大群—",
+        "—摩门教徒——"
       ]
     },
     {
@@ -4388,6 +5437,10 @@
       "phrases": [
         "which was conspicuous",
         "for its great size"
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么样的大车？→ 引人注目的—",
+        "—因体积巨大——"
       ]
     },
     {
@@ -4409,6 +5462,11 @@
         "Six horses",
         "were yoked",
         "to it,"
+      ],
+      "zhPhrases": [
+        "六匹马—",
+        "—套着—",
+        "—它——"
       ]
     },
     {
@@ -4417,6 +5475,11 @@
         "whereas the others",
         "were furnished",
         "with two,"
+      ],
+      "zhPhrases": [
+        "【对比】而其他大车—",
+        "—只配置着—",
+        "—两匹——"
       ]
     },
     {
@@ -4441,6 +5504,10 @@
       "phrases": [
         "there",
         "sat a man"
+      ],
+      "zhPhrases": [
+        "← 回来接谓语 →",
+        "坐着一个人——"
       ]
     },
     {
@@ -4449,6 +5516,11 @@
         "who could not",
         "have",
         "been more than thirty"
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么样的人？→ 看来不—",
+        "—会—",
+        "—超过三十岁——"
       ]
     },
     {
@@ -4524,6 +5596,10 @@
       "phrases": [
         "Then he",
         "turned to the two castaways."
+      ],
+      "zhPhrases": [
+        "然后他—",
+        "—转向那两个落难者。"
       ]
     },
     {
@@ -4552,6 +5628,12 @@
         "can only",
         "be as believers",
         "in our own creed."
+      ],
+      "zhPhrases": [
+        "“【条件·心悬着】那只能是—",
+        "—作为—",
+        "—我们信仰的信徒—",
+        "——"
       ]
     },
     {
@@ -4561,6 +5643,12 @@
         "shall",
         "have no wolves",
         "in our fold."
+      ],
+      "zhPhrases": [
+        "我们—",
+        "—决不—",
+        "—容有狼—",
+        "—在我们的羊圈里。"
       ]
     },
     {
@@ -4570,6 +5658,12 @@
         "that your bones",
         "should bleach",
         "in this wilderness"
+      ],
+      "zhPhrases": [
+        "【假设·对比】好多了—",
+        "—你们的白骨—",
+        "—暴露—",
+        "—在这荒野中——"
       ]
     },
     {
@@ -4578,6 +5672,11 @@
         "than that you",
         "should prove",
         "to be"
+      ],
+      "zhPhrases": [
+        "【对比兑现】好过你们—",
+        "—成为—",
+        "—那腐烂之物——"
       ]
     },
     {
@@ -4603,6 +5702,11 @@
         "Will you come",
         "with us",
         "on these terms?\""
+      ],
+      "zhPhrases": [
+        "你们愿意跟我们走吗—",
+        "—跟我们—",
+        "—在这样的条件下？”"
       ]
     },
     {
@@ -4612,6 +5716,12 @@
         "with you",
         "on any terms,\"",
         "said Ferrier,"
+      ],
+      "zhPhrases": [
+        "“我想我都会跟你们走—",
+        "——跟你们—",
+        "—在任何条件下—",
+        "——”费瑞尔说——"
       ]
     },
     {
@@ -4647,6 +5757,10 @@
       "phrases": [
         "\"Take him, Brother Stangerson,\" he",
         "said,"
+      ],
+      "zhPhrases": [
+        "“把他带走，斯坦格森弟兄—",
+        "——”他说——"
       ]
     },
     {
@@ -4672,6 +5786,11 @@
         "Let it",
         "be your task also",
         "to teach"
+      ],
+      "zhPhrases": [
+        "让这—",
+        "—也成为你的任务—",
+        "—去教他——"
       ]
     },
     {
@@ -4685,6 +5804,10 @@
       "phrases": [
         "We",
         "have delayed long enough."
+      ],
+      "zhPhrases": [
+        "我们—",
+        "—已经耽搁得够久了。"
       ]
     },
     {
@@ -4705,6 +5828,12 @@
         "to Zion!\"",
         "cried the crowd",
         "of Mormons,"
+      ],
+      "zhPhrases": [
+        "“向锡安，向锡安！”—",
+        "—摩门教众—",
+        "—呼喊着—",
+        "——"
       ]
     },
     {
@@ -4729,6 +5858,10 @@
       "phrases": [
         "until they died away",
         "in a dull murmur"
+      ],
+      "zhPhrases": [
+        "【情境·直到】直到消失—",
+        "—成一阵低沉的嗡嗡声。"
       ]
     },
     {
@@ -4744,6 +5877,12 @@
         "of whips",
         "and a creaking",
         "of wheels"
+      ],
+      "zhPhrases": [
+        "[with-描述状态] 伴随着什么？→ 劈啪声—",
+        "—鞭子的—",
+        "—和嘎吱声—",
+        "—车轮的——"
       ]
     },
     {
@@ -4763,6 +5902,11 @@
         "and soon the whole caravan",
         "was winding",
         "along once more."
+      ],
+      "zhPhrases": [
+        "→ 不久整个商队—",
+        "—又蜿蜒—",
+        "—行进了。"
       ]
     },
     {
@@ -4770,6 +5914,10 @@
       "phrases": [
         "The Elder",
         "to"
+      ],
+      "zhPhrases": [
+        "→ 那位长老—",
+        "—交给——"
       ]
     },
     {
@@ -4778,6 +5926,11 @@
         "whose care the two waifs",
         "had",
         "been committed"
+      ],
+      "zhPhrases": [
+        "→ 被托付照管两个流浪儿的那位长老—",
+        "—曾—",
+        "—被委托——"
       ]
     },
     {
@@ -4808,6 +5961,11 @@
         "\"You",
         "shall remain here,\" he",
         "said."
+      ],
+      "zhPhrases": [
+        "“你们—",
+        "—留在这里—",
+        "——”他说。"
       ]
     },
     {
@@ -4816,6 +5974,11 @@
         "\"In a few days you",
         "will",
         "have recovered"
+      ],
+      "zhPhrases": [
+        "“再过几天—",
+        "—你们就会—",
+        "—恢复——"
       ]
     },
     {
@@ -4835,6 +5998,10 @@
       "phrases": [
         "remember that now",
         "and for ever"
+      ],
+      "zhPhrases": [
+        "记住—",
+        "—从今往后——"
       ]
     },
     {
@@ -4842,6 +6009,10 @@
       "phrases": [
         "you",
         "are of our religion."
+      ],
+      "zhPhrases": [
+        "你们—",
+        "—就是我们的信仰中人了。"
       ]
     },
     {
@@ -4850,6 +6021,11 @@
         "Brigham Young",
         "has",
         "said it,"
+      ],
+      "zhPhrases": [
+        "布里格姆·杨—",
+        "—已经—",
+        "—说了——"
       ]
     },
     {
@@ -4859,6 +6035,12 @@
         "has spoken",
         "with the voice",
         "of Joseph Smith,"
+      ],
+      "zhPhrases": [
+        "→ 而他—",
+        "—已经说了—",
+        "—用声音—",
+        "—约瑟夫·史密斯的——"
       ]
     },
     {
