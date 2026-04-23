@@ -8,6 +8,7 @@ const translationEl = $('translation')
 const progressEl = $('progress')
 const selectEl = $('course-select')
 const modifierBtn = $('modifier-toggle')
+const skeletonBtn = $('skeleton-toggle')
 
 // Phrase-starters that signal a modifier (prep phrase, adverbial, relative clause)
 const MODIFIER_STARTERS = new Set([
@@ -47,6 +48,7 @@ const state = {
   phraseIdx: 0,
   typed: '',
   modifierMode: localStorage.getItem('modifierMode') === '1',
+  skeletonMode: localStorage.getItem('skeletonMode') === '1',
   fullStage: false,
 }
 
@@ -56,14 +58,28 @@ function currentCourse() {
 function currentLesson() {
   return currentCourse().lessons[state.lessonIdx]
 }
+function rawChunk() {
+  return currentLesson().phrases[state.phraseIdx]
+}
+function firstWordWithTail(s) {
+  const m = s.trim().match(/^\S+/)
+  return m ? m[0] : s
+}
+function inSkeletonHint() {
+  if (state.fullStage || !state.skeletonMode) return false
+  const t = chunkType(rawChunk())
+  return t === 'prep' || t === 'clause'
+}
 function currentPhrase() {
   if (state.fullStage) return currentLesson().phrases.join(' ')
-  return currentLesson().phrases[state.phraseIdx]
+  const raw = rawChunk()
+  if (inSkeletonHint()) return firstWordWithTail(raw)
+  return raw
 }
 function inModifierPause() {
   // 整句阶段不参与修饰判断，避免句首 prep/clause 词被当作可跳过
   if (state.fullStage) return false
-  return state.modifierMode && isModifier(currentPhrase())
+  return state.modifierMode && isModifier(rawChunk())
 }
 
 function loadProgress() {
@@ -152,6 +168,12 @@ function render() {
   }
   if (state.fullStage) {
     html = `<span class="full-tag">整句</span>` + html + `<span class="modifier-hint"> ↵ 跳过</span>`
+  } else if (inSkeletonHint()) {
+    const raw = rawChunk()
+    const first = firstWordWithTail(raw)
+    const rest = raw.slice(first.length)
+    html = `<span class="skeleton-tag">骨架</span>` + html +
+      `<span class="skeleton-rest">${escapeHtml(rest)}</span>`
   }
   answerEl.innerHTML = html
 }
@@ -238,7 +260,7 @@ document.addEventListener('keydown', (e) => {
 })
 
 document.addEventListener('click', (e) => {
-  if (e.target !== selectEl && e.target !== modifierBtn) input.focus()
+  if (e.target !== selectEl && e.target !== modifierBtn && e.target !== skeletonBtn) input.focus()
 })
 
 selectEl.addEventListener('change', () => {
@@ -250,18 +272,34 @@ selectEl.addEventListener('change', () => {
   render()
 })
 
-// 修饰模式切换
-function applyModifierMode() {
+// 修饰 / 骨架模式切换（互斥）
+function applyModes() {
   modifierBtn.classList.toggle('active', state.modifierMode)
   modifierBtn.title = state.modifierMode ? '修饰模式：已开启（介词/从句自动跳过）' : '开启修饰模式'
+  skeletonBtn.classList.toggle('active', state.skeletonMode)
+  skeletonBtn.title = state.skeletonMode ? '骨架模式：已开启（修饰只打首词）' : '开启骨架模式'
 }
 
 modifierBtn.addEventListener('click', () => {
   state.modifierMode = !state.modifierMode
+  if (state.modifierMode) state.skeletonMode = false
+  localStorage.setItem('modifierMode', state.modifierMode ? '1' : '0')
+  localStorage.setItem('skeletonMode', state.skeletonMode ? '1' : '0')
+  state.typed = ''
+  input.value = ''
+  applyModes()
+  render()
+  input.focus()
+})
+
+skeletonBtn.addEventListener('click', () => {
+  state.skeletonMode = !state.skeletonMode
+  if (state.skeletonMode) state.modifierMode = false
+  localStorage.setItem('skeletonMode', state.skeletonMode ? '1' : '0')
   localStorage.setItem('modifierMode', state.modifierMode ? '1' : '0')
   state.typed = ''
   input.value = ''
-  applyModifierMode()
+  applyModes()
   render()
   input.focus()
 })
@@ -280,6 +318,6 @@ themeBtn.addEventListener('click', () => {
 
 renderCourses()
 loadProgress()
-applyModifierMode()
+applyModes()
 render()
 input.focus()

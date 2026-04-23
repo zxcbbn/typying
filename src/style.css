@@ -60,16 +60,24 @@ body.light {
 }
 .tab.active { color: var(--fg); border-bottom-color: var(--accent); }
 
-#modifier-toggle {
+#modifier-toggle, #skeleton-toggle {
   background: none; border: 1px solid var(--border);
   color: var(--muted); font-size: 12px; cursor: pointer;
   padding: 3px 8px; border-radius: 6px; letter-spacing: 0.5px;
   touch-action: manipulation;
 }
-#modifier-toggle:hover { color: var(--fg); border-color: var(--accent); }
+#modifier-toggle:hover, #skeleton-toggle:hover { color: var(--fg); border-color: var(--accent); }
 #modifier-toggle.active {
   color: var(--accent); border-color: var(--accent);
   background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+#skeleton-toggle.active {
+  color: #c084fc; border-color: #c084fc;
+  background: color-mix(in srgb, #c084fc 12%, transparent);
+}
+body.light #skeleton-toggle.active {
+  color: #9333ea; border-color: #9333ea;
+  background: color-mix(in srgb, #9333ea 12%, transparent);
 }
 
 #theme-toggle {
@@ -133,6 +141,21 @@ header select {
   color: var(--ok); border: 1px solid var(--ok);
   border-radius: 4px; padding: 1px 5px; margin-right: 6px;
   vertical-align: middle; opacity: 0.8;
+}
+
+/* 骨架模式：提示词小标签 + 后半 ghost */
+.skeleton-tag {
+  display: inline-block; font-size: 11px; font-family: inherit;
+  color: #c084fc; border: 1px solid #c084fc;
+  border-radius: 4px; padding: 1px 5px; margin-right: 6px;
+  vertical-align: middle; opacity: 0.85;
+}
+body.light .skeleton-tag { color: #9333ea; border-color: #9333ea; }
+.skeleton-rest {
+  color: var(--dim); opacity: 0.55;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: var(--answer-size); letter-spacing: 0.5px;
+  text-decoration: line-through; text-decoration-thickness: 1px;
 }
 
 #slots {
