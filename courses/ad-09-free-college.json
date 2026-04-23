@@ -4,12 +4,12 @@
     {
       "translation": "Claire 和 Paul 都说中了部分真相，但他们「免费还是不免费」的问法太粗。",
       "phrases": ["Both Claire and Paul", "catch part of the truth,", "but their \"free or not\" way", "of framing the question", "is too sharp."],
-      "zhPhrases": ["Claire 和 Paul 都", "说中了部分真相，", "但他们「免费还是不免费」的方式", "来框定这个问题", "太过粗糙。"]
+      "zhPhrases": ["Claire 和 Paul 二人", "都说中了部分真相，", "但他们那种「免费还是不免费」", "的提问方式", "太过粗糙。"]
     },
     {
       "translation": "我反对所有人都上免费大学，而是支持更有针对性的方案：低收入学生免学费，其他学生用按收入还款的贷款。",
       "phrases": ["I would argue against", "full free college for everyone,", "and instead support", "a more targeted plan:", "free tuition", "for low-income students,", "plus income-based loans", "for everyone else."],
-      "zhPhrases": ["我反对", "所有人免费上大学，", "而是支持", "更有针对性的方案：", "免学费", "给低收入学生，", "加上按收入还款的贷款", "给其他人。"]
+      "zhPhrases": ["我会反对", "让所有人都上免费大学，", "而是支持", "一个更有针对性的方案：", "免学费", "给低收入学生，", "外加按收入还款的贷款", "给其他所有人。"]
     },
     {
       "translation": "Claire 说机会重要，是对的。",
@@ -19,47 +19,47 @@
     {
       "translation": "但当所有人免学费时，付得起的家庭也拿到了这笔福利。",
       "phrases": ["But when tuition is free", "for everyone,", "families who could easily pay", "also get the benefit."],
-      "zhPhrases": ["但当学费全免", "针对所有人时，", "本来付得起的家庭", "也拿到了这笔福利。"]
+      "zhPhrases": ["但当学费免费", "对所有人开放时，", "那些本来付得起的家庭", "也拿到了这笔福利。"]
     },
     {
       "translation": "在德国，富裕家庭和贫困家庭拿到的补贴一样多，本该帮更需要学生的公共资金被摊薄到了全体人口上。",
       "phrases": ["In Germany,", "wealthy parents", "get the same subsidy", "as poor ones,", "and public money", "that could have helped", "needier students", "gets spread thin", "across the whole population."],
-      "zhPhrases": ["在德国，", "富裕家庭的父母", "拿到同等补贴", "与贫困家庭一样，", "而公共资金", "本可以帮助", "更需要的学生，", "却被摊薄", "到了全体人口上。"]
+      "zhPhrases": ["在德国，", "富裕的父母", "拿到同样的补贴，", "和贫困家庭一样，", "而那些公共资金", "本可以去帮助", "更需要帮助的学生，", "如今却被摊薄", "到了全体人口身上。"]
     },
     {
       "translation": "与此同时，正如 Paul 担心的，入学人数上升而教室数量不变。",
       "phrases": ["At the same time,", "as Paul worries,", "enrollment goes up", "while the number of classrooms", "does not."],
-      "zhPhrases": ["与此同时，", "正如 Paul 担心的，", "入学人数上升，", "而教室数量", "并没有增加。"]
+      "zhPhrases": ["与此同时，", "正如 Paul 所担心的，", "入学人数上升，", "而教室的数量", "却并没有增加。"]
     },
     {
       "translation": "课堂拥挤、质量下降在几个欧洲国家已经出现。",
       "phrases": ["Crowded lectures", "and falling quality", "have already shown up", "in several European countries."],
-      "zhPhrases": ["课堂拥挤", "和质量下降", "已经出现", "在几个欧洲国家。"]
+      "zhPhrases": ["课堂拥挤", "和质量下降", "都已经出现", "在几个欧洲国家。"]
     },
     {
       "translation": "一个更好的方案对准真正的问题。",
       "phrases": ["A better plan", "targets the real problem."],
-      "zhPhrases": ["一个更好的方案", "对准真正的问题。"]
+      "zhPhrases": ["一个更好的方案", "才能对准真正的问题。"]
     },
     {
       "translation": "来自低收入家庭的学生不交钱，真正的门槛被搬走。",
       "phrases": ["Students from", "low-income families", "pay nothing,", "which removes", "the real barrier."],
-      "zhPhrases": ["来自", "低收入家庭的学生", "不用交钱，", "这就搬走了", "真正的门槛。"]
+      "zhPhrases": ["那些来自", "低收入家庭的学生", "无需交钱，", "这就搬走了", "真正的门槛。"]
     },
     {
       "translation": "其他学生贷款，收入过了门槛才开始还——澳大利亚多年来就是这个模式。",
       "phrases": ["Other students take loans", "and only start paying back", "after their income", "passes a set level —", "this is the model", "Australia has used for years."],
-      "zhPhrases": ["其他学生贷款，", "只有当收入", "超过门槛后", "才开始还款——", "这就是", "澳大利亚多年使用的模式。"]
+      "zhPhrases": ["其他学生则选择贷款，", "并且只有开始偿还", "当他们的收入", "超过设定门槛之后——", "这正是", "澳大利亚多年沿用的模式。"]
     },
     {
       "translation": "公平被保留，富裕家庭不再搭便车，学生也能感到自己付出的价值。",
       "phrases": ["Fairness is kept,", "wealthy families stop free-riding,", "and students still feel", "the value of what", "they are paying for."],
-      "zhPhrases": ["公平得以保留，", "富裕家庭不再搭便车，", "学生依然能感受到", "他们所付出的", "那份价值。"]
+      "zhPhrases": ["公平得以保留，", "富裕家庭不再搭便车，", "而学生依然能感受到", "他们所付费换来的", "那份价值。"]
     },
     {
       "translation": "「全民免费」听着公平。一个精细的方案其实更公平。",
       "phrases": ["\"Free for all\" sounds fair.", "A careful plan", "is actually fairer."],
-      "zhPhrases": ["「全民免费」听着公平。", "一个精细的方案", "其实更公平。"]
+      "zhPhrases": ["「全民免费」听起来公平。", "一个精细设计的方案", "其实才更公平。"]
     }
   ]
 }

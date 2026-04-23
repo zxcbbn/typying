@@ -2,34 +2,34 @@
   "title": "AD #6 · Government in the Economy (Path B)",
   "lessons": [
     {
-      "translation": "Claire 说政府应介入保护消费者，Andrew 说政府应退让让企业发展。",
+      "translation": "Claire 说政府应介入保护消费者，Andrew 说政府应退让，让企业发展。",
       "phrases": ["Claire says", "the government should step in", "to protect consumers,", "Andrew says", "it should step aside", "so business can grow."],
-      "zhPhrases": ["Claire 说", "政府应该介入", "以保护消费者，", "Andrew 说", "政府应该退让，", "让企业得以发展。"]
+      "zhPhrases": ["Claire 说", "政府应该介入，", "以保护消费者，", "Andrew 说", "政府应该退让，", "让企业得以发展。"]
     },
     {
       "translation": "我认为两种观点都跳过了让任何一方真正成立的东西。",
       "phrases": ["I think", "both views skip over", "what actually makes", "either side possible."],
-      "zhPhrases": ["我认为", "两种观点都跳过了", "真正让", "任何一方成立的东西。"]
+      "zhPhrases": ["我认为，", "两种观点都跳过了", "真正让", "任何一方成立的东西。"]
     },
     {
-      "translation": "政府最有用的角色是建设公共基础——道路、学校、基础研究——这些单家企业不会买单但每家企业都离不开。",
+      "translation": "政府最有用的角色是建设公共基础——道路、学校、电网、基础研究——这些单家企业不会买单但每家企业都离不开的东西。",
       "phrases": ["The most useful role of government", "is to build the common base —", "roads, schools,", "power grids,", "and basic research —", "that no single company", "will pay for", "but every company needs", "in order to work."],
-      "zhPhrases": ["政府最有用的角色", "是建设公共基础——", "道路、学校、", "电网、", "以及基础研究——", "没有单家企业", "愿意买单，", "但每家企业都需要这些", "才能运转。"]
+      "zhPhrases": ["政府最有用的角色，", "是建设公共基础——", "道路、学校、", "电网，", "以及基础研究——", "没有单家企业", "愿意买单，", "但每家企业都需要这些，", "才能运转。"]
     },
     {
-      "translation": "两种观点缺了这个底座都撑不住。",
+      "translation": "两种观点缺了这个底座，都会垮掉。",
       "phrases": ["Each of the two views", "collapses", "without this base."],
-      "zhPhrases": ["两种观点中的每一种", "都会垮掉，", "缺了这个底座。"]
+      "zhPhrases": ["两种观点中的每一种", "都会垮掉，", "一旦缺了这个底座。"]
     },
     {
-      "translation": "保护消费者的规则只有在消费者有足够教育能读懂标签或贷款时才有效，而教育是公共的。",
+      "translation": "保护消费者的规则只在这种情况下才有效：消费者受过足够教育，能读懂标签或理解一笔贷款，而教育是公共的。",
       "phrases": ["Rules that protect buyers", "only help", "if buyers are educated enough", "to read a label", "or understand a loan,", "and education is public."],
-      "zhPhrases": ["保护消费者的规则", "只有在这时才有效：", "消费者受过足够的教育，", "能读懂一个标签，", "或理解一笔贷款，", "而教育是公共的。"]
+      "zhPhrases": ["保护消费者的规则，", "只在这时才有用：", "消费者受过足够的教育，", "能读懂一个标签，", "或理解一笔贷款，", "而教育是公共的。"]
     },
     {
       "translation": "商业自由也只有在道路、法庭、电力已经存在的地方才起作用，因为没有企业会自己建这些。",
       "phrases": ["Business freedom only works", "where roads, courts, and electricity", "already exist,", "since no company builds those", "by itself."],
-      "zhPhrases": ["商业自由只有在这样的地方才起作用：", "道路、法庭和电力", "已经存在，", "因为没有企业", "会自己建这些。"]
+      "zhPhrases": ["商业自由只在这种地方起作用：", "道路、法庭和电力", "已经存在，", "因为没有企业会建造这些，", "靠它自己。"]
     },
     {
       "translation": "历史把这一点说得很清楚。",
@@ -39,27 +39,27 @@
     {
       "translation": "硅谷不是靠减少监管产生的。",
       "phrases": ["Silicon Valley", "did not come from", "less regulation."],
-      "zhPhrases": ["硅谷", "不是靠着", "减少监管产生的。"]
+      "zhPhrases": ["硅谷", "并非产生于", "减少的监管。"]
     },
     {
-      "translation": "它来自几十年的联邦资金投入，花在斯坦福和 DARPA，产出了互联网、GPS 和晶体管。",
+      "translation": "它来自几十年花在斯坦福和 DARPA 的联邦资金，这笔钱产出了互联网、GPS 和晶体管。",
       "phrases": ["It came from", "decades of federal money", "spent at Stanford and DARPA", "that produced the internet,", "GPS, and the transistor."],
-      "zhPhrases": ["它来自", "几十年的联邦资金投入，", "花在斯坦福和 DARPA，", "产出了互联网、", "GPS 和晶体管。"]
+      "zhPhrases": ["它来自于", "几十年的联邦资金，", "花在斯坦福和 DARPA，", "这笔钱产出了互联网、", "GPS 和晶体管。"]
     },
     {
       "translation": "德国强大的中型工厂依赖部分由国家资助的 Fraunhofer 研究中心。",
       "phrases": ["Germany's strong mid-sized factories", "rely on Fraunhofer research centers", "partly paid for", "by the state."],
-      "zhPhrases": ["德国强大的中型工厂", "依赖 Fraunhofer 研究中心，", "这些中心部分", "由国家资助。"]
+      "zhPhrases": ["德国强大的中型工厂，", "依赖 Fraunhofer 研究中心，", "而这些中心部分由", "国家资助。"]
     },
     {
-      "translation": "这些都没替代市场，而是搭起了市场表演的舞台。",
+      "translation": "这些都没替代市场，它们只是搭起了市场表演的舞台。",
       "phrases": ["None of these", "replaced the market;", "they built the stage", "the market performs on."],
-      "zhPhrases": ["这些都没有", "替代市场；", "它们搭起了那个舞台，", "市场在上面表演。"]
+      "zhPhrases": ["这些都没有", "替代市场；", "它们搭起了那个舞台，", "市场在其上表演。"]
     },
     {
-      "translation": "规则和自由只是小旋钮。最深的那个——影响最广的——是政府是否建起了市场自己建不了的东西。",
+      "translation": "规则和自由只是小旋钮。最深的那个——影响最广的那个——是政府是否建起了市场自身建不了的东西。",
       "phrases": ["Rules and freedom", "are smaller knobs.", "The deepest one —", "the one with the widest reach —", "is whether the government builds", "what markets cannot build", "for themselves."],
-      "zhPhrases": ["规则和自由", "只是小旋钮。", "最深的那个——", "影响最广的那个——", "是政府是否建起了", "市场自己建不了的东西，", "靠市场自身。"]
+      "zhPhrases": ["规则和自由，", "只是小旋钮。", "最深的那个——", "影响最广的那个——", "是政府是否建起了", "市场自己建不了的东西，", "靠市场自身。"]
     }
   ]
 }

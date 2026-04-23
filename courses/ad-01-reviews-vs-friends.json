@@ -2,34 +2,34 @@
   "title": "AD #1 · Reviews vs Friends (Path A)",
   "lessons": [
     {
-      "translation": "我认为最好的来源取决于你买的是什么。",
+      "translation": "我认为更好的来源取决于你要买的是什么。",
       "phrases": ["I think", "the better source depends on", "what you are buying."],
-      "zhPhrases": ["我认为", "更好的来源取决于", "你买的是什么。"]
+      "zhPhrases": ["我认为", "更好的来源取决于", "你要买的是什么。"]
     },
     {
-      "translation": "Claire 和 Paul 都各选一边，好像这套答案适用于所有购买，但真正的分界线在标准化产品与个性化产品之间。",
+      "translation": "Claire 和 Paul 都各选一边，仿佛这套答案适用于所有购买，但真正的分界线在于标准化产品和个性化产品之间。",
       "phrases": ["Claire and Paul both pick one side", "as if it fits all purchases,", "but the real line runs", "between standard products", "and personal products."],
-      "zhPhrases": ["Claire 和 Paul 都各选一边", "好像这套答案适用于所有购买，", "但真正的分界线在于", "标准化产品", "与个性化产品之间。"]
+      "zhPhrases": ["Claire 和 Paul 都各选一边，", "仿佛这套答案适用于所有购买，", "但真正的分界线在于", "标准化产品", "和个性化产品之间。"]
     },
     {
-      "translation": "对于标准化商品——手机、笔记本、电池、电饭煲——网络测评明显胜出。",
+      "translation": "对于标准化商品——手机、笔记本、电池、电饭煲——网上测评明显胜出。",
       "phrases": ["For standard goods —", "phones, laptops, batteries, rice cookers —", "online reviews clearly win."],
-      "zhPhrases": ["对于标准化商品——", "手机、笔记本、电池、电饭煲——", "网络测评明显胜出。"]
+      "zhPhrases": ["对于标准化商品——", "手机、笔记本、电池、电饭煲——", "网上测评明显胜出。"]
     },
     {
-      "translation": "这些产品有清晰的参数，每位买家拿到的是同一版本，所以你读的测评越多，越接近真相。",
+      "translation": "这些产品有清晰的参数，而且同一个版本交到每位买家手里，所以你读的测评越多，就越接近真相。",
       "phrases": ["These products have clear numbers", "and the same version", "goes to every buyer,", "so the more reviews you read,", "the closer you get to the truth."],
-      "zhPhrases": ["这些产品有清晰的参数，", "而且同一版本", "每位买家拿到的都一样，", "所以你读的测评越多，", "越接近真相。"]
+      "zhPhrases": ["这些产品有清晰的参数，", "而且同一个版本", "交到每位买家手里，", "所以你读的测评越多，", "就越接近真相。"]
     },
     {
-      "translation": "我朋友只用过一部手机；而测评网站有一万名用户的数据。",
+      "translation": "我朋友只用过一部手机；测评网站却有来自一万名用户的数据。",
       "phrases": ["My friend has only used one phone;", "a review website has data", "from ten thousand users."],
-      "zhPhrases": ["我朋友只用过一部手机；", "而测评网站有数据", "来自一万名用户。"]
+      "zhPhrases": ["我朋友只用过一部手机；", "而测评网站拥有的数据", "来自一万名用户。"]
     },
     {
-      "translation": "这种情况下，速度和数量都指向网络。",
+      "translation": "这种情况下，速度和数量都指向互联网。",
       "phrases": ["In this case", "speed and volume", "both point to the internet."],
-      "zhPhrases": ["这种情况下，", "速度和数量", "都指向网络。"]
+      "zhPhrases": ["这种情况下，", "速度和数量", "都指向互联网。"]
     },
     {
       "translation": "对于个性化商品——鞋子、衣服、护肤品、生日礼物——朋友大幅胜出。",
@@ -37,14 +37,14 @@
       "zhPhrases": ["对于个性化商品——", "鞋子、衣服、护肤品、生日礼物——", "朋友大幅胜出。"]
     },
     {
-      "translation": "跑鞋每只脚穿着感受都不一样，一千个陌生人的评价对我自己几乎没帮助。",
+      "translation": "跑鞋的穿着感受因脚而异，一千个陌生人的评分对我自己的脚几乎说明不了什么。",
       "phrases": ["Running shoes fit differently", "on every foot,", "and a thousand strangers' ratings", "tell me very little", "about my own."],
-      "zhPhrases": ["跑鞋穿着感受各不相同，", "每只脚都不一样，", "而一千个陌生人的评价", "几乎没有什么参考价值", "对于我自己的脚。"]
+      "zhPhrases": ["跑鞋的穿着感受各不相同，", "因脚而异，", "而一千个陌生人的评分", "几乎说明不了什么，", "对于我自己的脚。"]
     },
     {
-      "translation": "一个陪我跑了一年的室友，十分钟就能挑出合适的鞋。",
+      "translation": "一个陪我跑了一年步的室友，十分钟就能挑出合适的那双。",
       "phrases": ["A roommate", "who has jogged with me", "for a year", "can pick the right pair", "in ten minutes."],
-      "zhPhrases": ["一个室友，", "曾陪我一起跑步", "长达一年，", "能挑出合适的鞋子", "只需十分钟。"]
+      "zhPhrases": ["一个室友，", "曾陪我一起跑步", "长达一年，", "就能挑出合适的鞋子，", "只需十分钟。"]
     },
     {
       "translation": "礼物也是同样的逻辑：陌生人的评论不会了解我母亲的品味，我姐姐会。",
@@ -52,9 +52,9 @@
       "zhPhrases": ["同样的逻辑", "也适用于礼物：", "陌生人的评论", "不会了解我母亲的品味；", "我姐姐会。"]
     },
     {
-      "translation": "所以公道的答案不是非此即彼，而是为不同东西选对渠道：标准化看网络，个性化问朋友。",
+      "translation": "所以公道的答案不是非此即彼，而是为不同东西选对渠道：标准化的看网络，个性化的问朋友。",
       "phrases": ["So the fair answer", "is not either-or", "but which-for-what:", "online for the standard,", "friends for the personal."],
-      "zhPhrases": ["所以公道的答案", "不是非此即彼，", "而是为不同东西选对渠道：", "标准化的看网络，", "个性化的问朋友。"]
+      "zhPhrases": ["所以公道的答案", "不是非此即彼，", "而是对症下药：", "标准化的看网络，", "个性化的问朋友。"]
     }
   ]
 }

@@ -4,32 +4,32 @@
     {
       "translation": "虽然清洁水对人类生存至关重要，应被认定为基本权利，但我并不认为这自动意味着家庭用水应完全免费。",
       "phrases": ["While clean water", "is undoubtedly essential", "for human survival", "and should be recognised", "as a fundamental right,", "I do not believe", "this automatically means", "households should receive it", "completely free of charge."],
-      "zhPhrases": ["虽然清洁水", "无疑是至关重要的", "对人类生存而言，", "并应当被认定", "为一项基本权利，", "但我并不认为", "这自动意味着", "家庭应当获得它", "完全免费。"]
+      "zhPhrases": ["虽然清洁水", "无疑至关重要", "对人类生存而言", "并应当被认定", "为一项基本权利，", "但我并不认为", "这自动意味着", "家庭就应获得用水", "完全免费。"]
     },
     {
       "translation": "在我看来，政府应保证基本用水免费，超出部分收费。",
       "phrases": ["In my view,", "governments should guarantee", "a basic amount of water", "for free,", "but charge", "for any usage beyond that."],
-      "zhPhrases": ["在我看来，", "政府应当保证", "基本用水量", "免费，", "但对", "超出部分收费。"]
+      "zhPhrases": ["在我看来，", "政府应当保证", "基本用水量", "免费提供，", "但要收费", "对超出的任何用量。"]
     },
     {
       "translation": "支持免费供水的人有令人信服的道德理由。",
       "phrases": ["Those who support", "free water supply", "have a compelling moral case."],
-      "zhPhrases": ["支持", "免费供水的人", "有令人信服的道德理由。"]
+      "zhPhrases": ["支持者", "对于免费供水", "有令人信服的道德理由。"]
     },
     {
       "translation": "没人应该因为付不起钱就被拒之门外；在许多发展中地区，家庭仍要步行数小时从不安全水源取水。",
       "phrases": ["No one should be denied water", "simply because", "they cannot afford it,", "and in many developing regions,", "families still walk for hours", "to fetch water", "from unsafe sources."],
-      "zhPhrases": ["没有人应该被拒绝用水，", "仅仅因为", "他们付不起钱，", "而在许多发展中地区，", "家庭仍步行数小时", "去取水，", "从不安全的水源。"]
+      "zhPhrases": ["没有人应该被拒绝用水，", "仅仅因为", "他们付不起钱，", "而在许多发展中地区，", "家庭仍要步行数小时", "去取水，", "从不安全的水源。"]
     },
     {
       "translation": "让水免费将确保即便是最贫困的公民也能维持卫生、做饭、保持健康。",
       "phrases": ["Making water free", "would ensure that", "even the poorest citizens", "can maintain hygiene,", "cook meals,", "and stay healthy."],
-      "zhPhrases": ["让水免费", "将确保", "即便是最贫困的公民", "也能维持卫生、", "做饭，", "以及保持健康。"]
+      "zhPhrases": ["让水免费", "将确保", "即便是最贫困的公民", "也能维持卫生、", "做饭，", "并保持健康。"]
     },
     {
       "translation": "这也会减少霍乱等水传播疾病的扩散，这些疾病在非洲和南亚部分地区仍是严重的公共卫生威胁。",
       "phrases": ["This would also reduce", "the spread of", "waterborne diseases", "such as cholera,", "which remains a serious", "public health threat", "in parts of Africa and South Asia."],
-      "zhPhrases": ["这也会减少", "水传播疾病的扩散，", "例如霍乱，", "这类疾病", "仍是严重的", "公共卫生威胁，", "在非洲和南亚部分地区。"]
+      "zhPhrases": ["这也会减少", "其扩散——", "水传播疾病", "例如霍乱，", "它仍是严重的", "公共卫生威胁，", "在非洲和南亚部分地区。"]
     },
     {
       "translation": "然而，把水完全免费会带来严重问题。",
@@ -54,12 +54,12 @@
     {
       "translation": "当人们觉得资源没价值时，就更可能让水龙头开着、过度浇灌花园、或对漏水的管子视而不见。",
       "phrases": ["When people feel", "a resource has no value,", "they are far more likely", "to leave taps running,", "overwater their gardens,", "or ignore leaking pipes."],
-      "zhPhrases": ["当人们觉得", "一种资源毫无价值时，", "他们就更可能", "让水龙头一直开着、", "过度浇灌花园，", "或对漏水的管子视而不见。"]
+      "zhPhrases": ["当人们觉得", "一种资源毫无价值时，", "他们就更有可能", "让水龙头一直开着、", "过度浇灌花园，", "或对漏水的管子视而不见。"]
     },
     {
       "translation": "像中国这样北方有上亿人口面临水资源短缺的国家，这种行为将是灾难性的。",
       "phrases": ["In countries like China,", "where water shortages", "affect hundreds of millions", "of people in the north,", "such behaviour would be disastrous."],
-      "zhPhrases": ["在中国这样的国家，", "水资源短缺", "影响着数亿", "北方人口，", "这种行为将是灾难性的。"]
+      "zhPhrases": ["在中国这样的国家，", "那里水资源短缺", "影响着数亿", "北方人口，", "这种行为将是灾难性的。"]
     },
     {
       "translation": "更平衡的方案是阶梯价格制。",
@@ -69,7 +69,7 @@
     {
       "translation": "每家可获得免费基础配额——足够饮用、做饭、清洗——而用量大的用户则支付逐级上涨的费率。",
       "phrases": ["Each household could receive", "a free basic quota —", "enough for drinking,", "cooking, and washing —", "while heavier users", "pay progressively higher rates."],
-      "zhPhrases": ["每家可获得", "免费基础配额——", "足够饮用，", "做饭和清洗——", "而用量较大的用户", "则支付逐级上涨的费率。"]
+      "zhPhrases": ["每家可获得", "免费基础配额——", "足够饮用、", "做饭和清洗——", "而用量较大的用户", "则支付逐级上涨的费率。"]
     },
     {
       "translation": "这种方式保护了穷人，反映了水的真实价值，并鼓励所有人负责任地使用。",

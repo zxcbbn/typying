@@ -2,7 +2,7 @@
   "title": "AD #7 · Classical Music (Path B)",
   "lessons": [
     {
-      "translation": "Claire 想多做新闻报道，Paul 想办免费商场演出。",
+      "translation": "Claire 想要更多的新闻报道，Paul 想要免费的商场演出。",
       "phrases": [
         "Claire wants",
         "more news coverage",
@@ -11,13 +11,13 @@
       ],
       "zhPhrases": [
         "Claire 想要",
-        "更多新闻报道",
+        "更多的新闻报道，",
         "而 Paul 想要",
-        "免费商场演出。"
+        "免费的商场演出。"
       ]
     },
     {
-      "translation": "两种做法都能让古典乐更可见，但都没真正解决问题：年轻人很难进入古典乐，因为它没有故事作伴。",
+      "translation": "两种做法都能让古典乐更可见，但都没真正解决问题：年轻人很难进入古典乐，因为它出现时没有故事作伴。",
       "phrases": [
         "Both would make",
         "classical music more visible,",
@@ -51,19 +51,22 @@
         "and short videos."
       ],
       "zhPhrases": [
-        "最有效的做法",
+        "最有效的做法，",
         "是把古典曲目嵌入",
-        "他们本来就在看的内容里——",
+        "那些东西之中，",
+        "他们本来就在看的——",
         "电影配乐、",
-        "游戏音乐、",
-        "以及",
-        "短视频。"
+        "游戏音乐，",
+        "以及短视频。"
       ]
     },
     {
       "translation": "原因很简单。",
       "phrases": [
         "The reason is simple."
+      ],
+      "zhPhrases": [
+        "原因很简单。"
       ]
     },
     {
@@ -74,13 +77,13 @@
         "a moment they already care about."
       ],
       "zhPhrases": [
-        "人们才会在意一首曲子，",
-        "当它绑定在",
-        "一个他们已经在意的时刻上。"
+        "人们会在意一首曲子，",
+        "当这首曲子绑在",
+        "一个他们本来就在意的时刻上。"
       ]
     },
     {
-      "translation": "当 Hans Zimmer 在《星际穿越》里用巴赫管风琴片段时，观众不是被告知要「欣赏古典乐」——他们是先被感动，然后好奇，流媒体数据显示他们几天内就搜了原曲。",
+      "translation": "当 Hans Zimmer 在《星际穿越》里用了一段巴赫管风琴片段，听众并没有被告知要「欣赏古典乐」——他们先是被感动，然后产生好奇，流媒体数据显示他们几天之内就搜了原曲。",
       "phrases": [
         "When Hans Zimmer",
         "used a Bach organ piece",
@@ -95,19 +98,19 @@
       ],
       "zhPhrases": [
         "当 Hans Zimmer",
-        "用了一段巴赫管风琴曲",
+        "用了一段巴赫管风琴曲，",
         "在《星际穿越》里，",
-        "听众没有被要求",
+        "听众并未被要求",
         "去「欣赏古典乐」——",
-        "他们先被感动，",
-        "然后产生好奇，",
-        "流媒体数据显示",
+        "他们先是被感动，",
+        "接着才产生好奇，",
+        "流媒体数据显示，",
         "他们搜了原曲，",
         "就在几天之内。"
       ]
     },
     {
-      "translation": "一段 TikTok 热门视频用的 Rachmaninoff 片段单日就能有上千万次播放。",
+      "translation": "一段短短的拉赫玛尼诺夫片段被用在热门 TikTok 视频里，就能在一天之内获得数千万次播放。",
       "phrases": [
         "One short Rachmaninoff clip",
         "used in a popular TikTok video",
@@ -133,7 +136,7 @@
       ]
     },
     {
-      "translation": "它是随机的、没有故事包裹、容易被听成背景噪音。",
+      "translation": "它是随机的，没有故事包裹，很容易被听成背景噪音。",
       "phrases": [
         "It is random,",
         "has no story around it,",
@@ -142,13 +145,13 @@
       ],
       "zhPhrases": [
         "它是随机的，",
-        "没有故事包裹，",
-        "很容易被当成",
+        "周围没有故事包裹，",
+        "很容易被听成",
         "背景噪音。"
       ]
     },
     {
-      "translation": "新闻报道也有同样的缺口：它能触达已经读新闻的人，而不是问题所指的年轻听众。",
+      "translation": "新闻报道也有同样的缺口：它触达的是本来就读新闻的人，而不是问题所指的年轻听众。",
       "phrases": [
         "News coverage has the same gap:",
         "it reaches people",
@@ -158,10 +161,10 @@
       ],
       "zhPhrases": [
         "新闻报道有同样的缺口：",
-        "它触达的是",
-        "本来就读新闻的人，",
-        "而不是",
-        "问题所指的年轻听众。"
+        "它触达的人，",
+        "是本来就读新闻的人，",
+        "而不是那群年轻听众，",
+        "问题所真正指向的。"
       ]
     },
     {
