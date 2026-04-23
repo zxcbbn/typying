@@ -262,7 +262,8 @@
     {
       "translation": "[分词-后置修饰] 什么样的忠诚和勇气？→ 由默里表现出来的。所谓默里，就是我的勤务兵。",
       "phrases": [
-        "shown by Murray, my orderly,"
+        "shown by Murray,",
+        "my orderly,"
       ]
     },
     {
@@ -558,7 +559,8 @@
     {
       "translation": "[分词-句末伴随] 过着怎样的生活？→ 既不舒适也毫无意义，",
       "phrases": [
-        "leading a comfortless, meaningless existence,"
+        "leading a comfortless,",
+        "meaningless existence,"
       ]
     },
     {
