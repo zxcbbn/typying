@@ -122,14 +122,32 @@ header select {
   font-size: clamp(14px, 2vw, 16px); line-height: 1.7;
   min-height: 1.7em;
 }
+/* 意群对齐的中文译文 */
+#translation .zh-done    { color: var(--muted); opacity: 0.55; }
+#translation .zh-active  { color: var(--fg); background: color-mix(in srgb, var(--accent) 18%, transparent); border-radius: 3px; padding: 1px 4px; margin: 0 1px; }
+#translation .zh-pending { color: var(--muted); }
+
+/* 整句回看 beat */
+#answer .replay {
+  font-family: inherit; font-size: clamp(18px, 2.6vw, 22px);
+  color: var(--fg); letter-spacing: 0; line-height: 1.6;
+  animation: replayIn 0.25s ease-out;
+}
+@keyframes replayIn { from { opacity: 0.2; } to { opacity: 1; } }
 
 #slots {
   display: flex; flex-wrap: wrap; gap: 8px; align-items: flex-end;
   min-height: 6px;
 }
-.slot { height: 4px; border-radius: 2px; background: var(--border); transition: background 0.15s; }
-.slot-done   { background: var(--ok); opacity: 0.7; }
-.slot-active { background: var(--accent); }
+.slot { height: 4px; border-radius: 2px; background: var(--border); transition: background 0.15s, opacity 0.15s; }
+/* chunk 类型着色：主干饱满，介词/从句稍弱但有色差，提示句子骨架 */
+.slot-type-core   { background: var(--fg);     opacity: 0.35; }
+.slot-type-prep   { background: var(--accent); opacity: 0.32; }
+.slot-type-clause { background: #c084fc;       opacity: 0.45; }
+body.light .slot-type-clause { background: #9333ea; opacity: 0.4; }
+/* 完成 / 激活：覆盖类型颜色 */
+.slot-done   { background: var(--ok) !important; opacity: 0.7 !important; }
+.slot-active { background: var(--accent) !important; opacity: 1 !important; }
 
 #answer {
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;

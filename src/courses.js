@@ -19,10 +19,17 @@ function normalize(data, id) {
     return {
       id,
       title: data.title || id,
-      lessons: data.lessons.map((l) => ({
-        translation: l.translation || '',
-        phrases: (l.phrases || []).filter(Boolean).map(asciify),
-      })),
+      lessons: data.lessons.map((l) => {
+        const phrases = (l.phrases || []).filter(Boolean).map(asciify)
+        const zhPhrases = Array.isArray(l.zhPhrases) && l.zhPhrases.length === phrases.length
+          ? l.zhPhrases
+          : null
+        return {
+          translation: l.translation || '',
+          phrases,
+          zhPhrases,
+        }
+      }),
     }
   }
   const statements = data.statements || []
