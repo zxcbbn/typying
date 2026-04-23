@@ -61,6 +61,8 @@ function currentPhrase() {
   return currentLesson().phrases[state.phraseIdx]
 }
 function inModifierPause() {
+  // 整句阶段不参与修饰判断，避免句首 prep/clause 词被当作可跳过
+  if (state.fullStage) return false
   return state.modifierMode && isModifier(currentPhrase())
 }
 
