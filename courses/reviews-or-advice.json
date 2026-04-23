@@ -4,39 +4,156 @@
   "lessons": [
     {
       "translation": "Claire 和 Paul 都提出了有效的观点，但我认为他们把问题框定成了非此即彼，其实不该这样。",
-      "phrases": ["Claire and Paul", "both raise valid points,", "but I think", "they are framing this", "as an either-or question", "when it really shouldn't be."]
+      "phrases": [
+        "Claire and Paul",
+        "both raise valid points,",
+        "but I think",
+        "they are framing this",
+        "as an either-or question",
+        "when it really shouldn't be."
+      ],
+      "zhPhrases": [
+        "Claire 和 Paul",
+        "都提出了有效的观点，",
+        "但我认为",
+        "他们把这个问题框定成了",
+        "非此即彼，",
+        "其实不该这样。"
+      ]
     },
     {
       "translation": "在我看来，合适的建议来源完全取决于所购买的商品。",
-      "phrases": ["In my view,", "the right source of advice", "depends entirely", "on what is being purchased."]
+      "phrases": [
+        "In my view,",
+        "the right source of advice",
+        "depends entirely",
+        "on what is being purchased."
+      ],
+      "zhPhrases": [
+        "在我看来，",
+        "合适的建议来源",
+        "完全取决于",
+        "所购买的商品。"
+      ]
     },
     {
       "translation": "对于低风险、标准化的商品——比如牙膏、电池或手机充电器——Claire 说得完全正确。",
-      "phrases": ["For low-stakes, standardized goods —", "think toothpaste, batteries,", "or a phone charger —", "Claire is absolutely right."]
+      "phrases": [
+        "For low-stakes, standardized goods —",
+        "think toothpaste, batteries,",
+        "or a phone charger —",
+        "Claire is absolutely right."
+      ],
+      "zhPhrases": [
+        "对于低风险、标准化的商品——",
+        "比如牙膏、电池，",
+        "或手机充电器——",
+        "Claire 说得完全正确。"
+      ]
     },
     {
       "translation": "评测网站让你在几分钟内比较几十个选项，而且由于质量差异不大，没必要为这点小事去麻烦朋友。",
-      "phrases": ["Review sites", "let you compare dozens of options", "in minutes,", "and since quality differences are minimal,", "there is no need", "to trouble a friend", "over something so small."]
+      "phrases": [
+        "Review sites",
+        "let you compare dozens of options",
+        "in minutes,",
+        "and since quality differences are minimal,",
+        "there is no need",
+        "to trouble a friend",
+        "over something so small."
+      ],
+      "zhPhrases": [
+        "评测网站",
+        "让你在几分钟内比较几十个选项，",
+        "而且质量差异不大，",
+        "没有必要",
+        "去麻烦朋友",
+        "为这点小事——",
+        "用评测就够了。"
+      ]
     },
     {
       "translation": "然而，对于个人适配度很重要的复杂购买决策，Paul 的观点就更有说服力了。",
-      "phrases": ["However,", "for complex purchases", "where personal fit matters,", "Paul's point", "becomes far more compelling."]
+      "phrases": [
+        "However,",
+        "for complex purchases",
+        "where personal fit matters,",
+        "Paul's point",
+        "becomes far more compelling."
+      ],
+      "zhPhrases": [
+        "然而，",
+        "对于复杂的购买决策，",
+        "个人适配度很重要时，",
+        "Paul 的观点",
+        "就更有说服力了。"
+      ]
     },
     {
       "translation": "以购买游戏笔记本为例。",
-      "phrases": ["Take buying a gaming laptop,", "for instance."]
+      "phrases": [
+        "Take buying a gaming laptop,",
+        "for instance."
+      ],
+      "zhPhrases": [
+        "以购买游戏笔记本为例，",
+        "举个例子。"
+      ]
     },
     {
       "translation": "网上评测可能对 GPU 的跑分赞不绝口，但它无法告诉我那款游戏实际上是否流畅运行。",
-      "phrases": ["Online reviews", "may sing the praises", "of a GPU's benchmark scores,", "but they cannot tell me", "whether the specific game I play", "will actually run smoothly."]
+      "phrases": [
+        "Online reviews",
+        "may sing the praises",
+        "of a GPU's benchmark scores,",
+        "but they cannot tell me",
+        "whether the specific game I play",
+        "will actually run smoothly."
+      ],
+      "zhPhrases": [
+        "网上评测",
+        "可能对",
+        "GPU 的跑分赞不绝口，",
+        "但它无法告诉我",
+        "我玩的那款特定游戏",
+        "是否真的流畅运行。"
+      ]
     },
     {
       "translation": "而一个有相同爱好的朋友，不仅能根据我的需求推荐合适的型号，还能让我亲手测试他的电脑——这是任何网站都无法复制的。",
-      "phrases": ["A friend who shares my hobby,", "on the other hand,", "can not only recommend a model", "suited to my needs", "but also let me test his own computer firsthand —", "something no website could ever replicate."]
+      "phrases": [
+        "A friend who shares my hobby,",
+        "on the other hand,",
+        "can not only recommend a model",
+        "suited to my needs",
+        "but also let me test his own computer firsthand —",
+        "something no website could ever replicate."
+      ],
+      "zhPhrases": [
+        "而有相同爱好的朋友，",
+        "另一方面，",
+        "不仅能推荐一个型号",
+        "适合我的需求，",
+        "还能让我亲手测试他的电脑——",
+        "这是任何网站都无法复制的。"
+      ]
     },
     {
       "translation": "所以我的结论是：标准化产品就上网看评测，复杂的个性化购买就问朋友。",
-      "phrases": ["So I would say:", "go online", "for standardized products,", "ask friends", "for complex, personalized ones."]
+      "phrases": [
+        "So I would say:",
+        "go online",
+        "for standardized products,",
+        "ask friends",
+        "for complex, personalized ones."
+      ],
+      "zhPhrases": [
+        "所以我的结论是：",
+        "上网看评测，",
+        "针对标准化产品；",
+        "问朋友，",
+        "针对复杂的个性化购买。"
+      ]
     }
   ]
 }

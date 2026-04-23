@@ -3,43 +3,53 @@
   "lessons": [
     {
       "translation": "我认为 14 到 18 岁的大孩子从小组学习中获益更多，原因不是青少年更努力。",
-      "phrases": ["I believe older students,", "ages 14 to 18,", "benefit more", "from small-group learning,", "and the reason is not", "that teens try harder."]
+      "phrases": ["I believe older students,", "ages 14 to 18,", "benefit more", "from small-group learning,", "and the reason is not", "that teens try harder."],
+      "zhPhrases": ["我认为大孩子，", "14 到 18 岁，", "获益更多", "来自小组学习，", "原因不是", "青少年更努力。"]
     },
     {
       "translation": "小组合作的回报来自成员带来的不同知识，而这种差异正是小孩子还没建立起来的。",
-      "phrases": ["Group work pays off", "when members bring", "different knowledge", "to the table,", "and that difference", "is what young children", "have not yet built up."]
+      "phrases": ["Group work pays off", "when members bring", "different knowledge", "to the table,", "and that difference", "is what young children", "have not yet built up."],
+      "zhPhrases": ["小组合作才有回报，", "当成员带来", "不同的知识", "到讨论中，", "而这种差异", "正是小孩子", "还没建立起来的。"]
     },
     {
       "translation": "到了高中，学生开始专业化。",
-      "phrases": ["By high school,", "students have started", "to specialize."]
+      "phrases": ["By high school,", "students have started", "to specialize."],
+      "zhPhrases": ["到了高中，", "学生已经开始", "走向专业化。"]
     },
     {
       "translation": "一个同学读了很多历史，另一个会写代码，第三个擅长辩论。",
-      "phrases": ["One classmate", "has read a lot of history,", "another can code,", "a third is good at debate."]
+      "phrases": ["One classmate", "has read a lot of history,", "another can code,", "a third is good at debate."],
+      "zhPhrases": ["一个同学", "读了很多历史，", "另一个会写代码，", "第三个擅长辩论。"]
     },
     {
       "translation": "当他们做同一个项目时，每个人都能加入其他人没有的视角，最终成品比任何一个人单独做的都好。",
-      "phrases": ["When they work", "on the same project,", "each adds an angle", "the others do not have,", "and the final result", "is better than what", "any one of them", "could do alone."]
+      "phrases": ["When they work", "on the same project,", "each adds an angle", "the others do not have,", "and the final result", "is better than what", "any one of them", "could do alone."],
+      "zhPhrases": ["当他们", "做同一个项目时，", "每个人都加入了一个视角", "其他人没有的，", "而最终成品", "比任何人单独做的", "——任何一个人——", "都要好。"]
     },
     {
       "translation": "这正是小组大于各部分之和的时刻。",
-      "phrases": ["That is exactly when", "a group is worth more", "than the sum of its parts."]
+      "phrases": ["That is exactly when", "a group is worth more", "than the sum of its parts."],
+      "zhPhrases": ["这正是", "小组的价值大于", "各部分之和的时刻。"]
     },
     {
       "translation": "正如 Claire 所说，小孩子热情、乐于合作。",
-      "phrases": ["Young children,", "as Claire says,", "are eager", "and willing to cooperate."]
+      "phrases": ["Young children,", "as Claire says,", "are eager", "and willing to cooperate."],
+      "zhPhrases": ["小孩子，", "正如 Claire 所说，", "很热情，", "也乐于合作。"]
     },
     {
       "translation": "但在 5 到 11 岁，他们的知识还非常相似，所以小组合作常常演变成大家说一样的话，只是更吵。",
-      "phrases": ["But at ages 5 to 11,", "their knowledge is still very similar,", "so group work", "often turns into", "everyone saying the same thing", "with more noise."]
+      "phrases": ["But at ages 5 to 11,", "their knowledge is still very similar,", "so group work", "often turns into", "everyone saying the same thing", "with more noise."],
+      "zhPhrases": ["但在 5 到 11 岁，", "他们的知识还非常相似，", "所以小组合作", "常常演变成", "大家说一样的话，", "只是更吵而已。"]
     },
     {
       "translation": "没有差异的合作给你温度，不给你深度。",
-      "phrases": ["Cooperation without difference", "gives you warmth,", "not depth."]
+      "phrases": ["Cooperation without difference", "gives you warmth,", "not depth."],
+      "zhPhrases": ["没有差异的合作", "给你温度，", "不给你深度。"]
     },
     {
       "translation": "因此，小组学习真正的回报——辩论、互相核对、填补彼此的盲点——主要属于大孩子。",
-      "phrases": ["For this reason,", "the real rewards", "of group learning —", "arguing,", "checking each other,", "filling in blind spots —", "belong mainly", "to older students."]
+      "phrases": ["For this reason,", "the real rewards", "of group learning —", "arguing,", "checking each other,", "filling in blind spots —", "belong mainly", "to older students."],
+      "zhPhrases": ["因此，", "真正的回报", "来自小组学习——", "辩论、", "互相核对、", "填补彼此的盲点——", "主要属于", "大孩子。"]
     }
   ]
 }
