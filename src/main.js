@@ -47,7 +47,7 @@ const state = {
   phraseIdx: 0,
   typed: '',
   modifierMode: localStorage.getItem('modifierMode') === '1',
-  replaying: false,
+  fullStage: false,
 }
 
 function currentCourse() {
@@ -57,6 +57,7 @@ function currentLesson() {
   return currentCourse().lessons[state.lessonIdx]
 }
 function currentPhrase() {
+  if (state.fullStage) return currentLesson().phrases.join(' ')
   return currentLesson().phrases[state.phraseIdx]
 }
 function inModifierPause() {
@@ -98,7 +99,10 @@ function render() {
   // 译文：若有 zhPhrases 就按 chunk 对齐高亮，否则退回整句
   if (lesson.zhPhrases) {
     translationEl.innerHTML = lesson.zhPhrases.map((z, i) => {
-      const cls = i === phraseIdx ? 'zh-active' : (i < phraseIdx ? 'zh-done' : 'zh-pending')
+      const cls = state.fullStage ? 'zh-done'
+        : i === phraseIdx ? 'zh-active'
+        : i < phraseIdx ? 'zh-done'
+        : 'zh-pending'
       return `<span class="${cls}">${escapeHtml(z)}</span>`
     }).join('')
   } else {
@@ -106,10 +110,10 @@ function render() {
   }
   progressEl.textContent = `${state.lessonIdx + 1} / ${course.lessons.length}`
 
-  // slots — 按 chunk 类型着色，突出主干 vs 介词 vs 从句
+  // slots — 按 chunk 类型着色。整句阶段全标记完成
   slotsEl.innerHTML = phrases.map((p, i) => {
     let cls = `slot slot-type-${chunkType(p)}`
-    if (i < phraseIdx) cls += ' slot-done'
+    if (state.fullStage || i < phraseIdx) cls += ' slot-done'
     else if (i === phraseIdx) {
       cls += state.modifierMode && isModifier(p) ? ' slot-modifier' : ' slot-active'
     }
@@ -131,7 +135,7 @@ function render() {
     return
   }
 
-  // Normal typing render
+  // Normal typing render (分块 & 整句阶段共用)
   const typed = state.typed
   let html = ''
   for (let i = 0; i < target.length; i++) {
@@ -143,6 +147,9 @@ function render() {
     } else {
       html += `<span class="pending">${ch === ' ' ? '&nbsp;' : escapeHtml(ch)}</span>`
     }
+  }
+  if (state.fullStage) {
+    html = `<span class="full-tag">整句</span>` + html + `<span class="modifier-hint"> ↵ 跳过</span>`
   }
   answerEl.innerHTML = html
 }
@@ -157,51 +164,41 @@ function normalize(s) {
   return s.replace(/[\s.!?,;:"']+$/g, '').trim()
 }
 
-function renderReplay(lesson) {
-  // 整句回看：不带 slot 框，用正常英文排版显示完整句子
-  answerEl.innerHTML = `<span class="replay">${escapeHtml(lesson.phrases.join(' '))}</span>`
-  if (lesson.zhPhrases) {
-    translationEl.innerHTML = lesson.zhPhrases.map((z) =>
-      `<span class="zh-done">${escapeHtml(z)}</span>`
-    ).join('')
-  }
-  slotsEl.innerHTML = lesson.phrases.map((p) =>
-    `<span class="slot slot-done" style="width:${Math.max(p.length * 9, 32)}px"></span>`
-  ).join('')
-}
-
 function advance() {
   state.typed = ''
   input.value = ''
   const lesson = currentLesson()
   const course = currentCourse()
 
+  // 整句阶段完成 → 进入下一句
+  if (state.fullStage) {
+    state.fullStage = false
+    if (state.lessonIdx < course.lessons.length - 1) {
+      state.lessonIdx++
+      state.phraseIdx = 0
+      saveProgress()
+      render()
+      input.focus()
+    } else {
+      translationEl.innerHTML = '<span class="done">本课完成！</span>'
+    }
+    return
+  }
+
+  // 还没到最后一个 chunk
   if (state.phraseIdx < lesson.phrases.length - 1) {
     state.phraseIdx++
     render()
     return
   }
 
-  if (state.lessonIdx >= course.lessons.length - 1) {
-    translationEl.innerHTML = '<span class="done">本课完成！</span>'
-    return
-  }
-
-  // 整句完成 — 先 beat 一下让学生以 chunk 意识回读整句，再进入下一句
-  state.replaying = true
-  renderReplay(lesson)
-  setTimeout(() => {
-    state.replaying = false
-    state.lessonIdx++
-    state.phraseIdx = 0
-    saveProgress()
-    render()
-    input.focus()
-  }, 1200)
+  // 最后一个 chunk 完成 → 进入整句阶段（可打字，回车跳过）
+  state.fullStage = true
+  render()
+  input.focus()
 }
 
 input.addEventListener('input', (e) => {
-  if (state.replaying) { input.value = ''; return }
   if (inModifierPause()) { input.value = ''; return }
   state.typed = e.target.value
   render()
@@ -209,7 +206,6 @@ input.addEventListener('input', (e) => {
 })
 
 document.addEventListener('keydown', (e) => {
-  if (state.replaying) { e.preventDefault(); return }
   if (inModifierPause()) {
     if (e.key === 'Enter' || e.key === ' ') {
       e.preventDefault()
@@ -221,7 +217,8 @@ document.addEventListener('keydown', (e) => {
 
   if (e.key === 'Enter') {
     const target = currentPhrase()
-    if (state.typed === target || normalize(state.typed) === normalize(target)) advance()
+    // 整句阶段允许直接回车跳过；普通阶段仍需近似正确
+    if (state.fullStage || state.typed === target || normalize(state.typed) === normalize(target)) advance()
   } else if (e.key === 'Escape') {
     state.typed = ''
     input.value = ''
@@ -244,6 +241,7 @@ document.addEventListener('click', (e) => {
 
 selectEl.addEventListener('change', () => {
   state.courseId = selectEl.value
+  state.fullStage = false
   loadProgress()
   state.typed = ''
   input.value = ''
