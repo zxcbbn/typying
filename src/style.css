@@ -177,6 +177,17 @@ header select {
 #translation .zh-done    { color: var(--muted); opacity: 0.55; }
 #translation .zh-active  { color: var(--fg); background: color-mix(in srgb, var(--accent) 18%, transparent); border-radius: 3px; padding: 1px 4px; margin: 0 1px; }
 #translation .zh-pending { color: var(--muted); }
+/* 整句整合视图：完整中文不做 chunk 高亮 */
+#translation .zh-full {
+  color: var(--fg); font-size: clamp(16px, 2.2vw, 18px); line-height: 1.8;
+}
+
+/* 阅读模式整句整合：完整英文一次呈现 */
+.reading-chunk-full {
+  color: var(--fg);
+  font-size: clamp(20px, 2.8vw, 26px);
+  line-height: 1.8;
+}
 
 /* 整句阶段的「整句」小标签 */
 .full-tag {

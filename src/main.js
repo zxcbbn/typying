@@ -52,6 +52,22 @@ const state = {
   skeletonMode: localStorage.getItem('skeletonMode') === '1',
   readingMode: localStorage.getItem('readingMode') === '1',
   fullStage: false,
+  readingFullView: false,
+}
+
+// 生成整句显示用的英文/中文完整句
+function fullEn(lesson) {
+  return lesson.phrases.join(' ')
+}
+function fullZh(lesson) {
+  if (lesson.zhPhrases && lesson.zhPhrases.length) return lesson.zhPhrases.join('')
+  let s = lesson.translation || ''
+  // 剥离教学标注：[分词-xxx]、【转折】、前导设问 xx？→、单独 →、尾部 →
+  s = s.replace(/\[[^\]]*\]\s*/g, '')
+  s = s.replace(/【[^】]*】\s*/g, '')
+  s = s.replace(/^[^？。]*？→\s*/, '')
+  s = s.replace(/→\s*/g, '')
+  return s.trim()
 }
 
 function currentCourse() {
@@ -120,6 +136,20 @@ function render() {
   if (state.readingMode) {
     progressEl.textContent = `${state.lessonIdx + 1} / ${course.lessons.length}`
 
+    // 整句整合视图：跑完所有 chunk 后一次性呈现完整中英文
+    if (state.readingFullView) {
+      translationEl.innerHTML =
+        `<span class="full-tag">整句</span><span class="zh-full">${escapeHtml(fullZh(lesson))}</span>`
+      slotsEl.innerHTML = phrases.map((p) => {
+        const cls = `slot slot-type-${chunkType(p)} slot-done`
+        return `<span class="${cls}" style="width:${Math.max(p.length * 9, 32)}px"></span>`
+      }).join('')
+      answerEl.innerHTML = `<span class="reading-chunk-full">${escapeHtml(fullEn(lesson))}</span>`
+      input.value = ''
+      state.typed = ''
+      return
+    }
+
     // 译文按 chunk 对齐高亮
     if (lesson.zhPhrases) {
       translationEl.innerHTML = lesson.zhPhrases.map((z, i) => {
@@ -152,11 +182,12 @@ function render() {
     return
   }
 
-  // 译文：若有 zhPhrases 就按 chunk 对齐高亮，否则退回整句
-  if (lesson.zhPhrases) {
+  // 译文：整句阶段显示整合后的完整中文；非整句阶段 chunk 对齐高亮
+  if (state.fullStage) {
+    translationEl.innerHTML = `<span class="zh-full">${escapeHtml(fullZh(lesson))}</span>`
+  } else if (lesson.zhPhrases) {
     translationEl.innerHTML = lesson.zhPhrases.map((z, i) => {
-      const cls = state.fullStage ? 'zh-done'
-        : i === phraseIdx ? 'zh-active'
+      const cls = i === phraseIdx ? 'zh-active'
         : i < phraseIdx ? 'zh-done'
         : 'zh-pending'
       return `<span class="${cls}">${escapeHtml(z)}</span>`
@@ -229,21 +260,45 @@ function normalize(s) {
 function readingStep(dir) {
   const course = currentCourse()
   const lesson = currentLesson()
+
+  // 处于整句整合视图
+  if (state.readingFullView) {
+    if (dir > 0) {
+      // 前进 → 下一课
+      if (state.lessonIdx < course.lessons.length - 1) {
+        state.lessonIdx++
+        state.phraseIdx = 0
+        state.readingFullView = false
+        saveProgress()
+        render()
+      }
+    } else {
+      // 回退 → 回到最后一个 chunk
+      state.readingFullView = false
+      state.phraseIdx = lesson.phrases.length - 1
+      render()
+    }
+    return
+  }
+
   const nextPhrase = state.phraseIdx + dir
   if (nextPhrase >= 0 && nextPhrase < lesson.phrases.length) {
     state.phraseIdx = nextPhrase
     render()
     return
   }
-  // 跨课
-  if (dir > 0 && state.lessonIdx < course.lessons.length - 1) {
-    state.lessonIdx++
-    state.phraseIdx = 0
-    saveProgress()
+  // 前进到整句整合视图（先整合，再跨课）
+  if (dir > 0) {
+    state.readingFullView = true
     render()
-  } else if (dir < 0 && state.lessonIdx > 0) {
+    return
+  }
+  // 回退跨课
+  if (dir < 0 && state.lessonIdx > 0) {
     state.lessonIdx--
-    state.phraseIdx = currentLesson().phrases.length - 1
+    const prev = currentLesson()
+    state.phraseIdx = prev.phrases.length - 1
+    state.readingFullView = true
     saveProgress()
     render()
   }
@@ -344,6 +399,7 @@ document.addEventListener('click', (e) => {
 selectEl.addEventListener('change', () => {
   state.courseId = selectEl.value
   state.fullStage = false
+  state.readingFullView = false
   loadProgress()
   state.typed = ''
   input.value = ''
@@ -369,6 +425,7 @@ function setMode(key) {
   state.readingMode = false
   state[key] = next
   state.fullStage = false
+  state.readingFullView = false
   localStorage.setItem('modifierMode', state.modifierMode ? '1' : '0')
   localStorage.setItem('skeletonMode', state.skeletonMode ? '1' : '0')
   localStorage.setItem('readingMode', state.readingMode ? '1' : '0')
