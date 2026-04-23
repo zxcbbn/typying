@@ -66,6 +66,10 @@
       "phrases": [
         "the police-station,\" he remarked",
         "to Sherlock Holmes."
+      ],
+      "zhPhrases": [
+        "→",
+        "\"他对夏洛克·福尔摩斯说道。"
       ]
     },
     {
@@ -80,6 +84,10 @@
       "phrases": [
         "If you'll loose my legs I'll walk down",
         "to it."
+      ],
+      "zhPhrases": [
+        "如果你们松开我的腿，",
+        "我自己走下去。"
       ]
     },
     {
@@ -95,6 +103,10 @@
       "phrases": [
         "as I used",
         "to be.\""
+      ],
+      "zhPhrases": [
+        "→",
+        "抬起来费劲。\""
       ]
     },
     {
@@ -108,6 +120,10 @@
       "phrases": [
         "as if they",
         "thought this proposition rather a bold one;"
+      ],
+      "zhPhrases": [
+        "好像觉得这个提议相当大胆—",
+        "—"
       ]
     },
     {
@@ -151,6 +167,10 @@
       "phrases": [
         "that they",
         "were free once more."
+      ],
+      "zhPhrases": [
+        "→",
+        "好像在确认它们又能自由活动了。"
       ]
     },
     {
@@ -187,6 +207,11 @@
         "bore an expression",
         "of determination",
         "and energy"
+      ],
+      "zhPhrases": [
+        "→",
+        "带着一种坚毅和活力的神情—",
+        "—"
       ]
     },
     {
@@ -208,6 +233,10 @@
       "phrases": [
         "for a chief",
         "of the police,"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -292,6 +321,10 @@
       "phrases": [
         "I assented gladly,",
         "and we all descended together."
+      ],
+      "zhPhrases": [
+        "我欣然同意，",
+        "我们一同下楼。"
       ]
     },
     {
@@ -316,6 +349,10 @@
       "phrases": [
         "and we",
         "followed him."
+      ],
+      "zhPhrases": [
+        "→",
+        "我们跟了上去。"
       ]
     },
     {
@@ -330,6 +367,10 @@
       "phrases": [
         "and brought us",
         "in a very short time"
+      ],
+      "zhPhrases": [
+        "→",
+        "很快就把我们送到了目的地。"
       ]
     },
     {
@@ -435,6 +476,11 @@
         "that your words",
         "will",
         "be taken down,"
+      ],
+      "zhPhrases": [
+        "→",
+        "你的话将被记录在案—",
+        "—"
       ]
     },
     {
@@ -458,6 +504,10 @@
       "phrases": [
         "prisoner",
         "said slowly."
+      ],
+      "zhPhrases": [
+        "→",
+        "\"我们的囚犯缓缓说道。"
       ]
     },
     {
@@ -479,6 +529,10 @@
       "phrases": [
         "that for your trial?\"",
         "asked the Inspector."
+      ],
+      "zhPhrases": [
+        "→",
+        "\"督察问道。"
       ]
     },
     {
@@ -516,6 +570,10 @@
       "phrases": [
         "dark eyes",
         "upon me"
+      ],
+      "zhPhrases": [
+        "→",
+        "\"他说完这最后一句话，"
       ]
     },
     {
@@ -523,6 +581,10 @@
       "phrases": [
         "as he",
         "asked this last question."
+      ],
+      "zhPhrases": [
+        "→",
+        "把那双凶狠的黑眼睛转向了我。"
       ]
     },
     {
@@ -531,6 +593,11 @@
         "\"Yes; I",
         "am,\" I",
         "answered."
+      ],
+      "zhPhrases": [
+        "\"是的，",
+        "我是，",
+        "\"我回答道。"
       ]
     },
     {
@@ -539,6 +606,11 @@
         "\"Then",
         "put your hand here,\" he",
         "said, with a smile,"
+      ],
+      "zhPhrases": [
+        "\"那就把你的手放在这里，",
+        "\"他带着微笑说道—",
+        "—"
       ]
     },
     {
@@ -552,6 +624,10 @@
       "phrases": [
         "I",
         "did so;"
+      ],
+      "zhPhrases": [
+        "我照做了—",
+        "—"
       ]
     },
     {
@@ -573,6 +649,10 @@
       "phrases": [
         "which was going",
         "on inside."
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么样的跳动？→",
+        "在他胸腔里搏动着的那种。"
       ]
     },
     {
@@ -590,6 +670,11 @@
         "as a frail building",
         "would",
         "do inside"
+      ],
+      "zhPhrases": [
+        "像什么？→",
+        "就像一栋脆弱的建筑内部—",
+        "—"
       ]
     },
     {
@@ -619,6 +704,10 @@
       "phrases": [
         "which proceeded",
         "from the same source."
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 从哪里来的？→",
+        "从同一个地方传出的。"
       ]
     },
     {
@@ -627,6 +716,11 @@
         "\"Why,\" I",
         "cried, \"you",
         "have an aortic aneurism!\""
+      ],
+      "zhPhrases": [
+        "\"天哪，",
+        "\"我失声道，",
+        "\"你有主动脉瘤！\""
       ]
     },
     {
@@ -634,6 +728,10 @@
       "phrases": [
         "\"That's what they call it,\" he",
         "said, placidly."
+      ],
+      "zhPhrases": [
+        "\"他们就是这么叫的，",
+        "\"他平静地说。"
       ]
     },
     {
@@ -688,6 +786,10 @@
       "phrases": [
         "and under-feeding",
         "among the Salt Lake Mountains."
+      ],
+      "zhPhrases": [
+        "→",
+        "忍饥挨饿落下的病根。"
       ]
     },
     {
@@ -773,6 +875,10 @@
       "phrases": [
         "\"In that case it",
         "is clearly our duty,"
+      ],
+      "zhPhrases": [
+        "\"既然如此，",
+        "为了维护正义，"
       ]
     },
     {
@@ -787,6 +893,10 @@
       "phrases": [
         "to take his statement,\"",
         "said the Inspector."
+      ],
+      "zhPhrases": [
+        "听取他的陈述，",
+        "\"督察说道。"
       ]
     },
     {
@@ -795,6 +905,11 @@
         "\"You",
         "are at liberty, sir,",
         "to give your account,"
+      ],
+      "zhPhrases": [
+        "\"先生，",
+        "你可以自由地陈述你的情况—",
+        "—"
       ]
     },
     {
@@ -816,6 +931,10 @@
       "phrases": [
         "with your leave,\" the prisoner",
         "said,"
+      ],
+      "zhPhrases": [
+        "→",
+        "我坐下来说，"
       ]
     },
     {
@@ -823,6 +942,10 @@
       "phrases": [
         "suiting the action",
         "to the word."
+      ],
+      "zhPhrases": [
+        "→",
+        "\"犯人边说边坐了下来。"
       ]
     },
     {
@@ -830,6 +953,10 @@
       "phrases": [
         "\"This aneurism",
         "of mine makes me easily tired,"
+      ],
+      "zhPhrases": [
+        "\"我这个动脉瘤让我很容易疲劳—",
+        "—"
       ]
     },
     {
@@ -837,6 +964,10 @@
       "phrases": [
         "and the tussle we",
         "had half an hour"
+      ],
+      "zhPhrases": [
+        "→",
+        "而且半小时前那番搏斗也没让情况好转。"
       ]
     },
     {
@@ -851,6 +982,10 @@
       "phrases": [
         "I'm on the brink",
         "of the grave,"
+      ],
+      "zhPhrases": [
+        "我已经站在坟墓边缘了—",
+        "—"
       ]
     },
     {
@@ -867,6 +1002,10 @@
       "phrases": [
         "Every word I say",
         "is the absolute truth,"
+      ],
+      "zhPhrases": [
+        "我说的每一个字都是绝对的真相—",
+        "—"
       ]
     },
     {
@@ -874,6 +1013,10 @@
       "phrases": [
         "and how you use it",
         "is a matter"
+      ],
+      "zhPhrases": [
+        "→",
+        "至于你们怎么利用它，"
       ]
     },
     {
@@ -881,6 +1024,10 @@
       "phrases": [
         "of no consequence",
         "to me.\""
+      ],
+      "zhPhrases": [
+        "→",
+        "我无所谓。\""
       ]
     },
     {
@@ -942,6 +1089,10 @@
       "phrases": [
         "exactly as they",
         "were uttered."
+      ],
+      "zhPhrases": [
+        "→",
+        "犯人的话一字不差地被记录在其中的那本笔记本。"
       ]
     },
     {
@@ -999,6 +1150,10 @@
       "phrases": [
         "that has",
         "passed since their crime,"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -1028,6 +1183,11 @@
         "I",
         "knew of their guilt",
         "though,"
+      ],
+      "zhPhrases": [
+        "然而，",
+        "我知道他们的罪行—",
+        "—"
       ]
     },
     {
@@ -1049,6 +1209,10 @@
       "phrases": [
         "jury, and executioner all rolled",
         "into one."
+      ],
+      "zhPhrases": [
+        "→",
+        "执行人于一身。"
       ]
     },
     {
@@ -1064,6 +1228,11 @@
         "if you",
         "have any manhood",
         "in you,"
+      ],
+      "zhPhrases": [
+        "→",
+        "如果你们身为男人的话—",
+        "—"
       ]
     },
     {
@@ -1103,6 +1272,10 @@
       "phrases": [
         "and broke her heart",
         "over it."
+      ],
+      "zhPhrases": [
+        "→",
+        "并为此心碎而死。"
       ]
     },
     {
@@ -1125,6 +1298,11 @@
         "that his dying eyes",
         "should rest",
         "upon that very ring,"
+      ],
+      "zhPhrases": [
+        "→",
+        "他临死时的眼睛要看到那枚戒指—",
+        "—"
       ]
     },
     {
@@ -1177,6 +1355,10 @@
       "phrases": [
         "They",
         "thought to tire me out,"
+      ],
+      "zhPhrases": [
+        "他们以为能把我拖垮—",
+        "—"
       ]
     },
     {
@@ -1273,6 +1455,11 @@
         "When I",
         "got to London my pocket",
         "was about empty,"
+      ],
+      "zhPhrases": [
+        "当我到了伦敦，",
+        "我的口袋几乎空了—",
+        "—"
       ]
     },
     {
@@ -1280,6 +1467,10 @@
       "phrases": [
         "and I",
         "found"
+      ],
+      "zhPhrases": [
+        "→",
+        "我发现我必须找点什么活计维持生计。"
       ]
     },
     {
@@ -1317,6 +1508,10 @@
       "phrases": [
         "and soon",
         "got employment."
+      ],
+      "zhPhrases": [
+        "→",
+        "很快就找到了活儿。"
       ]
     },
     {
@@ -1383,6 +1578,10 @@
       "phrases": [
         "that ever",
         "were contrived,"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -1418,6 +1617,10 @@
       "phrases": [
         "I",
         "got on pretty well."
+      ],
+      "zhPhrases": [
+        "→",
+        "就大致摸清了门道。"
       ]
     },
     {
@@ -1432,6 +1635,10 @@
       "phrases": [
         "before I",
         "found out"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -1439,6 +1646,10 @@
       "phrases": [
         "where my two gentlemen",
         "were living;"
+      ],
+      "zhPhrases": [
+        "→",
+        "\"过了一段时间我才找到那两位先生住在哪里—"
       ]
     },
     {
@@ -1475,6 +1686,10 @@
       "phrases": [
         "When once I",
         "found them out"
+      ],
+      "zhPhrases": [
+        "一旦我找到了他们—",
+        "—"
       ]
     },
     {
@@ -1491,6 +1706,10 @@
       "phrases": [
         "I",
         "had grown my beard,"
+      ],
+      "zhPhrases": [
+        "我留了胡须—",
+        "—"
       ]
     },
     {
@@ -1507,6 +1726,11 @@
         "I",
         "would dog them",
         "and follow them"
+      ],
+      "zhPhrases": [
+        "我会紧跟着他们、",
+        "追踪他们—",
+        "—"
       ]
     },
     {
@@ -1539,6 +1763,10 @@
       "phrases": [
         "Go where they",
         "would about London,"
+      ],
+      "zhPhrases": [
+        "不管他们在伦敦去哪里—",
+        "—"
       ]
     },
     {
@@ -1569,6 +1797,10 @@
       "phrases": [
         "but the former",
         "was the best,"
+      ],
+      "zhPhrases": [
+        "【转折】但前者更好—",
+        "—"
       ]
     },
     {
@@ -1671,6 +1903,10 @@
       "phrases": [
         "and never",
         "after nightfall."
+      ],
+      "zhPhrases": [
+        "→",
+        "也从不在夜幕降临后出门。"
       ]
     },
     {
@@ -1685,6 +1921,10 @@
       "phrases": [
         "and never once",
         "saw them separate."
+      ],
+      "zhPhrases": [
+        "→",
+        "却从未见过他们分开。"
       ]
     },
     {
@@ -1692,6 +1932,10 @@
       "phrases": [
         "Drebber himself",
         "was drunk half the time,"
+      ],
+      "zhPhrases": [
+        "德雷伯本人有一半时间都在喝醉—",
+        "—"
       ]
     },
     {
@@ -1707,6 +1951,10 @@
       "phrases": [
         "I watched them late",
         "and early,"
+      ],
+      "zhPhrases": [
+        "我从早到晚地盯着他们—",
+        "—"
       ]
     },
     {
@@ -1715,6 +1963,11 @@
         "but never",
         "saw the ghost",
         "of a chance;"
+      ],
+      "zhPhrases": [
+        "→",
+        "却始终没看到任何机会的影子—",
+        "—"
       ]
     },
     {
@@ -1722,6 +1975,10 @@
       "phrases": [
         "but I",
         "was not discouraged,"
+      ],
+      "zhPhrases": [
+        "【转折】但我并不气馁—",
+        "—"
       ]
     },
     {
@@ -1738,6 +1995,10 @@
       "phrases": [
         "My only fear",
         "was"
+      ],
+      "zhPhrases": [
+        "我唯一的担忧是—",
+        "—"
       ]
     },
     {
@@ -1765,6 +2026,10 @@
       "phrases": [
         "\"At last, one evening I",
         "was driving up"
+      ],
+      "zhPhrases": [
+        "\"终于，",
+        "一天傍晚，"
       ]
     },
     {
@@ -1796,6 +2061,11 @@
         "Presently some luggage",
         "was",
         "brought out,"
+      ],
+      "zhPhrases": [
+        "不一会儿，",
+        "有人把行李搬了出来—",
+        "—"
       ]
     },
     {
@@ -1809,6 +2079,10 @@
       "phrases": [
         "and Stangerson",
         "followed it,"
+      ],
+      "zhPhrases": [
+        "→",
+        "德雷伯和斯坦格森也跟了出来，"
       ]
     },
     {
@@ -1829,6 +2103,11 @@
         "and kept",
         "within sight",
         "of them,"
+      ],
+      "zhPhrases": [
+        "→",
+        "一直跟在他们视野范围内—",
+        "—"
       ]
     },
     {
@@ -1865,6 +2144,11 @@
         "and I",
         "left a boy",
         "to hold my horse,"
+      ],
+      "zhPhrases": [
+        "→",
+        "我把马交给一个男孩看管—",
+        "—"
       ]
     },
     {
@@ -1872,6 +2156,10 @@
       "phrases": [
         "and followed them",
         "on to the platform."
+      ],
+      "zhPhrases": [
+        "→",
+        "跟他们上了站台。"
       ]
     },
     {
@@ -1888,6 +2176,11 @@
         "and the guard answer",
         "that one",
         "had just gone"
+      ],
+      "zhPhrases": [
+        "→",
+        "而乘务员回答说刚刚走了一班—",
+        "—"
       ]
     },
     {
@@ -1947,6 +2240,10 @@
       "phrases": [
         "of his own",
         "to do,"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -1963,6 +2260,10 @@
       "phrases": [
         "he",
         "would soon rejoin him."
+      ],
+      "zhPhrases": [
+        "→",
+        "他很快就回来。"
       ]
     },
     {
@@ -1970,6 +2271,10 @@
       "phrases": [
         "His companion remonstrated",
         "with him,"
+      ],
+      "zhPhrases": [
+        "他的同伴劝阻了他—",
+        "—"
       ]
     },
     {
@@ -1994,6 +2299,10 @@
       "phrases": [
         "and that he",
         "must go alone."
+      ],
+      "zhPhrases": [
+        "→",
+        "他必须独自去。"
       ]
     },
     {
@@ -2022,6 +2331,10 @@
       "phrases": [
         "that he",
         "was nothing more than his paid servant,"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -2089,6 +2402,10 @@
       "phrases": [
         "and made his way out",
         "of the station."
+      ],
+      "zhPhrases": [
+        "→",
+        "然后走出了车站。"
       ]
     },
     {
@@ -2125,6 +2442,10 @@
       "phrases": [
         "Together they",
         "could protect each other,"
+      ],
+      "zhPhrases": [
+        "在一起时他们可以互相保护—",
+        "—"
       ]
     },
     {
@@ -2132,6 +2453,10 @@
       "phrases": [
         "but singly they",
         "were at my mercy."
+      ],
+      "zhPhrases": [
+        "【转折】但单独行动时，",
+        "他们任我处置。"
       ]
     },
     {
@@ -2170,6 +2495,10 @@
       "phrases": [
         "who it",
         "is that strikes him,"
+      ],
+      "zhPhrases": [
+        "是谁在惩罚他—",
+        "—"
       ]
     },
     {
@@ -2185,6 +2514,10 @@
       "phrases": [
         "I",
         "had my plans arranged"
+      ],
+      "zhPhrases": [
+        "我安排好了我的计划—",
+        "—"
       ]
     },
     {
@@ -2193,6 +2526,11 @@
         "by which I",
         "should",
         "have the opportunity"
+      ],
+      "zhPhrases": [
+        "通过这些计划，",
+        "我应该能有机会—",
+        "—"
       ]
     },
     {
@@ -2200,6 +2538,10 @@
       "phrases": [
         "of making the man",
         "who had wronged me understand"
+      ],
+      "zhPhrases": [
+        "让那个曾经伤害我的人明白—",
+        "—"
       ]
     },
     {
@@ -2232,6 +2574,10 @@
       "phrases": [
         "over some houses",
         "in the Brixton Road"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -2306,6 +2652,10 @@
       "phrases": [
         "How to get Drebber",
         "to that house"
+      ],
+      "zhPhrases": [
+        "如何把德雷伯引到那所房子—",
+        "—"
       ]
     },
     {
@@ -2329,6 +2679,10 @@
       "phrases": [
         "and went",
         "into one"
+      ],
+      "zhPhrases": [
+        "→",
+        "进了一两家酒馆—"
       ]
     },
     {
@@ -2351,6 +2705,11 @@
         "When he",
         "came out he staggered",
         "in his walk,"
+      ],
+      "zhPhrases": [
+        "当他出来时，",
+        "他走路踉踉跄跄—",
+        "—"
       ]
     },
     {
@@ -2358,6 +2717,10 @@
       "phrases": [
         "and was evidently pretty well",
         "on."
+      ],
+      "zhPhrases": [
+        "→",
+        "显然已经喝得七七八八了。"
       ]
     },
     {
@@ -2419,6 +2782,11 @@
         "we",
         "found ourselves back",
         "in the Terrace"
+      ],
+      "zhPhrases": [
+        "→",
+        "我们发现自己又回到了那条台地街道—",
+        "—"
       ]
     },
     {
@@ -2426,6 +2794,10 @@
       "phrases": [
         "in which he",
         "had boarded."
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 哪条街道？→",
+        "他住宿的那条街道。"
       ]
     },
     {
@@ -2491,6 +2863,10 @@
       "phrases": [
         "I handed him the glass,",
         "and he drank it down."
+      ],
+      "zhPhrases": [
+        "我递给他那杯水，",
+        "他一饮而尽。"
       ]
     },
     {
@@ -2498,6 +2874,10 @@
       "phrases": [
         "\"That's better,\" he",
         "said."
+      ],
+      "zhPhrases": [
+        "\"好多了，",
+        "\"他说。"
       ]
     },
     {
@@ -2512,6 +2892,11 @@
         "for a quarter",
         "of an hour,",
         "or more,"
+      ],
+      "zhPhrases": [
+        "→",
+        "或者更久—",
+        "—"
       ]
     },
     {
@@ -2532,6 +2917,10 @@
       "phrases": [
         "Next moment the door",
         "was flung open"
+      ],
+      "zhPhrases": [
+        "下一刻，",
+        "门被猛地打开，"
       ]
     },
     {
@@ -2546,6 +2935,10 @@
       "phrases": [
         "one of",
         "whom was Drebber,"
+      ],
+      "zhPhrases": [
+        "其中一个是德雷伯—",
+        "—"
       ]
     },
     {
@@ -2553,6 +2946,10 @@
       "phrases": [
         "and the other",
         "was a young chap"
+      ],
+      "zhPhrases": [
+        "→",
+        "另一个是一个我从未见过的年轻小伙。"
       ]
     },
     {
@@ -2577,6 +2974,11 @@
         "and when they",
         "came to the head",
         "of the steps"
+      ],
+      "zhPhrases": [
+        "→",
+        "等他们走到台阶顶端—",
+        "—"
       ]
     },
     {
@@ -2592,6 +2994,10 @@
       "phrases": [
         "which sent him half",
         "across the road."
+      ],
+      "zhPhrases": [
+        "→",
+        "把他送出了半条街。"
       ]
     },
     {
@@ -2600,6 +3006,11 @@
         "'You hound,' he",
         "cried, shaking his stick",
         "at him;"
+      ],
+      "zhPhrases": [
+        "'你这条狗，",
+        "'他挥着手杖朝他喊道—",
+        "—"
       ]
     },
     {
@@ -2614,6 +3025,10 @@
       "phrases": [
         "He",
         "was so hot"
+      ],
+      "zhPhrases": [
+        "他是如此愤怒—",
+        "—"
       ]
     },
     {
@@ -2670,6 +3085,11 @@
         "he hailed me",
         "and jumped",
         "in."
+      ],
+      "zhPhrases": [
+        "→",
+        "他招手叫住我，",
+        "跳了进去。"
       ]
     },
     {
@@ -2685,6 +3105,10 @@
       "phrases": [
         "\"When I",
         "had him fairly inside my cab,"
+      ],
+      "zhPhrases": [
+        "\"当他稳稳地坐进我的马车—",
+        "—"
       ]
     },
     {
@@ -2692,6 +3116,10 @@
       "phrases": [
         "my heart jumped",
         "so with joy"
+      ],
+      "zhPhrases": [
+        "我的心因为喜悦而猛地一跳—",
+        "—"
       ]
     },
     {
@@ -2706,6 +3134,10 @@
       "phrases": [
         "my aneurism",
         "might go wrong."
+      ],
+      "zhPhrases": [
+        "→",
+        "我的动脉瘤会出问题。"
       ]
     },
     {
@@ -2713,6 +3145,10 @@
       "phrases": [
         "I",
         "drove along slowly,"
+      ],
+      "zhPhrases": [
+        "我慢慢地驾车—",
+        "—"
       ]
     },
     {
@@ -2727,6 +3163,10 @@
       "phrases": [
         "best to",
         "do."
+      ],
+      "zhPhrases": [
+        "→",
+        "在心中权衡着最好的做法。"
       ]
     },
     {
@@ -2765,6 +3205,10 @@
       "phrases": [
         "when he solved the problem",
         "for me."
+      ],
+      "zhPhrases": [
+        "【情境·转折·when】就在这时，",
+        "他替我解决了这个问题。"
       ]
     },
     {
@@ -2780,6 +3224,10 @@
       "phrases": [
         "and he ordered me",
         "to pull up outside"
+      ],
+      "zhPhrases": [
+        "→",
+        "他命令我停在一家杜松子酒馆门外。"
       ]
     },
     {
@@ -2809,6 +3257,10 @@
       "phrases": [
         "There he remained",
         "until closing time,"
+      ],
+      "zhPhrases": [
+        "他在里面待到打烊—",
+        "—"
       ]
     },
     {
@@ -2823,6 +3275,10 @@
       "phrases": [
         "he",
         "was so far gone"
+      ],
+      "zhPhrases": [
+        "他已经烂醉如泥—",
+        "—"
       ]
     },
     {
@@ -2831,6 +3287,11 @@
         "that I",
         "knew the game",
         "was in my own hands."
+      ],
+      "zhPhrases": [
+        "→",
+        "我知道，",
+        "局势已经完全掌握在我手中了。"
       ]
     },
     {
@@ -2916,6 +3377,10 @@
       "phrases": [
         "I",
         "was once janitor"
+      ],
+      "zhPhrases": [
+        "→",
+        "在我漂泊生涯中在美国做过的许多工作里—"
       ]
     },
     {
@@ -2932,6 +3397,11 @@
         "One day the professor",
         "was lecturing",
         "on poisons,"
+      ],
+      "zhPhrases": [
+        "有一天，",
+        "教授在讲授毒物—",
+        "—"
       ]
     },
     {
@@ -2954,6 +3424,11 @@
         "which he",
         "had extracted",
         "from some South American arrow poison,"
+      ],
+      "zhPhrases": [
+        "[定从-句中插入] 什么生物碱？→",
+        "从某种南美箭毒中提取的—",
+        "—"
       ]
     },
     {
@@ -2961,6 +3436,10 @@
       "phrases": [
         "and which",
         "was"
+      ],
+      "zhPhrases": [
+        "→",
+        "强效到连最微量都意味着即刻死亡的那种。"
       ]
     },
     {
@@ -3000,6 +3479,10 @@
       "phrases": [
         "I",
         "was a fairly good dispenser,"
+      ],
+      "zhPhrases": [
+        "我是个相当不错的配药师—",
+        "—"
       ]
     },
     {
@@ -3007,6 +3490,10 @@
       "phrases": [
         "so I worked this alkaloid",
         "into small, soluble pills,"
+      ],
+      "zhPhrases": [
+        "【结果】所以我把这种生物碱做成了小而易溶的药片—",
+        "—"
       ]
     },
     {
@@ -3014,6 +3501,10 @@
       "phrases": [
         "and each pill I",
         "put in a box"
+      ],
+      "zhPhrases": [
+        "每颗毒药片，",
+        "我都配上一颗同样外观但不含毒的药片，"
       ]
     },
     {
@@ -3021,6 +3512,10 @@
       "phrases": [
         "with a similar pill",
         "made without the poison."
+      ],
+      "zhPhrases": [
+        "→",
+        "放在一个盒子里。"
       ]
     },
     {
@@ -3028,6 +3523,10 @@
       "phrases": [
         "I determined",
         "at the time"
+      ],
+      "zhPhrases": [
+        "我当时就决定—",
+        "—"
       ]
     },
     {
@@ -3035,6 +3534,10 @@
       "phrases": [
         "that when I",
         "had my chance,"
+      ],
+      "zhPhrases": [
+        "等我有机会时—",
+        "—"
       ]
     },
     {
@@ -3050,6 +3553,10 @@
       "phrases": [
         "of one",
         "of these boxes,"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -3107,6 +3614,10 @@
       "phrases": [
         "when I",
         "was to use them."
+      ],
+      "zhPhrases": [
+        "→",
+        "该用它们的时候到了。"
       ]
     },
     {
@@ -3114,6 +3625,10 @@
       "phrases": [
         "\"It",
         "was nearer one than twelve,"
+      ],
+      "zhPhrases": [
+        "\"时间接近凌晨一点而非十二点—",
+        "—"
       ]
     },
     {
@@ -3129,6 +3644,11 @@
         "blowing hard",
         "and raining",
         "in torrents."
+      ],
+      "zhPhrases": [
+        "[分词-后置修饰] 天气怎样？→",
+        "狂风大作，",
+        "暴雨倾盆。"
       ]
     },
     {
@@ -3136,6 +3656,10 @@
       "phrases": [
         "Dismal as it",
         "was outside,"
+      ],
+      "zhPhrases": [
+        "【让步·心悬着】尽管外面如此阴沉—",
+        "—"
       ]
     },
     {
@@ -3181,6 +3705,11 @@
         "and longed",
         "for it",
         "during twenty long years,"
+      ],
+      "zhPhrases": [
+        "→",
+        "并且渴望了整整二十年—",
+        "—"
       ]
     },
     {
@@ -3189,6 +3718,11 @@
         "and then suddenly",
         "found it",
         "within your reach,"
+      ],
+      "zhPhrases": [
+        "→",
+        "然后突然发现它触手可及—",
+        "—"
       ]
     },
     {
@@ -3210,6 +3744,11 @@
         "and puffed",
         "at it",
         "to steady my nerves,"
+      ],
+      "zhPhrases": [
+        "→",
+        "试图平稳神经—",
+        "—"
       ]
     },
     {
@@ -3224,6 +3763,10 @@
       "phrases": [
         "and my temples throbbing",
         "with excitement."
+      ],
+      "zhPhrases": [
+        "→",
+        "太阳穴因激动而砰砰跳。"
       ]
     },
     {
@@ -3239,6 +3782,11 @@
         "I",
         "could see old John Ferrier",
         "and sweet Lucy"
+      ],
+      "zhPhrases": [
+        "→",
+        "我仿佛看见了老约翰·费瑞尔和温柔的露西—",
+        "—"
       ]
     },
     {
@@ -3246,6 +3794,10 @@
       "phrases": [
         "looking at me out",
         "of the darkness"
+      ],
+      "zhPhrases": [
+        "→",
+        "从黑暗中望着我，"
       ]
     },
     {
@@ -3266,6 +3818,10 @@
       "phrases": [
         "as I see you all",
         "in this room."
+      ],
+      "zhPhrases": [
+        "→",
+        "就像我现在清清楚楚地看见你们所有人一样真实。"
       ]
     },
     {
@@ -3274,6 +3830,11 @@
         "All the way they",
         "were ahead",
         "of me,"
+      ],
+      "zhPhrases": [
+        "一路上，",
+        "他们都在我前方—",
+        "—"
       ]
     },
     {
@@ -3281,6 +3842,10 @@
       "phrases": [
         "one on each side",
         "of the horse"
+      ],
+      "zhPhrases": [
+        "一人在马的一侧—",
+        "—"
       ]
     },
     {
@@ -3311,6 +3876,11 @@
         "nor a sound",
         "to be",
         "heard,"
+      ],
+      "zhPhrases": [
+        "→",
+        "也听不到任何声音—",
+        "—"
       ]
     },
     {
@@ -3349,6 +3919,11 @@
         "'It's time",
         "to get out,' I",
         "said."
+      ],
+      "zhPhrases": [
+        "→",
+        "'该下车了，",
+        "'我说。"
       ]
     },
     {
@@ -3402,6 +3977,10 @@
       "phrases": [
         "for he",
         "was still a little top-heavy."
+      ],
+      "zhPhrases": [
+        "【原因】因为他还有几分醉意，",
+        "身子不稳。"
       ]
     },
     {
@@ -3410,6 +3989,11 @@
         "When we",
         "came to the door, I",
         "opened it,"
+      ],
+      "zhPhrases": [
+        "当我们走到门口，",
+        "我把门打开—",
+        "—"
       ]
     },
     {
@@ -3417,6 +4001,10 @@
       "phrases": [
         "and led him",
         "into the front room."
+      ],
+      "zhPhrases": [
+        "→",
+        "把他引进了前厅。"
       ]
     },
     {
@@ -3460,6 +4048,11 @@
         "\"'We'll soon",
         "have a light,' I",
         "said,"
+      ],
+      "zhPhrases": [
+        "\"'很快就有光亮了，",
+        "'我说—",
+        "—"
       ]
     },
     {
@@ -3473,6 +4066,10 @@
       "phrases": [
         "and putting it",
         "to a wax candle"
+      ],
+      "zhPhrases": [
+        "→",
+        "点燃了我随身带来的一根蜡烛。"
       ]
     },
     {
@@ -3522,6 +4119,10 @@
       "phrases": [
         "drunken eyes",
         "for a moment,"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -3530,6 +4131,11 @@
         "and then I",
         "saw a horror spring up",
         "in them,"
+      ],
+      "zhPhrases": [
+        "→",
+        "然后我看见恐惧在他眼中骤然升起—",
+        "—"
       ]
     },
     {
@@ -3551,6 +4157,10 @@
       "phrases": [
         "He staggered back",
         "with a livid face,"
+      ],
+      "zhPhrases": [
+        "他面色铁青地向后踉跄—",
+        "—"
       ]
     },
     {
@@ -3559,6 +4169,11 @@
         "and I",
         "saw the perspiration break out",
         "upon his brow,"
+      ],
+      "zhPhrases": [
+        "→",
+        "我看见汗珠从他额头上渗出—",
+        "—"
       ]
     },
     {
@@ -3566,6 +4181,10 @@
       "phrases": [
         "while his teeth chattered",
         "in his head."
+      ],
+      "zhPhrases": [
+        "→",
+        "而他的牙关咯咯作响。"
       ]
     },
     {
@@ -3586,6 +4205,10 @@
       "phrases": [
         "and laughed loud",
         "and long."
+      ],
+      "zhPhrases": [
+        "→",
+        "笑了很久。"
       ]
     },
     {
@@ -3618,6 +4241,10 @@
       "phrases": [
         "\"'You dog!' I",
         "said;"
+      ],
+      "zhPhrases": [
+        "\"'你这条狗！'我说道—",
+        "—"
       ]
     },
     {
@@ -3647,6 +4274,11 @@
         "Now, at last your wanderings",
         "have come",
         "to an end,"
+      ],
+      "zhPhrases": [
+        "现在，",
+        "你的流亡终于走到了尽头—",
+        "—"
       ]
     },
     {
@@ -3660,6 +4292,10 @@
       "phrases": [
         "or I",
         "shall never see to-morrow's sun rise.'"
+      ],
+      "zhPhrases": [
+        "→",
+        "有一个人明天看不到日出了。'"
       ]
     },
     {
@@ -3668,6 +4304,11 @@
         "He shrunk still further away",
         "as I",
         "spoke,"
+      ],
+      "zhPhrases": [
+        "我说话时，",
+        "他越缩越远—",
+        "—"
       ]
     },
     {
@@ -3691,6 +4332,10 @@
       "phrases": [
         "So I",
         "was for the time."
+      ],
+      "zhPhrases": [
+        "那时候，",
+        "我确实疯了。"
       ]
     },
     {
@@ -3698,6 +4343,10 @@
       "phrases": [
         "The pulses",
         "in my temples beat like sledge-hammers,"
+      ],
+      "zhPhrases": [
+        "太阳穴里的脉搏跳得像铁锤—",
+        "—"
       ]
     },
     {
@@ -3744,6 +4393,11 @@
         "locking the door,",
         "and shaking the key",
         "in his face."
+      ],
+      "zhPhrases": [
+        "[分词-句末伴随] 同时怎样？→",
+        "锁上门，",
+        "把钥匙在他脸前晃动。"
       ]
     },
     {
@@ -3824,6 +4478,10 @@
       "phrases": [
         "when you dragged her",
         "from her slaughtered father,"
+      ],
+      "zhPhrases": [
+        "当你把她从被杀害的父亲身边拖走—",
+        "—"
       ]
     },
     {
@@ -3861,6 +4519,10 @@
       "phrases": [
         "thrusting the box",
         "before him."
+      ],
+      "zhPhrases": [
+        "[分词-句末伴随] →",
+        "同时把那个盒子推到他面前。"
       ]
     },
     {
@@ -3891,6 +4553,10 @@
       "phrases": [
         "I",
         "shall take what you leave."
+      ],
+      "zhPhrases": [
+        "你留下的，",
+        "我来吃。"
       ]
     },
     {
@@ -3972,6 +4638,10 @@
       "phrases": [
         "which was",
         "to live"
+      ],
+      "zhPhrases": [
+        "→",
+        "看谁生，"
       ]
     },
     {
@@ -3979,6 +4649,10 @@
       "phrases": [
         "and which",
         "was to die."
+      ],
+      "zhPhrases": [
+        "→",
+        "谁死。"
       ]
     },
     {
@@ -3992,6 +4666,10 @@
       "phrases": [
         "which came",
         "over his face"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -4006,6 +4684,10 @@
       "phrases": [
         "that the poison",
         "was in his system?"
+      ],
+      "zhPhrases": [
+        "→",
+        "毒药已经进入他体内的时候？"
       ]
     },
     {
@@ -4014,6 +4696,11 @@
         "I laughed",
         "as I",
         "saw it,"
+      ],
+      "zhPhrases": [
+        "我看见时，",
+        "大笑起来—",
+        "—"
       ]
     },
     {
@@ -4045,6 +4732,10 @@
       "phrases": [
         "A spasm",
         "of pain contorted his features;"
+      ],
+      "zhPhrases": [
+        "一阵痛苦的痉挛扭曲了他的面孔—",
+        "—"
       ]
     },
     {
@@ -4073,6 +4764,10 @@
       "phrases": [
         "fell heavily",
         "upon the floor."
+      ],
+      "zhPhrases": [
+        "→",
+        "沉沉地倒在了地板上。"
       ]
     },
     {
@@ -4088,6 +4783,10 @@
       "phrases": [
         "and placed my hand",
         "upon his heart."
+      ],
+      "zhPhrases": [
+        "→",
+        "把手放在他的心口。"
       ]
     },
     {
@@ -4127,6 +4826,10 @@
       "phrases": [
         "that put it",
         "into my head"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -4197,6 +4900,10 @@
       "phrases": [
         "I guessed",
         "that what puzzled the New Yorkers"
+      ],
+      "zhPhrases": [
+        "我猜想，",
+        "让纽约人费解的东西，"
       ]
     },
     {
@@ -4210,6 +4917,10 @@
       "phrases": [
         "so I dipped my finger",
         "in my own blood"
+      ],
+      "zhPhrases": [
+        "【结果】所以我把手指蘸进自己的血里—",
+        "—"
       ]
     },
     {
@@ -4242,6 +4953,10 @@
       "phrases": [
         "and that the night",
         "was still very wild."
+      ],
+      "zhPhrases": [
+        "→",
+        "夜色依然狂野。"
       ]
     },
     {
@@ -4249,6 +4964,10 @@
       "phrases": [
         "I",
         "had driven some distance"
+      ],
+      "zhPhrases": [
+        "我驾车走了一段路—",
+        "—"
       ]
     },
     {
@@ -4309,6 +5028,10 @@
       "phrases": [
         "when I stooped",
         "over Drebber's body,"
+      ],
+      "zhPhrases": [
+        "俯身查看德雷伯的尸体时—",
+        "—"
       ]
     },
     {
@@ -4331,6 +5054,11 @@
         "I",
         "went boldly up",
         "to the house"
+      ],
+      "zhPhrases": [
+        "→",
+        "大胆地走向那所房子—",
+        "—"
       ]
     },
     {
@@ -4367,6 +5095,10 @@
       "phrases": [
         "police-officer who",
         "was coming out,"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -4441,6 +5173,10 @@
       "phrases": [
         "I fancy",
         "that he suspected something"
+      ],
+      "zhPhrases": [
+        "我猜他有所察觉—",
+        "—"
       ]
     },
     {
@@ -4494,6 +5230,10 @@
       "phrases": [
         "which was the window",
         "of his bedroom,"
+      ],
+      "zhPhrases": [
+        "→",
+        "我很快就查明了他卧室的窗户在哪里—"
       ]
     },
     {
@@ -4515,6 +5255,10 @@
       "phrases": [
         "which were lying",
         "in the lane behind the hotel,"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -4550,6 +5294,10 @@
       "phrases": [
         "that the hour",
         "had come"
+      ],
+      "zhPhrases": [
+        "→",
+        "—"
       ]
     },
     {
@@ -4573,6 +5321,10 @@
       "phrases": [
         "I described Drebber's death",
         "to him,"
+      ],
+      "zhPhrases": [
+        "我向他描述了德雷伯的死—",
+        "—"
       ]
     },
     {
@@ -4617,6 +5369,10 @@
       "phrases": [
         "In self-defence I stabbed him",
         "to the heart."
+      ],
+      "zhPhrases": [
+        "出于自卫，",
+        "我刺穿了他的心脏。"
       ]
     },
     {
@@ -4707,6 +5463,11 @@
         "if there",
         "was a cabby there",
         "called Jefferson Hope,"
+      ],
+      "zhPhrases": [
+        "→",
+        "这里有没有一个叫杰弗逊·霍普的车夫—",
+        "—"
       ]
     },
     {
@@ -4737,6 +5498,10 @@
       "phrases": [
         "and the next thing I",
         "knew,"
+      ],
+      "zhPhrases": [
+        "→",
+        "然后我意识到，"
       ]
     },
     {
@@ -4745,6 +5510,11 @@
         "this young man here",
         "had the bracelets",
         "on my wrists,"
+      ],
+      "zhPhrases": [
+        "→",
+        "眼前这个年轻人已经把手铐扣上了我的手腕—",
+        "—"
       ]
     },
     {
@@ -4758,6 +5528,10 @@
       "phrases": [
         "as ever I",
         "saw in my life."
+      ],
+      "zhPhrases": [
+        "→",
+        "是我一生中见过最漂亮的。"
       ]
     },
     {
@@ -4765,6 +5539,10 @@
       "phrases": [
         "That's the whole",
         "of my story, gentlemen."
+      ],
+      "zhPhrases": [
+        "这就是我的故事，",
+        "各位先生。"
       ]
     },
     {
@@ -4786,6 +5564,10 @@
       "phrases": [
         "that I",
         "am just"
+      ],
+      "zhPhrases": [
+        "→",
+        "我和你们一样，"
       ]
     },
     {
@@ -4833,6 +5615,11 @@
         "_blasé_ as they",
         "were in every detail",
         "of crime,"
+      ],
+      "zhPhrases": [
+        "[插入修饰] 他们是什么样的人？→",
+        "尽管他们对罪案的每个细节都早已司空见惯—",
+        "—"
       ]
     },
     {
@@ -4863,6 +5650,11 @@
         "which was only broken",
         "by the scratching",
         "of Lestrade's pencil"
+      ],
+      "zhPhrases": [
+        "[定从-句尾补充] 什么样的沉默？→",
+        "只被雷斯垂德铅笔的沙沙声打破的那种沉默—",
+        "—"
       ]
     },
     {
@@ -4886,6 +5678,10 @@
       "phrases": [
         "which I",
         "should like a little more information,\""
+      ],
+      "zhPhrases": [
+        "→",
+        "\"夏洛克·福尔摩斯终于说道。"
       ]
     },
     {
@@ -4923,6 +5719,11 @@
         "\"I",
         "can tell my own secrets,\" he",
         "said,"
+      ],
+      "zhPhrases": [
+        "\"我只能说我自己的秘密，",
+        "\"他说—",
+        "—"
       ]
     },
     {
@@ -4937,6 +5738,10 @@
       "phrases": [
         "I",
         "saw your advertisement,"
+      ],
+      "zhPhrases": [
+        "我看见了你的广告—",
+        "—"
       ]
     },
     {
@@ -4970,6 +5775,10 @@
       "phrases": [
         "I think you'll own he",
         "did it smartly.\""
+      ],
+      "zhPhrases": [
+        "我想你承认，",
+        "他做得很机灵。\""
       ]
     },
     {
@@ -5028,6 +5837,11 @@
         "He rang the bell",
         "as he",
         "spoke,"
+      ],
+      "zhPhrases": [
+        "说话间，",
+        "他按了铃—",
+        "—"
       ]
     },
     {
@@ -5064,6 +5878,10 @@
       "phrases": [
         "and took a cab back",
         "to Baker Street."
+      ],
+      "zhPhrases": [
+        "→",
+        "叫了辆马车回到贝克街。"
       ]
     }
   ]
