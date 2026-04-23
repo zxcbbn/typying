@@ -55,19 +55,31 @@ const state = {
   readingFullView: false,
 }
 
-// 生成整句显示用的英文/中文完整句
-function fullEn(lesson) {
-  return lesson.phrases.join(' ')
-}
 function fullZh(lesson) {
-  if (lesson.zhPhrases && lesson.zhPhrases.length) return lesson.zhPhrases.join('')
+  // 优先：句末整句自然翻译
+  if (lesson.fullZh) return lesson.fullZh
+  // 次选：清理过的 translation（AD/IELTS/Reviews 的 lesson 本身就是一句）
   let s = lesson.translation || ''
-  // 剥离教学标注：[分词-xxx]、【转折】、前导设问 xx？→、单独 →、尾部 →
   s = s.replace(/\[[^\]]*\]\s*/g, '')
   s = s.replace(/【[^】]*】\s*/g, '')
-  s = s.replace(/^[^？。]*？→\s*/, '')
+  s = s.replace(/^[^？。.]*？→\s*/, '')
   s = s.replace(/→\s*/g, '')
-  return s.trim()
+  s = s.trim()
+  if (s) return s
+  // 兜底：拼接 zhPhrases（可能略显生硬）
+  if (lesson.zhPhrases && lesson.zhPhrases.length) return lesson.zhPhrases.join('')
+  return ''
+}
+function fullEn(lesson) {
+  // 优先：跨多课的完整英文句
+  if (lesson.fullEn) return lesson.fullEn
+  return lesson.phrases.join(' ')
+}
+function isSentenceEndLesson(lesson) {
+  // 如果 lesson 自带 fullZh 说明它是一句的结尾（或本身就是一句）
+  if (lesson.fullZh) return true
+  const last = lesson.phrases[lesson.phrases.length - 1] || ''
+  return /[.!?](["')”’]*)?\s*$/.test(last)
 }
 
 function currentCourse() {
@@ -287,10 +299,19 @@ function readingStep(dir) {
     render()
     return
   }
-  // 前进到整句整合视图（先整合，再跨课）
+  // 前进过最后一个 chunk：仅在句末 lesson 才展示整合视图，否则直接进入下一课
   if (dir > 0) {
-    state.readingFullView = true
-    render()
+    if (isSentenceEndLesson(lesson)) {
+      state.readingFullView = true
+      render()
+      return
+    }
+    if (state.lessonIdx < course.lessons.length - 1) {
+      state.lessonIdx++
+      state.phraseIdx = 0
+      saveProgress()
+      render()
+    }
     return
   }
   // 回退跨课
@@ -298,7 +319,7 @@ function readingStep(dir) {
     state.lessonIdx--
     const prev = currentLesson()
     state.phraseIdx = prev.phrases.length - 1
-    state.readingFullView = true
+    state.readingFullView = isSentenceEndLesson(prev)
     saveProgress()
     render()
   }
