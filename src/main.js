@@ -145,8 +145,7 @@ function render() {
           : i < phraseIdx ? 'reading-chunk-done'
           : 'reading-chunk-pending'
         return `<span class="${cls}">${escapeHtml(p)}</span>`
-      }).join(' ') +
-      `<span class="modifier-hint"> ← → 切换</span>`
+      }).join(' ')
 
     input.value = ''
     state.typed = ''
@@ -333,8 +332,13 @@ document.addEventListener('keydown', (e) => {
 })
 
 document.addEventListener('click', (e) => {
-  if (state.readingMode) return
-  if (e.target !== selectEl && e.target !== modifierBtn && e.target !== skeletonBtn && e.target !== readingBtn) input.focus()
+  const navBtns = [selectEl, modifierBtn, skeletonBtn, readingBtn]
+  if (navBtns.includes(e.target)) return
+  if (state.readingMode) {
+    readingStep(e.clientX < window.innerWidth / 2 ? -1 : 1)
+    return
+  }
+  input.focus()
 })
 
 selectEl.addEventListener('change', () => {
@@ -353,7 +357,8 @@ function applyModes() {
   skeletonBtn.classList.toggle('active', state.skeletonMode)
   skeletonBtn.title = state.skeletonMode ? '骨架模式：已开启（修饰只打首词）' : '开启骨架模式'
   readingBtn.classList.toggle('active', state.readingMode)
-  readingBtn.title = state.readingMode ? '阅读模式：已开启（↵ 翻下一句）' : '开启阅读模式'
+  readingBtn.title = state.readingMode ? '阅读模式：已开启（← → 翻页）' : '开启阅读模式'
+  document.body.classList.toggle('reading-active', state.readingMode)
 }
 
 function setMode(key) {

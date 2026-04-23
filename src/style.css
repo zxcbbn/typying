@@ -84,6 +84,33 @@ body.light #skeleton-toggle.active {
   background: color-mix(in srgb, var(--ok) 12%, transparent);
 }
 
+/* 阅读模式触控翻页区域 */
+#tap-prev, #tap-next {
+  display: none;
+  position: fixed; top: 0; bottom: 0; width: 30%;
+  z-index: 10; cursor: pointer;
+  align-items: center; justify-content: center;
+  pointer-events: none;
+  -webkit-tap-highlight-color: transparent;
+}
+#tap-prev { left: 0; }
+#tap-next { right: 0; }
+#tap-prev::after, #tap-next::after {
+  content: '';
+  font-size: 22px; color: var(--muted); opacity: 0;
+  transition: opacity 0.15s;
+}
+#tap-prev::after { content: '‹'; }
+#tap-next::after { content: '›'; }
+
+body.reading-active #tap-prev,
+body.reading-active #tap-next {
+  display: flex;
+  pointer-events: auto;
+}
+body.reading-active #tap-prev:active::after,
+body.reading-active #tap-next:active::after { opacity: 0.5; }
+
 /* 阅读模式：一次一块 chunk 高亮 */
 .reading-chunk-active, .reading-chunk-done, .reading-chunk-pending {
   font-family: inherit;
