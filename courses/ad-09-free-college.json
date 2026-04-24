@@ -5,7 +5,7 @@
       "translation": "Claire 和 Paul 都说中了部分真相，但他们「免费还是不免费」的问法太粗。",
       "fullZh": "Claire 和 Paul 都说中了部分真相，但他们「免费还是不免费」的问法太粗。",
       "phrases": ["Both Claire and Paul", "catch part of the truth,", "but their \"free or not\" way", "of framing the question", "is too sharp."],
-      "zhPhrases": ["Claire 和 Paul 二人", "都说中了部分真相，", "但他们那种「免费还是不免费」", "的提问方式", "太过粗糙。"]
+      "zhPhrases": ["Claire 和 Paul 二人", "都说中了部分真相，", "但他们的「免费还是不免费」", "的提问方式", "太过粗糙。"]
     },
     {
       "translation": "我反对所有人都上免费大学，而是支持更有针对性的方案：低收入学生免学费，其他学生用按收入还款的贷款。",
@@ -29,13 +29,13 @@
       "translation": "在德国，富裕家庭和贫困家庭拿到的补贴一样多，本该帮更需要学生的公共资金被摊薄到了全体人口上。",
       "fullZh": "在德国，富裕家庭和贫困家庭拿到的补贴一样多，本该帮更需要学生的公共资金被摊薄到了全体人口上。",
       "phrases": ["In Germany,", "wealthy parents", "get the same subsidy", "as poor ones,", "and public money", "that could have helped", "needier students", "gets spread thin", "across the whole population."],
-      "zhPhrases": ["在德国，", "富裕的父母", "拿到同样的补贴，", "和贫困家庭一样，", "而那些公共资金", "本可以去帮助", "更需要帮助的学生，", "如今却被摊薄", "到了全体人口身上。"]
+      "zhPhrases": ["在德国，", "富裕的父母", "拿到同样的补贴，", "和贫困家庭一样，", "而公共资金", "本可以去帮助", "更需要帮助的学生，", "被摊薄", "到了全体人口身上。"]
     },
     {
       "translation": "与此同时，正如 Paul 担心的，入学人数上升而教室数量不变。",
       "fullZh": "与此同时，正如 Paul 担心的，入学人数上升而教室数量不变。",
       "phrases": ["At the same time,", "as Paul worries,", "enrollment goes up", "while the number of classrooms", "does not."],
-      "zhPhrases": ["与此同时，", "正如 Paul 所担心的，", "入学人数上升，", "而教室的数量", "却并没有增加。"]
+      "zhPhrases": ["与此同时，", "正如 Paul 所担心的，", "入学人数上升，", "而教室的数量", "并没有增加。"]
     },
     {
       "translation": "课堂拥挤、质量下降在几个欧洲国家已经出现。",
@@ -71,7 +71,7 @@
       "translation": "「全民免费」听着公平。一个精细的方案其实更公平。",
       "fullZh": "「全民免费」听着公平。一个精细的方案其实更公平。",
       "phrases": ["\"Free for all\" sounds fair.", "A careful plan", "is actually fairer."],
-      "zhPhrases": ["「全民免费」听起来公平。", "一个谨慎的方案", "其实才更公平。"]
+      "zhPhrases": ["「全民免费」听起来公平。", "一个谨慎的方案", "其实更公平。"]
     }
   ]
 }

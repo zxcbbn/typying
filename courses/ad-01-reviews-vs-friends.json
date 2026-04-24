@@ -29,7 +29,7 @@
       "translation": "我朋友只用过一部手机；测评网站却有来自一万名用户的数据。",
       "fullZh": "我朋友只用过一部手机；测评网站却有来自一万名用户的数据。",
       "phrases": ["My friend has only used one phone;", "a review website has data", "from ten thousand users."],
-      "zhPhrases": ["我朋友只用过一部手机；", "测评网站有数据", "来自一万名用户。"]
+      "zhPhrases": ["我朋友只用过一部手机；", "一个测评网站有数据", "来自一万名用户。"]
     },
     {
       "translation": "这种情况下，速度和数量都指向互联网。",
@@ -47,7 +47,7 @@
       "translation": "跑鞋的穿着感受因脚而异，一千个陌生人的评分对我自己的脚几乎说明不了什么。",
       "fullZh": "跑鞋的穿着感受因脚而异，一千个陌生人的评分对我自己的脚几乎说明不了什么。",
       "phrases": ["Running shoes fit differently", "on every foot,", "and a thousand strangers' ratings", "tell me very little", "about my own."],
-      "zhPhrases": ["跑鞋的合脚感各不同，", "在每只脚上，", "而一千个陌生人的评分", "几乎说明不了什么，", "对于我自己的脚。"]
+      "zhPhrases": ["跑鞋贴合不同，", "在每只脚上，", "而一千个陌生人的评分", "告诉我的很少，", "关于我自己的脚。"]
     },
     {
       "translation": "一个陪我跑了一年步的室友，十分钟就能挑出合适的那双。",
@@ -59,7 +59,7 @@
       "translation": "礼物也是同样的逻辑：陌生人的评论不会了解我母亲的品味，我姐姐会。",
       "fullZh": "礼物也是同样的逻辑：陌生人的评论不会了解我母亲的品味，我姐姐会。",
       "phrases": ["The same logic", "holds for gifts:", "a stranger's review", "cannot know my mother's taste;", "my sister can."],
-      "zhPhrases": ["同样的逻辑", "也适用于礼物：", "陌生人的评论", "不会了解我母亲的品味；", "我姐姐会。"]
+      "zhPhrases": ["同样的逻辑", "适用于礼物：", "陌生人的评论", "不会了解我母亲的品味；", "我姐姐会。"]
     },
     {
       "translation": "所以公道的答案不是非此即彼，而是为不同东西选对渠道：标准化的看网络，个性化的问朋友。",
