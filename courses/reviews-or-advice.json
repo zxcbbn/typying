@@ -4,6 +4,7 @@
   "lessons": [
     {
       "translation": "Claire 和 Paul 都提出了有效的观点，但我认为他们把问题框定成了非此即彼，其实不该这样。",
+      "fullZh": "Claire 和 Paul 都提出了有效的观点，但我认为他们把问题框定成了非此即彼，其实不该这样。",
       "phrases": [
         "Claire and Paul",
         "both raise valid points,",
@@ -23,6 +24,7 @@
     },
     {
       "translation": "在我看来，合适的建议来源完全取决于所购买的商品。",
+      "fullZh": "在我看来，合适的建议来源完全取决于所购买的商品。",
       "phrases": [
         "In my view,",
         "the right source of advice",
@@ -38,6 +40,7 @@
     },
     {
       "translation": "对于低风险、标准化的商品——比如牙膏、电池或手机充电器——Claire 说得完全正确。",
+      "fullZh": "对于低风险、标准化的商品——比如牙膏、电池或手机充电器——Claire 说得完全正确。",
       "phrases": [
         "For low-stakes, standardized goods —",
         "think toothpaste, batteries,",
@@ -53,6 +56,7 @@
     },
     {
       "translation": "评测网站让你在几分钟内比较几十个选项，而且由于质量差异不大，没必要为这点小事去麻烦朋友。",
+      "fullZh": "评测网站让你在几分钟内比较几十个选项，而且由于质量差异不大，没必要为这点小事去麻烦朋友。",
       "phrases": [
         "Review sites",
         "let you compare dozens of options",
@@ -65,7 +69,7 @@
       "zhPhrases": [
         "评测网站",
         "让你比较几十个选项",
-        "只需几分钟，",
+        "在几分钟内，",
         "而且由于质量差异不大，",
         "没必要",
         "去麻烦朋友",
@@ -74,6 +78,7 @@
     },
     {
       "translation": "然而，对于个人适配度很重要的复杂购买决策，Paul 的观点就更有说服力了。",
+      "fullZh": "然而，对于个人适配度很重要的复杂购买决策，Paul 的观点就更有说服力了。",
       "phrases": [
         "However,",
         "for complex purchases",
@@ -86,11 +91,12 @@
         "对于复杂的购买决策，",
         "个人适配度很重要时，",
         "Paul 的观点",
-        "就更有说服力了。"
+        "变得更有说服力了。"
       ]
     },
     {
       "translation": "以购买游戏笔记本为例。",
+      "fullZh": "以购买游戏笔记本为例。",
       "phrases": [
         "Take buying a gaming laptop,",
         "for instance."
@@ -102,6 +108,7 @@
     },
     {
       "translation": "网上评测可能对 GPU 的跑分赞不绝口，但它无法告诉我那款游戏实际上是否流畅运行。",
+      "fullZh": "网上评测可能对 GPU 的跑分赞不绝口，但它无法告诉我那款游戏实际上是否流畅运行。",
       "phrases": [
         "Online reviews",
         "may sing the praises",
@@ -112,7 +119,7 @@
       ],
       "zhPhrases": [
         "网上评测",
-        "可能赞不绝口地夸",
+        "可能大力称赞",
         "GPU 的跑分，",
         "但它无法告诉我",
         "我玩的那款特定游戏",
@@ -121,6 +128,7 @@
     },
     {
       "translation": "而一个有相同爱好的朋友，不仅能根据我的需求推荐合适的型号，还能让我亲手测试他的电脑——这是任何网站都无法复制的。",
+      "fullZh": "而一个有相同爱好的朋友，不仅能根据我的需求推荐合适的型号，还能让我亲手测试他的电脑——这是任何网站都无法复制的。",
       "phrases": [
         "A friend who shares my hobby,",
         "on the other hand,",
@@ -130,7 +138,7 @@
         "something no website could ever replicate."
       ],
       "zhPhrases": [
-        "而有相同爱好的朋友，",
+        "有相同爱好的朋友，",
         "另一方面，",
         "不仅能推荐一个型号",
         "适合我的需求，",
@@ -140,6 +148,7 @@
     },
     {
       "translation": "所以我的结论是：标准化产品就上网看评测，复杂的个性化购买就问朋友。",
+      "fullZh": "所以我的结论是：标准化产品就上网看评测，复杂的个性化购买就问朋友。",
       "phrases": [
         "So I would say:",
         "go online",
@@ -149,10 +158,10 @@
       ],
       "zhPhrases": [
         "所以我的结论是：",
-        "上网看评测，",
-        "针对标准化产品；",
+        "上网，",
+        "对于标准化产品，",
         "问朋友，",
-        "针对复杂的个性化购买。"
+        "对于复杂的个性化产品。"
       ]
     }
   ]

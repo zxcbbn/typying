@@ -3,58 +3,203 @@
   "lessons": [
     {
       "translation": "对机票征税听起来是个干净的点子——污染者付费，绿色科技获得资金——但它是否真的有用，完全取决于税如何设计。",
-      "phrases": ["A tax on plane tickets", "sounds like a clean idea —", "polluters pay,", "green technology gets funded —", "but whether it actually helps", "depends fully on", "how the tax is designed."],
-      "zhPhrases": ["对机票征税", "听起来是个干净的点子——", "污染者付费，", "绿色科技获得资金——", "但它是否真的有用，", "完全取决于", "税如何设计。"]
+      "fullZh": "对机票征税听起来是个干净的点子——污染者付费，绿色科技获得资金——但它是否真的有用，完全取决于税如何设计。",
+      "phrases": [
+        "A tax on plane tickets",
+        "sounds like a clean idea —",
+        "polluters pay,",
+        "green technology gets funded —",
+        "but whether it actually helps",
+        "depends fully on",
+        "how the tax is designed."
+      ],
+      "zhPhrases": [
+        "对机票征税",
+        "听起来是个干净的点子——",
+        "污染者付费，",
+        "绿色科技获得资金——",
+        "但它是否真的有用",
+        "完全取决于",
+        "税如何设计。"
+      ]
     },
     {
       "translation": "我只会在很窄的形式下支持它：只对已有火车可选的短途航线征，并用法律规定这笔钱必须进入更清洁的交通。",
-      "phrases": ["I would support it", "only in a narrow form:", "place it on short routes", "where trains are already an option,", "and require by law", "that the money goes into", "cleaner transport."],
-      "zhPhrases": ["我会支持它，", "但仅限于一种很窄的形式：", "只对短途航线征税，", "即那些已有火车可选的航线，", "并用法律规定", "这笔钱必须用于", "更清洁的交通。"]
+      "fullZh": "我只会在很窄的形式下支持它：只对已有火车可选的短途航线征，并用法律规定这笔钱必须进入更清洁的交通。",
+      "phrases": [
+        "I would support it",
+        "only in a narrow form:",
+        "place it on short routes",
+        "where trains are already an option,",
+        "and require by law",
+        "that the money goes into",
+        "cleaner transport."
+      ],
+      "zhPhrases": [
+        "我会支持它",
+        "仅限于一种很窄的形式：",
+        "只对短途航线征税",
+        "那些已有火车可选的航线，",
+        "并用法律规定",
+        "这笔钱必须进入",
+        "更清洁的交通。"
+      ]
     },
     {
       "translation": "对每张票一刀切的税会在三个方面都失准。",
-      "phrases": ["A flat tax on every ticket", "would miss the target", "on all three fronts."],
-      "zhPhrases": ["对每张票一刀切的税，", "会偏离目标，", "在这三个方面都是。"]
+      "fullZh": "对每张票一刀切的税会在三个方面都失准。",
+      "phrases": [
+        "A flat tax on every ticket",
+        "would miss the target",
+        "on all three fronts."
+      ],
+      "zhPhrases": [
+        "对每张票一刀切的税",
+        "会偏离目标",
+        "在这三个方面都是。"
+      ]
     },
     {
       "translation": "首先，方案只有在乘客能切换的地方才起作用。",
-      "phrases": ["First,", "the plan only works", "where passengers can switch."],
-      "zhPhrases": ["首先，", "这个方案才起作用，", "在乘客能切换的地方。"]
+      "fullZh": "首先，方案只有在乘客能切换的地方才起作用。",
+      "phrases": [
+        "First,",
+        "the plan only works",
+        "where passengers can switch."
+      ],
+      "zhPhrases": [
+        "首先，",
+        "这个方案只起作用",
+        "在乘客能切换的地方。"
+      ]
     },
     {
       "translation": "在巴黎—里昂或北京—天津这样的航线上，一点额外费用会把旅客推向高铁，真实排放因此下降。",
-      "phrases": ["On routes", "like Paris–Lyon", "or Beijing–Tianjin,", "a small extra fee", "pushes travelers", "onto high-speed rail", "and real emissions drop."],
-      "zhPhrases": ["在那些航线上，", "比如巴黎—里昂", "或北京—天津，", "一点额外费用", "会把旅客推向", "高铁，", "真实排放也因此下降。"]
+      "fullZh": "在巴黎—里昂或北京—天津这样的航线上，一点额外费用会把旅客推向高铁，真实排放因此下降。",
+      "phrases": [
+        "On routes",
+        "like Paris–Lyon",
+        "or Beijing–Tianjin,",
+        "a small extra fee",
+        "pushes travelers",
+        "onto high-speed rail",
+        "and real emissions drop."
+      ],
+      "zhPhrases": [
+        "在航线上",
+        "比如巴黎—里昂",
+        "或北京—天津，",
+        "一点额外费用",
+        "会把旅客推向",
+        "高铁",
+        "真实排放因此下降。"
+      ]
     },
     {
       "translation": "在长途航线上没有火车可选，同样的税只会变成固定成本。",
-      "phrases": ["On long-haul flights,", "where no train exists,", "the same tax", "just becomes a fixed cost."],
-      "zhPhrases": ["在长途航线上，", "那里没有火车可选，", "同样的税", "只会变成一笔固定成本。"]
+      "fullZh": "在长途航线上没有火车可选，同样的税只会变成固定成本。",
+      "phrases": [
+        "On long-haul flights,",
+        "where no train exists,",
+        "the same tax",
+        "just becomes a fixed cost."
+      ],
+      "zhPhrases": [
+        "在长途航线上，",
+        "那里没有火车，",
+        "同样的税",
+        "只会变成固定成本。"
+      ]
     },
     {
       "translation": "航班照常起飞，账单落在经济舱乘客头上，而商务舱旅客的机票由公司报销，毫无感觉。",
-      "phrases": ["The flight still takes off,", "and the bill falls", "on economy passengers", "while business travelers,", "whose tickets are paid", "by the company,", "feel nothing."],
-      "zhPhrases": ["航班照常起飞，", "而账单落在", "经济舱乘客头上，", "而商务舱旅客，", "他们的机票由", "公司报销，", "毫无感觉。"]
+      "fullZh": "航班照常起飞，账单落在经济舱乘客头上，而商务舱旅客的机票由公司报销，毫无感觉。",
+      "phrases": [
+        "The flight still takes off,",
+        "and the bill falls",
+        "on economy passengers",
+        "while business travelers,",
+        "whose tickets are paid",
+        "by the company,",
+        "feel nothing."
+      ],
+      "zhPhrases": [
+        "航班照常起飞，",
+        "而账单落在",
+        "经济舱乘客头上",
+        "而商务舱旅客，",
+        "他们的机票由",
+        "公司报销，",
+        "毫无感觉。"
+      ]
     },
     {
       "translation": "其次，规模太小。",
-      "phrases": ["Second,", "the scale is too small."],
-      "zhPhrases": ["其次，", "规模太小。"]
+      "fullZh": "其次，规模太小。",
+      "phrases": [
+        "Second,",
+        "the scale is too small."
+      ],
+      "zhPhrases": [
+        "其次，",
+        "规模太小。"
+      ]
     },
     {
       "translation": "飞行只占全球碳排放约 2.5%；强制航司使用更清洁的燃料，或加入更广的碳交易体系，能覆盖更大的范围。",
-      "phrases": ["Flying makes up", "only about 2.5%", "of global carbon;", "forcing airlines", "to use cleaner fuel", "or join a wider carbon-trading system", "would cover far more ground."],
-      "zhPhrases": ["飞行只占", "约 2.5%，", "即全球碳排放；", "强制航司", "使用更清洁的燃料，", "或加入更广的碳交易体系，", "能覆盖大得多的范围。"]
+      "fullZh": "飞行只占全球碳排放约 2.5%；强制航司使用更清洁的燃料，或加入更广的碳交易体系，能覆盖更大的范围。",
+      "phrases": [
+        "Flying makes up",
+        "only about 2.5%",
+        "of global carbon;",
+        "forcing airlines",
+        "to use cleaner fuel",
+        "or join a wider carbon-trading system",
+        "would cover far more ground."
+      ],
+      "zhPhrases": [
+        "飞行只占",
+        "约 2.5%",
+        "全球碳排放；",
+        "强制航司",
+        "使用更清洁的燃料",
+        "或加入更广的碳交易体系",
+        "能覆盖大得多的范围。"
+      ]
     },
     {
       "translation": "第三，在欧洲的几次试点中，绿色税款被悄悄挪进了一般预算。",
-      "phrases": ["Third,", "in several European trials,", "green-tax money", "was quietly moved", "into the general budget."],
-      "zhPhrases": ["第三，", "在欧洲的几次试点中，", "绿色税款", "被悄悄挪进了", "一般预算。"]
+      "fullZh": "第三，在欧洲的几次试点中，绿色税款被悄悄挪进了一般预算。",
+      "phrases": [
+        "Third,",
+        "in several European trials,",
+        "green-tax money",
+        "was quietly moved",
+        "into the general budget."
+      ],
+      "zhPhrases": [
+        "第三，",
+        "在欧洲的几次试点中，",
+        "绿色税款",
+        "被悄悄挪进了",
+        "一般预算。"
+      ]
     },
     {
       "translation": "没有法律规则将资金锁定于绿色用途，这只是一个披着绿色标签的收入方案。",
-      "phrases": ["Without legal rules", "locking the money to green use,", "this is a revenue plan", "with a green label."],
-      "zhPhrases": ["没有法律规则", "把资金锁定于绿色用途，", "这只是一个收入方案，", "披着绿色标签。"]
+      "fullZh": "没有法律规则将资金锁定于绿色用途，这只是一个披着绿色标签的收入方案。",
+      "phrases": [
+        "Without legal rules",
+        "locking the money to green use,",
+        "this is a revenue plan",
+        "with a green label."
+      ],
+      "zhPhrases": [
+        "没有法律规则",
+        "把资金锁定于绿色用途，",
+        "这只是一个收入方案",
+        "披着绿色标签。"
+      ]
     }
   ]
 }

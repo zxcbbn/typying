@@ -3,61 +3,73 @@
   "lessons": [
     {
       "translation": "Claire 想补贴农民，Kelly 想引入商店和餐厅。",
+      "fullZh": "Claire 想补贴农民，Kelly 想引入商店和餐厅。",
       "phrases": ["Claire wants", "farm subsidies", "and Kelly wants", "to bring in shops", "and restaurants."],
       "zhPhrases": ["Claire 想要", "农业补贴，", "而 Kelly 想要", "引入商店", "和餐厅。"]
     },
     {
       "translation": "两种想法都只治了乡村衰退的表面。",
+      "fullZh": "两种想法都只治了乡村衰退的表面。",
       "phrases": ["Both ideas", "treat the surface", "of rural decline."],
-      "zhPhrases": ["两种想法", "都只治了表面——", "乡村衰退的表面。"]
+      "zhPhrases": ["两种想法", "治了表面", "乡村衰退的。"]
     },
     {
       "translation": "真正的解法是政府先在乡村建起强公共服务——好学校、诊所、快速网络——让私人生活在上面生长。",
+      "fullZh": "真正的解法是政府先在乡村建起强公共服务——好学校、诊所、快速网络——让私人生活在上面生长。",
       "phrases": ["The real fix", "is for the government", "to set up", "strong public services", "in rural areas first —", "good schools,", "clinics,", "and fast internet —", "and let private life", "grow on top of that."],
-      "zhPhrases": ["真正的解法，", "是让政府", "率先建起", "强大的公共服务", "在乡村地区——", "好学校、", "诊所，", "以及快速网络——", "再让私人生活", "在其之上生长。"]
+      "zhPhrases": ["真正的解法，", "是让政府", "建起", "强大的公共服务", "先在乡村地区——", "好学校、", "诊所，", "以及快速网络——", "再让私人生活", "在其之上生长。"]
     },
     {
       "translation": "逻辑在于顺序。",
+      "fullZh": "逻辑在于顺序。",
       "phrases": ["The logic is about order."],
       "zhPhrases": ["逻辑在于顺序。"]
     },
     {
       "translation": "补贴农民只会吸引那些本来就想务农的人。",
+      "fullZh": "补贴农民只会吸引那些本来就想务农的人。",
       "phrases": ["Subsidizing farmers", "only attracts people", "who already want to farm."],
       "zhPhrases": ["补贴农民", "只会吸引那些", "本来就想务农的人。"]
     },
     {
       "translation": "引入商店需要村庄还不存在的顾客基础。",
+      "fullZh": "引入商店需要村庄还不存在的顾客基础。",
       "phrases": ["Bringing in shops", "needs a customer base", "that the village", "does not yet have."],
       "zhPhrases": ["引入商店，", "需要一个顾客基础，", "而村庄", "还不具备。"]
     },
     {
       "translation": "两者都陷入同一个陷阱：服务弱的地方人不会搬去，人少的地方服务也不会出现。",
+      "fullZh": "两者都陷入同一个陷阱：服务弱的地方人不会搬去，人少的地方服务也不会出现。",
       "phrases": ["Both run into", "the same trap:", "people will not move", "where services are weak,", "and services do not appear", "where people are few."],
       "zhPhrases": ["两者都陷入", "同一个陷阱：", "人们不会搬去", "服务薄弱的地方，", "服务也不会出现在", "人少的地方。"]
     },
     {
       "translation": "公共服务能打破这个循环，因为政府可以不等市场就开始建。",
+      "fullZh": "公共服务能打破这个循环，因为政府可以不等市场就开始建。",
       "phrases": ["Public services break this loop,", "because a government can build them", "without waiting for the market."],
       "zhPhrases": ["公共服务能打破这个循环，", "因为政府可以建起它们，", "而无需等待市场。"]
     },
     {
       "translation": "一旦一个村子有了好学校、可靠诊所、快速网络，新类型的居民就成为可能——远程工作者、退休者、厌倦城市成本的年轻家庭。",
+      "fullZh": "一旦一个村子有了好学校、可靠诊所、快速网络，新类型的居民就成为可能——远程工作者、退休者、厌倦城市成本的年轻家庭。",
       "phrases": ["Once a village has", "a good school,", "a reliable clinic,", "and fast internet,", "a new kind of resident", "becomes possible —", "remote workers,", "retirees,", "and young families", "tired of city costs."],
       "zhPhrases": ["一旦一个村子有了", "好学校、", "可靠的诊所，", "以及快速网络，", "新类型的居民", "就成为可能——", "远程工作者、", "退休者，", "以及年轻家庭——", "厌倦城市高成本的。"]
     },
     {
       "translation": "美国的塔尔萨把一万美元的补贴和更好的光纤结合，三年里吸引了三千多名专业人士。",
+      "fullZh": "美国的塔尔萨把一万美元的补贴和更好的光纤结合，三年里吸引了三千多名专业人士。",
       "phrases": ["Tulsa in the United States", "paired a $10,000 grant", "with better fiber optics", "and drew more than three thousand professionals", "in three years."],
-      "zhPhrases": ["美国的塔尔萨", "把一万美元的补贴", "与更好的光纤结合，", "吸引了三千多名专业人士，", "就在三年之内。"]
+      "zhPhrases": ["美国的塔尔萨", "把一万美元的补贴", "与更好的光纤结合，", "吸引了三千多名专业人士，", "在三年之内。"]
     },
     {
       "translation": "几个空心化的西班牙小镇以同样的方式重获生机。",
+      "fullZh": "几个空心化的西班牙小镇以同样的方式重获生机。",
       "phrases": ["Several empty Spanish towns", "came back to life", "the same way."],
-      "zhPhrases": ["几个空心化的西班牙小镇", "重获生机，", "用的正是同样的方式。"]
+      "zhPhrases": ["几个空心化的西班牙小镇", "重获生机，", "以同样的方式。"]
     },
     {
       "translation": "先把底建好。只要有留下来的理由，商店、工作甚至农场都会跟上。",
+      "fullZh": "先把底建好。只要有留下来的理由，商店、工作甚至农场都会跟上。",
       "phrases": ["Build the base first.", "Shops, jobs, and even farms", "will follow", "once there is a reason", "to live there."],
       "zhPhrases": ["先把底建好。", "商店、工作甚至农场，", "都会跟上，", "只要有一个理由", "让人留下来。"]
     }

@@ -3,51 +3,61 @@
   "lessons": [
     {
       "translation": "Claire 说饮食最重要，Paul 说定期体检最重要。两者都有用，但我认为最重要的习惯是每晚睡好。",
+      "fullZh": "Claire 说饮食最重要，Paul 说定期体检最重要。两者都有用，但我认为最重要的习惯是每晚睡好。",
       "phrases": ["Claire says", "a good diet matters most,", "Paul says", "regular checkups matter most.", "Both are useful,", "but I believe", "the one habit that matters most", "is sleeping well every night."],
       "zhPhrases": ["Claire 说", "均衡饮食最重要，", "Paul 说", "定期体检最重要。", "两者都有用，", "但我认为", "最重要的那个习惯", "是每晚睡好。"]
     },
     {
       "translation": "睡眠不只是众多健康习惯之一，它是让其他习惯真正生效的底层。",
+      "fullZh": "睡眠不只是众多健康习惯之一，它是让其他习惯真正生效的底层。",
       "phrases": ["Sleep is not just", "one healthy habit", "among many.", "It is the base layer", "that lets the other habits", "actually do their job."],
-      "zhPhrases": ["睡眠不只是", "一种健康习惯，", "众多之中的一个。", "它是那个底层，", "让其他习惯", "真正发挥作用。"]
+      "zhPhrases": ["睡眠不只是", "一种健康习惯", "众多之中的一个。", "它是那个底层，", "让其他习惯", "真正发挥作用。"]
     },
     {
       "translation": "先想想 Claire 的观点。均衡饮食给身体提供原料，但睡眠不足时饥饿激素就会失衡，身体也无法好好处理食物。",
+      "fullZh": "先想想 Claire 的观点。均衡饮食给身体提供原料，但睡眠不足时饥饿激素就会失衡，身体也无法好好处理食物。",
       "phrases": ["Think about Claire's point first.", "A balanced diet", "gives the body", "its raw materials.", "But when we do not sleep enough,", "the hunger hormones", "go out of balance", "and the body", "does not process food well."],
-      "zhPhrases": ["先想想 Claire 的观点。", "均衡饮食", "给身体提供", "所需的原料。", "但当我们睡眠不足时，", "饥饿激素", "就会失衡，", "身体", "也无法好好处理食物。"]
+      "zhPhrases": ["先想想 Claire 的观点。", "均衡饮食", "给身体提供", "它的原料。", "但当我们睡眠不足时，", "饥饿激素", "就会失衡，", "身体", "无法好好处理食物。"]
     },
     {
       "translation": "在睡眠差的情况下，健康食物也帮不上太多忙。",
+      "fullZh": "在睡眠差的情况下，健康食物也帮不上太多忙。",
       "phrases": ["Even healthy food", "cannot help much", "on top of bad sleep."],
-      "zhPhrases": ["即使是健康食物，", "也帮不上太多忙，", "在糟糕的睡眠之上。"]
+      "zhPhrases": ["即使是健康食物", "也帮不上太多忙，", "在睡眠不足的情况下。"]
     },
     {
       "translation": "Paul 的观点也有同样的问题。体检能早发现，但很多现代疾病——高血压、二型糖尿病、记忆力衰退——都生长于多年的睡眠不足之中。",
+      "fullZh": "Paul 的观点也有同样的问题。体检能早发现，但很多现代疾病——高血压、二型糖尿病、记忆力衰退——都生长于多年的睡眠不足之中。",
       "phrases": ["Paul's idea has", "the same problem.", "A checkup can find something early,", "but many modern diseases —", "high blood pressure,", "type-2 diabetes,", "memory loss —", "grow out of", "years of poor sleep."],
-      "zhPhrases": ["Paul 的观点", "也有同样的问题。", "体检能早发现问题，", "但许多现代疾病——", "高血压、", "二型糖尿病、", "记忆力衰退——", "都生长于", "多年的睡眠不足。"]
+      "zhPhrases": ["Paul 的观点有", "同样的问题。", "体检能早发现问题，", "但许多现代疾病——", "高血压、", "二型糖尿病、", "记忆力衰退——", "都生长于", "多年的睡眠不足。"]
     },
     {
       "translation": "年度体检能抓到它们，却无法逆转它们。",
+      "fullZh": "年度体检能抓到它们，却无法逆转它们。",
       "phrases": ["A yearly visit", "can catch them", "but cannot undo them."],
       "zhPhrases": ["年度体检", "能抓到它们，", "但无法逆转它们。"]
     },
     {
       "translation": "相比之下，睡眠让身体持续运转。",
+      "fullZh": "相比之下，睡眠让身体持续运转。",
       "phrases": ["Sleep, by contrast,", "keeps the body running."],
-      "zhPhrases": ["相比之下，睡眠，", "让身体持续运转。"]
+      "zhPhrases": ["睡眠，相比之下，", "让身体持续运转。"]
     },
     {
       "translation": "深度睡眠时，大脑清除废物，免疫系统重建，肌肉也得到修复。",
+      "fullZh": "深度睡眠时，大脑清除废物，免疫系统重建，肌肉也得到修复。",
       "phrases": ["During deep sleep,", "the brain clears out waste,", "the immune system rebuilds,", "and muscles repair."],
       "zhPhrases": ["在深度睡眠期间，", "大脑清除废物，", "免疫系统重建，", "肌肉得到修复。"]
     },
     {
       "translation": "英国 Whitehall 研究发现，每晚睡眠不足六小时的成年人，心脏病风险高出近 50%。",
+      "fullZh": "英国 Whitehall 研究发现，每晚睡眠不足六小时的成年人，心脏病风险高出近 50%。",
       "phrases": ["The Whitehall study in the UK", "found that adults", "who sleep less than six hours a night", "have nearly 50% higher", "heart-disease risk."],
-      "zhPhrases": ["英国 Whitehall 研究", "发现，那些成年人，", "每晚睡眠不足六小时的，", "面临的风险高出近 50%，", "即患心脏病的风险。"]
+      "zhPhrases": ["英国 Whitehall 研究", "发现成年人", "每晚睡眠不足六小时的，", "高出近 50% 的", "心脏病风险。"]
     },
     {
       "translation": "饮食和体检是有用的修补手段；睡眠是让一切其他东西运转的静默工作。",
+      "fullZh": "饮食和体检是有用的修补手段；睡眠是让一切其他东西运转的静默工作。",
       "phrases": ["Diet and checkups", "are useful fixes;", "sleep is the quiet work", "that keeps everything else working."],
       "zhPhrases": ["饮食和体检", "是有用的修补手段；", "睡眠是那份静默的工作，", "让其他一切得以运转。"]
     }
