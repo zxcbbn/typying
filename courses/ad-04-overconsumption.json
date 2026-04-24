@@ -3,56 +3,67 @@
   "lessons": [
     {
       "translation": "我同意 Paul，过度消费已成为严重问题，但我会把责任放到别的地方。",
+      "fullZh": "我同意 Paul，过度消费已成为严重问题，但我会把责任放到别的地方。",
       "phrases": ["I agree with Paul", "that over-consumption", "has become a serious problem,", "but I would put the blame", "in a different place."],
       "zhPhrases": ["我同意 Paul，", "过度消费", "已成为严重问题，", "但我会把责任", "放到别的地方。"]
     },
     {
       "translation": "Claire 说大多数人只买自己需要的，我认为这对许多个体而言确实如此。",
+      "fullZh": "Claire 说大多数人只买自己需要的，我认为这对许多个体而言确实如此。",
       "phrases": ["Claire says", "most people only buy", "what they need,", "and I think", "that is actually true", "of many individuals."],
       "zhPhrases": ["Claire 说", "大多数人只买", "自己需要的，", "我认为", "这其实是真的，", "对许多个体而言。"]
     },
     {
       "translation": "这正是我们应该停止谈贪婪、开始谈制度的原因。",
+      "fullZh": "这正是我们应该停止谈贪婪、开始谈制度的原因。",
       "phrases": ["That is exactly why", "we should stop talking about greed", "and start talking about the system."],
       "zhPhrases": ["这正是为什么", "我们该停止谈论贪婪，", "开始谈论制度。"]
     },
     {
       "translation": "现代购物被设计成拉人入局。",
+      "fullZh": "现代购物被设计成拉人入局。",
       "phrases": ["Modern shopping", "is designed", "to pull people in."],
       "zhPhrases": ["现代购物", "被设计成", "拉人入局。"]
     },
     {
       "translation": "快时尚品牌每周推新款，手机被设计成两年后变慢，我们屏幕上每个 app 都在试图把注意力变成购买。",
+      "fullZh": "快时尚品牌每周推新款，手机被设计成两年后变慢，我们屏幕上每个 app 都在试图把注意力变成购买。",
       "phrases": ["Fast-fashion brands", "drop new items every week,", "phones are built", "to slow down after two years,", "and every app on our screen", "is trying to turn", "our attention", "into a purchase."],
       "zhPhrases": ["快时尚品牌", "每周推新款，", "手机被设计成", "两年后变慢，", "而我们屏幕上的每个 app", "都在试图把", "我们的注意力", "变成一次购买。"]
     },
     {
       "translation": "在这样的压力下，即使一个口口声声说「我只买需要的」的人，最终也会每隔一年半就换一部还能用的手机，穿十次就把衣服扔掉。",
+      "fullZh": "在这样的压力下，即使一个口口声声说「我只买需要的」的人，最终也会每隔一年半就换一部还能用的手机，穿十次就把衣服扔掉。",
       "phrases": ["Under this kind of pressure,", "even a person who thinks", "\"I only buy what I need\"", "still ends up", "replacing a working phone", "every year and a half", "and throwing away clothes", "after ten wears."],
-      "zhPhrases": ["在这样的压力下，", "即使一个人心里想着", "「我只买需要的」，", "最终还是会", "换掉一部还能用的手机，", "每隔一年半，", "并且把衣服扔掉，", "只穿了十次之后。"]
+      "zhPhrases": ["在这样的压力下，", "即使一个人想着", "「我只买需要的」，", "最终还是会", "换掉一部还能用的手机，", "每隔一年半，", "并且把衣服扔掉，", "在穿了十次之后。"]
     },
     {
       "translation": "每个选择都觉得正常。加在一起，结果是巨大的。",
+      "fullZh": "每个选择都觉得正常。加在一起，结果是巨大的。",
       "phrases": ["Each choice feels normal.", "Added up,", "the result is huge."],
-      "zhPhrases": ["每个选择都觉得正常。", "加在一起，", "结果却是巨大的。"]
+      "zhPhrases": ["每个选择都觉得正常。", "加在一起，", "结果是巨大的。"]
     },
     {
       "translation": "浪费清楚地说明了这一规模。",
+      "fullZh": "浪费清楚地说明了这一规模。",
       "phrases": ["The waste shows", "this scale clearly."],
-      "zhPhrases": ["浪费展示出", "这一规模之清晰。"]
+      "zhPhrases": ["浪费显示出", "这一规模，清楚地。"]
     },
     {
       "translation": "布料填埋场、电子垃圾、运输污染，这些规模太大，不可能只来自富人。",
+      "fullZh": "布料填埋场、电子垃圾、运输污染，这些规模太大，不可能只来自富人。",
       "phrases": ["Cloth landfills,", "electronic waste,", "and shipping pollution", "are far too large", "to come from rich people alone."],
       "zhPhrases": ["布料填埋场、", "电子垃圾，", "以及运输污染，", "规模太大，", "不可能只来自富人。"]
     },
     {
       "translation": "它们来自整个经济通过让我们不断换新来维持增长的方式。",
+      "fullZh": "它们来自整个经济通过让我们不断换新来维持增长的方式。",
       "phrases": ["They come from", "the whole way the economy", "keeps growing", "by making us turn things over."],
-      "zhPhrases": ["它们来自于", "整个经济的运作方式，", "这种经济持续增长，", "靠的是让我们不断换新。"]
+      "zhPhrases": ["它们来自于", "整个方式，经济", "持续增长，", "通过让我们不断换新。"]
     },
     {
       "translation": "所以是的，过度消费很严重，根源是制度，不是消费者。",
+      "fullZh": "所以是的，过度消费很严重，根源是制度，不是消费者。",
       "phrases": ["So yes,", "over-consumption is serious,", "and the root", "is the system,", "not the shopper."],
       "zhPhrases": ["所以是的，", "过度消费很严重，", "而根源", "在于制度，", "不在于消费者。"]
     }

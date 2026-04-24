@@ -3,61 +3,73 @@
   "lessons": [
     {
       "translation": "我的观点是：文化全球化本身既不好也不坏。",
+      "fullZh": "我的观点是：文化全球化本身既不好也不坏。",
       "phrases": ["My view is that", "cultural globalization is not good or bad", "by itself."],
-      "zhPhrases": ["我的观点是：", "文化全球化并无好坏之分，", "就其本身而言。"]
+      "zhPhrases": ["我的观点是：", "文化全球化并不好也不坏，", "就其本身而言。"]
     },
     {
       "translation": "本地传统从中获益还是受损，取决于一件事：当这个文化被写进全球故事时，它是自己还握着笔，还是别人替它在写？",
+      "fullZh": "本地传统从中获益还是受损，取决于一件事：当这个文化被写进全球故事时，它是自己还握着笔，还是别人替它在写？",
       "phrases": ["Whether a local tradition", "gains or loses from it", "depends on one thing:", "does that culture", "still hold the pen", "when it is written", "into the global story,", "or is someone else", "writing it for them?"],
       "zhPhrases": ["一个本地传统", "从中获益还是受损，", "取决于一件事：", "这个文化", "是否还握着笔，", "当它被写进", "全球故事之时，", "还是别人", "在替它书写？"]
     },
     {
       "translation": "当一个文化还掌着舵时，全球化让它更强而非更弱。",
+      "fullZh": "当一个文化还掌着舵时，全球化让它更强而非更弱。",
       "phrases": ["When a culture", "stays in charge,", "globalization makes it stronger,", "not weaker."],
       "zhPhrases": ["当一个文化", "还掌着舵时，", "全球化让它更强，", "而非更弱。"]
     },
     {
       "translation": "韩国电影先从好莱坞吸收理念，然后输出了《寄生虫》和《鱿鱼游戏》。",
+      "fullZh": "韩国电影先从好莱坞吸收理念，然后输出了《寄生虫》和《鱿鱼游戏》。",
       "phrases": ["Korean films", "first took in ideas", "from Hollywood", "and then sent out", "Parasite and Squid Game."],
       "zhPhrases": ["韩国电影", "先吸收了理念，", "来自好莱坞，", "然后输出了", "《寄生虫》和《鱿鱼游戏》。"]
     },
     {
       "translation": "日本料理走向世界的同时，本土寿司也在不断生长、演变。",
+      "fullZh": "日本料理走向世界的同时，本土寿司也在不断生长、演变。",
       "phrases": ["Japanese food", "traveled around the world", "while sushi at home", "kept growing and changing."],
-      "zhPhrases": ["日本料理", "走向了世界，", "与此同时本土寿司", "也在不断生长、演变。"]
+      "zhPhrases": ["日本料理", "走向了世界，", "而本土寿司", "不断生长、演变。"]
     },
     {
       "translation": "这两例中，更多人认识了这些传统，而本地厨师和导演正是塑造外人看法的那些人。",
+      "fullZh": "这两例中，更多人认识了这些传统，而本地厨师和导演正是塑造外人看法的那些人。",
       "phrases": ["In both cases,", "more people now know", "these traditions,", "and local chefs and directors", "were the ones shaping", "how outsiders saw them."],
       "zhPhrases": ["在这两个例子中，", "更多人如今认识了", "这些传统，", "而本地厨师和导演", "正是那些塑造着", "外人看法的人。"]
     },
     {
       "translation": "这就是 Andrew 描绘的那幅乐观画面。",
+      "fullZh": "这就是 Andrew 描绘的那幅乐观画面。",
       "phrases": ["This is the happy picture", "Andrew paints."],
       "zhPhrases": ["这就是那幅乐观的画面，", "Andrew 所描绘的。"]
     },
     {
       "translation": "Kelly 的警告也是真实的，但它发生在另一类情境里。",
+      "fullZh": "Kelly 的警告也是真实的，但它发生在另一类情境里。",
       "phrases": ["Kelly's warning is also real,", "but it happens", "in a different kind of case."],
       "zhPhrases": ["Kelly 的警告也是真实的，", "但它发生", "在另一类情境里。"]
     },
     {
       "translation": "当一个小语言没有电视、没有学校、没有市场支撑时，接触更大的语言就等于被替代掉。",
+      "fullZh": "当一个小语言没有电视、没有学校、没有市场支撑时，接触更大的语言就等于被替代掉。",
       "phrases": ["When a small language", "has no TV, no schools,", "and no market behind it,", "exposure to a bigger language", "simply replaces it."],
-      "zhPhrases": ["当一个小语言", "没有电视、没有学校，", "也没有市场的支撑，", "接触更大的语言", "就等于被直接替代。"]
+      "zhPhrases": ["当一个小语言", "没有电视、没有学校，", "也没有市场在其身后，", "接触更大的语言", "就简单地替代它。"]
     },
     {
       "translation": "安达曼原住民语言就这样失去了阵地。",
+      "fullZh": "安达曼原住民语言就这样失去了阵地。",
       "phrases": ["Indigenous Andaman speech", "lost ground this way."],
       "zhPhrases": ["安达曼原住民语言", "就这样失去了阵地。"]
     },
     {
       "translation": "这种失去不是交流本身造成的，而是由讲故事者的不平等匹配造成的。",
+      "fullZh": "这种失去不是交流本身造成的，而是由讲故事者的不平等匹配造成的。",
       "phrases": ["The loss was not caused", "by exchange itself,", "but by an unequal match", "in who got to do the telling."],
-      "zhPhrases": ["这种失去不是", "由交流本身造成的，", "而是由不平等的匹配造成，", "在于谁握住了讲故事的权利。"]
+      "zhPhrases": ["这种失去不是由", "交流本身造成的，", "而是由不平等的匹配造成，", "在谁得以进行讲述。"]
     },
     {
       "translation": "所以真正该问的不是开放还是封闭，而是笔握在谁手里。",
+      "fullZh": "所以真正该问的不是开放还是封闭，而是笔握在谁手里。",
       "phrases": ["So the right question", "is not open or close,", "but who holds the pen."],
       "zhPhrases": ["所以真正该问的", "不是开放还是封闭，", "而是笔握在谁手里。"]
     }
