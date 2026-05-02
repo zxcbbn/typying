@@ -9,6 +9,7 @@ const progressEl = $('progress')
 const selectEl = $('course-select')
 const modifierBtn = $('modifier-toggle')
 const skeletonBtn = $('skeleton-toggle')
+const navBtn = $('nav-toggle')
 const readingBtn = $('reading-toggle')
 
 // Phrase-starters that signal a modifier (prep phrase, adverbial, relative clause)
@@ -50,6 +51,7 @@ const state = {
   typed: '',
   modifierMode: localStorage.getItem('modifierMode') === '1',
   skeletonMode: localStorage.getItem('skeletonMode') === '1',
+  navMode: localStorage.getItem('navMode') === '1',
   readingMode: localStorage.getItem('readingMode') === '1',
   fullStage: false,
   readingFullView: false,
@@ -269,6 +271,47 @@ function normalize(s) {
   return s.replace(/[\s.!?,;:"']+$/g, '').trim()
 }
 
+// 打字模式下用 ← / → 跨 chunk 翻动（不必打完）
+function typingNavStep(dir) {
+  state.typed = ''
+  input.value = ''
+  const course = currentCourse()
+  const lesson = currentLesson()
+
+  if (state.fullStage) {
+    if (dir > 0) {
+      state.fullStage = false
+      if (state.lessonIdx < course.lessons.length - 1) {
+        state.lessonIdx++
+        state.phraseIdx = 0
+        saveProgress()
+      }
+    } else {
+      state.fullStage = false
+      state.phraseIdx = lesson.phrases.length - 1
+    }
+    render()
+    return
+  }
+
+  if (dir > 0) {
+    if (state.phraseIdx < lesson.phrases.length - 1) {
+      state.phraseIdx++
+    } else {
+      state.fullStage = true
+    }
+  } else {
+    if (state.phraseIdx > 0) {
+      state.phraseIdx--
+    } else if (state.lessonIdx > 0) {
+      state.lessonIdx--
+      state.phraseIdx = currentLesson().phrases.length - 1
+      saveProgress()
+    }
+  }
+  render()
+}
+
 function readingStep(dir) {
   const course = currentCourse()
   const lesson = currentLesson()
@@ -378,6 +421,11 @@ document.addEventListener('keydown', (e) => {
     }
     return
   }
+  if (state.navMode && (e.key === 'ArrowLeft' || e.key === 'ArrowRight')) {
+    e.preventDefault()
+    typingNavStep(e.key === 'ArrowRight' ? 1 : -1)
+    return
+  }
   if (inModifierPause()) {
     if (e.key === 'Enter' || e.key === ' ') {
       e.preventDefault()
@@ -408,7 +456,7 @@ document.addEventListener('keydown', (e) => {
 })
 
 document.addEventListener('click', (e) => {
-  const navBtns = [selectEl, modifierBtn, skeletonBtn, readingBtn]
+  const navBtns = [selectEl, modifierBtn, skeletonBtn, navBtn, readingBtn]
   if (navBtns.includes(e.target)) return
   if (state.readingMode) {
     readingStep(e.clientX < window.innerWidth / 2 ? -1 : 1)
@@ -427,12 +475,14 @@ selectEl.addEventListener('change', () => {
   render()
 })
 
-// 修饰 / 骨架 / 阅读 三个模式互斥
+// 修饰 / 骨架 / 阅读 三个模式互斥；导航独立可叠加（与阅读冲突时阅读自管 ← →）
 function applyModes() {
   modifierBtn.classList.toggle('active', state.modifierMode)
   modifierBtn.title = state.modifierMode ? '修饰模式：已开启（介词/从句自动跳过）' : '开启修饰模式'
   skeletonBtn.classList.toggle('active', state.skeletonMode)
   skeletonBtn.title = state.skeletonMode ? '骨架模式：已开启（修饰只打首词）' : '开启骨架模式'
+  navBtn.classList.toggle('active', state.navMode)
+  navBtn.title = state.navMode ? '导航模式：已开启（← → 跨 chunk）' : '开启 ← → 导航'
   readingBtn.classList.toggle('active', state.readingMode)
   readingBtn.title = state.readingMode ? '阅读模式：已开启（← → 翻页）' : '开启阅读模式'
   document.body.classList.toggle('reading-active', state.readingMode)
@@ -460,6 +510,12 @@ function setMode(key) {
 modifierBtn.addEventListener('click', () => setMode('modifierMode'))
 skeletonBtn.addEventListener('click', () => setMode('skeletonMode'))
 readingBtn.addEventListener('click', () => setMode('readingMode'))
+navBtn.addEventListener('click', () => {
+  state.navMode = !state.navMode
+  localStorage.setItem('navMode', state.navMode ? '1' : '0')
+  applyModes()
+  input.focus()
+})
 
 // 主题切换
 const themeBtn = document.getElementById('theme-toggle')
