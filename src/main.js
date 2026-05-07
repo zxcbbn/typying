@@ -10,6 +10,7 @@ const selectEl = $('course-select')
 const modifierBtn = $('modifier-toggle')
 const skeletonBtn = $('skeleton-toggle')
 const navBtn = $('nav-toggle')
+const silentBtn = $('silent-toggle')
 const readingBtn = $('reading-toggle')
 
 // Phrase-starters that signal a modifier (prep phrase, adverbial, relative clause)
@@ -52,6 +53,7 @@ const state = {
   modifierMode: localStorage.getItem('modifierMode') === '1',
   skeletonMode: localStorage.getItem('skeletonMode') === '1',
   navMode: localStorage.getItem('navMode') === '1',
+  silentMode: localStorage.getItem('silentMode') === '1',
   readingMode: localStorage.getItem('readingMode') === '1',
   fullStage: false,
   readingFullView: false,
@@ -193,6 +195,32 @@ function render() {
 
     input.value = ''
     state.typed = ''
+    return
+  }
+
+  // 默写模式：完全无中文译文、无未输入英文提示；slots 只显示进度
+  if (state.silentMode) {
+    translationEl.innerHTML = ''
+    progressEl.textContent = `${state.lessonIdx + 1} / ${course.lessons.length}`
+    slotsEl.innerHTML = phrases.map((p, i) => {
+      let cls = `slot slot-type-${chunkType(p)}`
+      if (state.fullStage || i < phraseIdx) cls += ' slot-done'
+      else if (i === phraseIdx) cls += ' slot-active'
+      return `<span class="${cls}" style="width:${Math.max(p.length * 9, 32)}px"></span>`
+    }).join('')
+
+    const target = state.fullStage ? lesson.phrases.join(' ') : rawChunk()
+    const typed = state.typed
+    let html = `<span class="silent-tag">${state.fullStage ? '默写整句' : '默写'}</span>`
+    for (let i = 0; i < typed.length; i++) {
+      const expected = target[i]
+      const actual = typed[i]
+      const ok = actual === expected
+      const display = actual === ' ' ? '&nbsp;' : escapeHtml(actual)
+      html += `<span class="${ok ? 'ok' : 'err'}">${display}</span>`
+    }
+    html += '<span class="caret"></span>'
+    answerEl.innerHTML = html
     return
   }
 
@@ -456,7 +484,7 @@ document.addEventListener('keydown', (e) => {
 })
 
 document.addEventListener('click', (e) => {
-  const navBtns = [selectEl, modifierBtn, skeletonBtn, navBtn, readingBtn]
+  const navBtns = [selectEl, modifierBtn, skeletonBtn, navBtn, silentBtn, readingBtn]
   if (navBtns.includes(e.target)) return
   if (state.readingMode) {
     readingStep(e.clientX < window.innerWidth / 2 ? -1 : 1)
@@ -475,7 +503,7 @@ selectEl.addEventListener('change', () => {
   render()
 })
 
-// 修饰 / 骨架 / 阅读 三个模式互斥；导航独立可叠加（与阅读冲突时阅读自管 ← →）
+// 修饰 / 骨架 / 默写 / 阅读 互斥；导航独立可叠加
 function applyModes() {
   modifierBtn.classList.toggle('active', state.modifierMode)
   modifierBtn.title = state.modifierMode ? '修饰模式：已开启（介词/从句自动跳过）' : '开启修饰模式'
@@ -483,6 +511,8 @@ function applyModes() {
   skeletonBtn.title = state.skeletonMode ? '骨架模式：已开启（修饰只打首词）' : '开启骨架模式'
   navBtn.classList.toggle('active', state.navMode)
   navBtn.title = state.navMode ? '导航模式：已开启（← → 跨 chunk）' : '开启 ← → 导航'
+  silentBtn.classList.toggle('active', state.silentMode)
+  silentBtn.title = state.silentMode ? '默写模式：已开启（无任何提示）' : '开启默写模式（无任何提示）'
   readingBtn.classList.toggle('active', state.readingMode)
   readingBtn.title = state.readingMode ? '阅读模式：已开启（← → 翻页）' : '开启阅读模式'
   document.body.classList.toggle('reading-active', state.readingMode)
@@ -493,12 +523,14 @@ function setMode(key) {
   const next = !state[key]
   state.modifierMode = false
   state.skeletonMode = false
+  state.silentMode = false
   state.readingMode = false
   state[key] = next
   state.fullStage = false
   state.readingFullView = false
   localStorage.setItem('modifierMode', state.modifierMode ? '1' : '0')
   localStorage.setItem('skeletonMode', state.skeletonMode ? '1' : '0')
+  localStorage.setItem('silentMode', state.silentMode ? '1' : '0')
   localStorage.setItem('readingMode', state.readingMode ? '1' : '0')
   state.typed = ''
   input.value = ''
@@ -509,6 +541,7 @@ function setMode(key) {
 
 modifierBtn.addEventListener('click', () => setMode('modifierMode'))
 skeletonBtn.addEventListener('click', () => setMode('skeletonMode'))
+silentBtn.addEventListener('click', () => setMode('silentMode'))
 readingBtn.addEventListener('click', () => setMode('readingMode'))
 navBtn.addEventListener('click', () => {
   state.navMode = !state.navMode

@@ -60,13 +60,13 @@ body.light {
 }
 .tab.active { color: var(--fg); border-bottom-color: var(--accent); }
 
-#modifier-toggle, #skeleton-toggle, #nav-toggle, #reading-toggle {
+#modifier-toggle, #skeleton-toggle, #nav-toggle, #silent-toggle, #reading-toggle {
   background: none; border: 1px solid var(--border);
   color: var(--muted); font-size: 12px; cursor: pointer;
   padding: 3px 8px; border-radius: 6px; letter-spacing: 0.5px;
   touch-action: manipulation;
 }
-#modifier-toggle:hover, #skeleton-toggle:hover, #nav-toggle:hover, #reading-toggle:hover { color: var(--fg); border-color: var(--accent); }
+#modifier-toggle:hover, #skeleton-toggle:hover, #nav-toggle:hover, #silent-toggle:hover, #reading-toggle:hover { color: var(--fg); border-color: var(--accent); }
 #modifier-toggle.active {
   color: var(--accent); border-color: var(--accent);
   background: color-mix(in srgb, var(--accent) 12%, transparent);
@@ -87,6 +87,21 @@ body.light #nav-toggle.active {
   color: #ea580c; border-color: #ea580c;
   background: color-mix(in srgb, #ea580c 12%, transparent);
 }
+#silent-toggle.active {
+  color: #f43f5e; border-color: #f43f5e;
+  background: color-mix(in srgb, #f43f5e 12%, transparent);
+}
+body.light #silent-toggle.active {
+  color: #be123c; border-color: #be123c;
+  background: color-mix(in srgb, #be123c 12%, transparent);
+}
+.silent-tag {
+  display: inline-block; font-size: 11px; font-family: inherit;
+  color: #f43f5e; border: 1px solid #f43f5e;
+  border-radius: 4px; padding: 1px 5px; margin-right: 6px;
+  vertical-align: middle; opacity: 0.8;
+}
+body.light .silent-tag { color: #be123c; border-color: #be123c; }
 #reading-toggle.active {
   color: var(--ok); border-color: var(--ok);
   background: color-mix(in srgb, var(--ok) 12%, transparent);
